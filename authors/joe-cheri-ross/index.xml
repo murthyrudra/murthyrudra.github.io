@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joe Cheri Ross on Rudra Murthy</title>
+    <link>https://murthyrudra.github.io/authors/joe-cheri-ross/</link>
+    <description>Recent content in Joe Cheri Ross on Rudra Murthy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://murthyrudra.github.io/authors/joe-cheri-ross/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Identifying Raga Similarity in Hindustani Classical Music through Distributed Representation of Raga Names</title>
+      <link>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
