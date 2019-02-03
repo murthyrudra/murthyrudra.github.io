@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Multilingual learning for Neural Named Entity Recognition (NNER) involves jointly training a neural network for multiple languages. Typically, the goal is improving the NER performance of one of the languages (the primary language) using the other assisting languages. We show that the divergence in the tag distributions of the common named entities between the primary and assisting languages can reduce the effectiveness of multilingual learning. To alleviate this problem, we propose a metric based on symmetric KL divergence to filter out the highly divergent training instances in the assisting language. We empirically show that our data selection strategy improves NER performance in many languages, including those with very limited training data.">
+  <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://murthyrudra.github.io/publication/p-18-2064/">
+  <link rel="alternate" hreflang="en-us" href="https://murthyrudra.github.io/publication/low-resource-tallip/">
 
   
 
@@ -105,7 +105,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://murthyrudra.github.io/publication/p-18-2064/">
+  <link rel="canonical" href="https://murthyrudra.github.io/publication/low-resource-tallip/">
 
   
   
@@ -117,12 +117,12 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Rudra Murthy">
-  <meta property="og:url" content="https://murthyrudra.github.io/publication/p-18-2064/">
-  <meta property="og:title" content="Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER | Rudra Murthy">
-  <meta property="og:description" content="Multilingual learning for Neural Named Entity Recognition (NNER) involves jointly training a neural network for multiple languages. Typically, the goal is improving the NER performance of one of the languages (the primary language) using the other assisting languages. We show that the divergence in the tag distributions of the common named entities between the primary and assisting languages can reduce the effectiveness of multilingual learning. To alleviate this problem, we propose a metric based on symmetric KL divergence to filter out the highly divergent training instances in the assisting language. We empirically show that our data selection strategy improves NER performance in many languages, including those with very limited training data."><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://murthyrudra.github.io/publication/low-resource-tallip/">
+  <meta property="og:title" content="Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning | Rudra Murthy">
+  <meta property="og:description" content=""><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-01-01T00:00:00&#43;05:30">
+  <meta property="article:published_time" content="2019-01-01T00:00:00&#43;05:30">
   
   <meta property="article:modified_time" content="2019-02-03T23:44:25&#43;05:30">
   
@@ -131,7 +131,7 @@
 
   
 
-  <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER | Rudra Murthy</title>
+  <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning | Rudra Murthy</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -330,7 +330,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</h1>
+  <h1 itemprop="name">Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</h1>
 
   
 
@@ -338,7 +338,7 @@
     
 
 
-<meta content="2018-01-01 00:00:00 &#43;0530 IST" itemprop="datePublished">
+<meta content="2019-01-01 00:00:00 &#43;0530 IST" itemprop="datePublished">
 <meta content="2019-02-03 23:44:25 &#43;0530 IST" itemprop="dateModified">
 
 <div class="article-metadata">
@@ -355,7 +355,7 @@
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
-        <a href="/authors/anoop-kunchukuttan/">Anoop Kunchukuttan</a>
+        <a href="/authors/mitesh-khapra/">Mitesh Khapra</a>
       </span>
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
@@ -374,7 +374,7 @@
     
       
     
-    <time>January 2018</time>
+    <time>January 2019</time>
   </span>
   
 
@@ -391,35 +391,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Judicious%20Selection%20of%20Training%20Data%20in%20Assisting%20Language%20for%20Multilingual%20Neural%20NER&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fp-18-2064%2f"
+         href="https://twitter.com/intent/tweet?text=Improving%20NER%20Tagging%20Performance%20in%20Low-Resource%20Languages%20via%20Multilingual%20Learning&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2flow-resource-tallip%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fp-18-2064%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2flow-resource-tallip%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fp-18-2064%2f&amp;title=Judicious%20Selection%20of%20Training%20Data%20in%20Assisting%20Language%20for%20Multilingual%20Neural%20NER"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2flow-resource-tallip%2f&amp;title=Improving%20NER%20Tagging%20Performance%20in%20Low-Resource%20Languages%20via%20Multilingual%20Learning"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fp-18-2064%2f&amp;title=Judicious%20Selection%20of%20Training%20Data%20in%20Assisting%20Language%20for%20Multilingual%20Neural%20NER"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2flow-resource-tallip%2f&amp;title=Improving%20NER%20Tagging%20Performance%20in%20Low-Resource%20Languages%20via%20Multilingual%20Learning"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Judicious%20Selection%20of%20Training%20Data%20in%20Assisting%20Language%20for%20Multilingual%20Neural%20NER&amp;body=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fp-18-2064%2f">
+         href="mailto:?subject=Improving%20NER%20Tagging%20Performance%20in%20Low-Resource%20Languages%20via%20Multilingual%20Learning&amp;body=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2flow-resource-tallip%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -461,18 +461,12 @@
 
 
   
-    
-  
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="http://aclweb.org/anthology/P18-2064" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/p-18-2064/p-18-2064.bib">
+        data-filename="/publication/low-resource-tallip/low-resource-tallip.bib">
   Cite
 </button>
 
@@ -501,9 +495,6 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Multilingual learning for Neural Named Entity Recognition (NNER) involves jointly training a neural network for multiple languages. Typically, the goal is improving the NER performance of one of the languages (the primary language) using the other assisting languages. We show that the divergence in the tag distributions of the common named entities between the primary and assisting languages can reduce the effectiveness of multilingual learning. To alleviate this problem, we propose a metric based on symmetric KL divergence to filter out the highly divergent training instances in the assisting language. We empirically show that our data selection strategy improves NER performance in many languages, including those with very limited training data.</p>
-    
 
     
     <div class="row">
@@ -516,8 +507,8 @@
 
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -534,7 +525,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</em></div>
+          <div class="col-12 col-md-9"><em>To Appear in TALLIP</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
