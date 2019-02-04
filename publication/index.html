@@ -270,6 +270,44 @@
         
 
         <li class="nav-item">
+          <a class="nav-link" href="/#talks">
+            
+            <span>Talks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#academic-activities">
+            
+            <span>Academic Activities</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link" href="/#contact">
             
             <span>Contact</span>
@@ -386,6 +424,11 @@
             <option value=".pubtype-2">
               
               Journal article
+            </option>
+            
+            <option value=".pubtype-3">
+              
+              Manuscript
             </option>
             
           </select>
@@ -588,7 +631,7 @@
           
         
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2018">
           
             <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
@@ -602,7 +645,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    
+    Transfer learning approaches for Neural Machine Translation (NMT) train a NMT model on the assisting-target language pair (parent model) which is later fine-tuned for the source-target language pair of interest (child model), with the target language being the same. In many cases, the assisting language has a different word order from the source language. We show that divergent word order adversely limits the benefits from transfer learning when little to no parallel corpus between the source and target language is available. To bridge this divergence, We propose to pre-order the assisting language sentence to match the word order of the source language and train the parent model. Our experiments on many language pairs show that bridging the word order gap leads to significant improvement in the translation quality.
     
   </div>
 
@@ -825,7 +868,7 @@
           
         
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2016">
           
             <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
@@ -839,7 +882,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    
+    Most state of the art approaches for Named Entity Recognition rely on hand crafted features and annotated corpora. Recently Neural network based models have been proposed which do not require handcrafted features but still require annotated corpora. However, such annotated corpora may not be available for many languages. In this paper, we propose a neural network based model which allows sharing the decoder as well as word and character level parameters between two languages thereby allowing a resource fortunate language to aid a resource deprived language. Specifically, we focus on the case when limited annotated corpora is available in one language (L1) and abundant annotated corpora is available in another language (L2). Sharing the network architecture and parameters between L1 and L2 leads to improved performance in L1. Further, our approach does not require any hand crafted features but instead directly learns meaningful feature representations from the training data itself. We experiment with 4 language pairs and show that indeed in a resource constrained setup (lesser annotated corpora), a model jointly trained with data from another language performs better than a model trained only on the limited corpora in one language.
     
   </div>
 
@@ -922,7 +965,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    
+    An acid test for any new Word Sense Disam-biguation (WSD) algorithm is its performance against the Most Frequent Sense (MFS). The field of WSD has found the MFS baseline very hard to beat. Clearly, if WSD researchers had access to MFS values, their striving to better this heuristic will push the WSD frontier. However, getting MFS values requires sense annotated corpus in enormous amounts, which is out of bounds for most languages, even if their WordNets are available. In this paper, we propose an unsupervised method for MFS detection from the untagged corpora, which exploits word embeddings. We compare the word embedding of a word with all its sense embeddings and obtain the predominant sense with the highest similarity. We observe significant performance gain for Hindi WSD over the WordNet First Sense (WFS) baseline. As for English, the SemCor baseline is bettered for those words whose frequency is greater than 2. Our approach is language and domain independent.
     
   </div>
 

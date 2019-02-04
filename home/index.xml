@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Tutorials &amp; Talks</title>
       <link>https://murthyrudra.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
@@ -90,6 +90,15 @@
       
       <guid>https://murthyrudra.github.io/home/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Activities</title>
+      <link>https://murthyrudra.github.io/home/academic-activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://murthyrudra.github.io/home/academic-activities/</guid>
+      <description> Attended Amazon Research Days Bangalore on 28th September 2018 Attended Microsoft AI Summit 2018 at IIIT Hyderabad on 21st January 2018 Conducted a training session on Deep Learning at LGSoft Bangalore in June 2017  </description>
     </item>
     
     <item>
