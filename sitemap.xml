@@ -37,7 +37,7 @@
     <url>
     
       <loc>https://murthyrudra.github.io/talk/icon-2017/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
     </url>
     
   
@@ -93,7 +93,7 @@
     <url>
     
       <loc>https://murthyrudra.github.io/talk/icon-2015/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
     </url>
     
   
@@ -169,7 +169,7 @@
     <url>
     
       <loc>https://murthyrudra.github.io/categories/deep-learning/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -204,15 +204,6 @@
     
     <url>
     
-      <loc>https://murthyrudra.github.io/tags/introduction-to-deep-learning/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://murthyrudra.github.io/authors/joe-cheri-ross/</loc>
       <lastmod>2019-02-05T21:09:35+05:30</lastmod>
       <priority>0</priority>
@@ -232,7 +223,7 @@
     <url>
     
       <loc>https://murthyrudra.github.io/authors/kevin-patel/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -241,7 +232,7 @@
     <url>
     
       <loc>https://murthyrudra.github.io/authors/md-shad-akhtar/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -258,17 +249,8 @@
     
     <url>
     
-      <loc>https://murthyrudra.github.io/tags/named-entity-recognition/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://murthyrudra.github.io/authors/prerana-singhal/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -312,17 +294,8 @@
     
     <url>
     
-      <loc>https://murthyrudra.github.io/tags/sentiment-analysis/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://murthyrudra.github.io/authors/sudha-bhingardive/</loc>
-      <lastmod>2019-02-03T23:57:44+05:30</lastmod>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -395,6 +368,15 @@
     
       <loc>https://murthyrudra.github.io/tags/pre-ordering/</loc>
       <lastmod>2019-02-05T23:59:11+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://murthyrudra.github.io/tags/sentiment-analysis/</loc>
+      <lastmod>2019-02-06T00:24:50+05:30</lastmod>
       <priority>0</priority>
     </url>
     

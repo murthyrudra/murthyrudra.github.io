@@ -21,33 +21,6 @@
     </item>
     
     <item>
-      <title>Introduction to Deep Learning</title>
-      <link>https://murthyrudra.github.io/tags/introduction-to-deep-learning/</link>
-      <pubDate>Sat, 12 Dec 2015 20:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/introduction-to-deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Named Entity Recognition</title>
-      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
-      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/named-entity-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentiment Analysis</title>
-      <link>https://murthyrudra.github.io/tags/sentiment-analysis/</link>
-      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/sentiment-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deep learning</title>
       <link>https://murthyrudra.github.io/tags/deep-learning/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
@@ -107,6 +80,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/tags/pre-ordering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment analysis</title>
+      <link>https://murthyrudra.github.io/tags/sentiment-analysis/</link>
+      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/sentiment-analysis/</guid>
       <description></description>
     </item>
     
