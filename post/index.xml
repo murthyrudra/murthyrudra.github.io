@@ -11,5 +11,15 @@
 	<atom:link href="https://murthyrudra.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Posts</title>
+      <link>https://murthyrudra.github.io/post/trekking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/post/trekking/</guid>
+      <description>I have recently gained interest in Trekking. Here is a list of trekking spots visited by me and which you should never forget to visit.
+ Tikona Fort Rajmachi Kothaligad Sagargad Raigad Fort Mahuli Fort Katraj Sinhagad Night Trek Korigad Fort Kalavantindurg  Stay Tuned for more updates</description>
+    </item>
+    
   </channel>
 </rss>
