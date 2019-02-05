@@ -476,7 +476,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    
+    Existing supervised solutions for Named Entity Recognition (NER) typically rely on a large annotated corpus. Collecting large amounts of NER annotated corpus is time-consuming and requires considerable human effort. However, collecting small amounts of annotated corpus for any language is feasible, but the performance degrades due to data sparsity. We address the data sparsity by borrowing features from the data of a closely related language. We use hierarchical neural networks to train a supervised NER system. The feature borrowing from a closely related language happens via the shared layers of the network. The neural network is trained on the combined dataset of the low-resource language and a closely related language, also termed Multilingual Learning. Unlike existing systems, we share all layers of the network between the two languages. We apply multilingual learning for NER in Indian languages and empirically show the benefits over a monolingual deep learning system and a traditional machine-learning system with some feature engineering. Using multilingual learning, we show that the low-resource language NER performance increases mainly due to (1) increased named entity vocabulary, (2) cross-lingual subword features, and (3) multilingual learning playing the role of regularization.
     
   </div>
 
@@ -563,7 +563,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    
+    Multilingual  learning  for  Neural  NamedEntity    Recognition    (NNER)    involvesjointly   training   a   neural   network   formultiple languages.  Typically, the goal isimproving th    e NER performance of one ofthe languages (the primary language) us-ing the other assisting languages. We showthat the divergence in the tag distributionsof  the  common  named  entities  betweenthe  p    rimary  and  assisting  languages  canreduce  the  effectiveness  of  multilinguallearning.    To  alleviate  this  problem,  wepropose a metric based on symmetric KLdivergence  to  filter  out  the      highly  diver-gent  training  instances  in  the  assistinglanguage.   We  empirically  show  that  ourdata selection strategy improves NER per-formance  in  many  languages,  includingthose with very     limited training data.
     
   </div>
 
@@ -646,7 +646,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    
+    Transfer learning approaches for Neural Machine Translation (NMT) train a NMT model on the assisting-target language pair (parent model) which is later fine-tuned for the source-target language pair of interest (child model), with the target language being the same. In many cases, the assisting language has a different word order from the source language. We show that divergent word order adversely limits the benefits from transfer learning when little to no parallel corpus between the source and target language is available. To bridge this divergence, We propose to pre-order the assisting language sentence to match the word order of the source language and train the parent model. Our experiments on many language pairs show that bridging the word order gap leads to significant improvement in the translation quality.
     
   </div>
 
@@ -883,7 +883,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    
+    Most state of the art approaches for Named Entity Recognition rely on hand crafted features and annotated corpora. Recently Neural network based models have been proposed which do not require handcrafted features but still require annotated corpora. However, such annotated corpora may not be available for many languages. In this paper, we propose a neural network based model which allows sharing the decoder as well as word and character level parameters between two languages thereby allowing a resource fortunate language to aid a resource deprived language. Specifically, we focus on the case when limited annotated corpora is available in one language (L1) and abundant annotated corpora is available in another language (L2). Sharing the network architecture and parameters between L1 and L2 leads to improved performance in L1. Further, our approach does not require any hand crafted features but instead directly learns meaningful feature representations from the training data itself. We experiment with 4 language pairs and show that indeed in a resource constrained setup (lesser annotated corpora), a model jointly trained with data from another language performs better than a model trained only on the limited corpora in one language.
     
   </div>
 

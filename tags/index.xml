@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Rudra Murthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://murthyrudra.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Indian languages</title>
       <link>https://murthyrudra.github.io/tags/indian-languages/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/tags/indian-languages/</guid>
       <description></description>
@@ -39,33 +39,6 @@
     </item>
     
     <item>
-      <title>Named entity recognition</title>
-      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/named-entity-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Machine Translation</title>
-      <link>https://murthyrudra.github.io/tags/neural-machine-translation/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/neural-machine-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pre-Ordering</title>
-      <link>https://murthyrudra.github.io/tags/pre-ordering/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/pre-ordering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sentiment Analysis</title>
       <link>https://murthyrudra.github.io/tags/sentiment-analysis/</link>
       <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
@@ -75,29 +48,20 @@
     </item>
     
     <item>
-      <title>Word Embeddings</title>
-      <link>https://murthyrudra.github.io/tags/word-embeddings/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/word-embeddings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Word Sense Disambiguation</title>
-      <link>https://murthyrudra.github.io/tags/word-sense-disambiguation/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/word-sense-disambiguation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deep learning</title>
       <link>https://murthyrudra.github.io/tags/deep-learning/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indian languages</title>
+      <link>https://murthyrudra.github.io/tags/indian-languages/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/indian-languages/</guid>
       <description></description>
     </item>
     
@@ -116,6 +80,51 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/tags/multilingual-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>named entity recognition</title>
+      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/named-entity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural machine translation</title>
+      <link>https://murthyrudra.github.io/tags/neural-machine-translation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pre-Ordering</title>
+      <link>https://murthyrudra.github.io/tags/pre-ordering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/pre-ordering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word embeddings</title>
+      <link>https://murthyrudra.github.io/tags/word-embeddings/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word sense disambiguation</title>
+      <link>https://murthyrudra.github.io/tags/word-sense-disambiguation/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/word-sense-disambiguation/</guid>
       <description></description>
     </item>
     
