@@ -426,11 +426,6 @@
               Journal article
             </option>
             
-            <option value=".pubtype-3">
-              
-              Manuscript
-            </option>
-            
           </select>
         </div>
         <div class="col-auto">
@@ -438,10 +433,6 @@
             <option value="*">All</option>
             
             
-            
-            <option value=".year-2019">
-              2019
-            </option>
             
             <option value=".year-2018">
               2018
@@ -471,7 +462,7 @@
           
         
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
           
             <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
@@ -491,15 +482,15 @@
 
   <div class="pub-authors" itemprop="author">
     
-    Rudra Murthy, Mitesh Khapra, Pushpak Bhattacharyya
+    Rudra Murthy, Mitesh M. Khapra, Pushpak Bhattacharyya
     
   </div>
 
   <div class="pub-publication">
     
-    <em>To Appear in TALLIP</em>,
+    <em>ACM Trans. Asian Low-Resour. Lang. Inf. Process.</em>,
     
-    2019
+    2018
   </div>
 
   <div class="btn-links">
@@ -512,7 +503,13 @@
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://doi.acm.org/10.1145/3238797" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -532,6 +529,10 @@
 
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3238797" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 
@@ -562,7 +563,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    Multilingual learning for Neural Named Entity Recognition (NNER) involves jointly training a neural network for multiple languages. Typically, the goal is improving the NER performance of one of the languages (the primary language) using the other assisting languages. We show that the divergence in the tag distributions of the common named entities between the primary and assisting languages can reduce the effectiveness of multilingual learning. To alleviate this problem, we propose a metric based on symmetric KL divergence to filter out the highly divergent training instances in the assisting language. We empirically show that our data selection strategy improves NER performance in many languages, including those with very limited training data.
+    
     
   </div>
 
@@ -631,7 +632,7 @@
           
         
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2018">
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
           
             <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
@@ -645,7 +646,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    Transfer learning approaches for Neural Machine Translation (NMT) train a NMT model on the assisting-target language pair (parent model) which is later fine-tuned for the source-target language pair of interest (child model), with the target language being the same. In many cases, the assisting language has a different word order from the source language. We show that divergent word order adversely limits the benefits from transfer learning when little to no parallel corpus between the source and target language is available. To bridge this divergence, We propose to pre-order the assisting language sentence to match the word order of the source language and train the parent model. Our experiments on many language pairs show that bridging the word order gap leads to significant improvement in the translation quality.
+    
     
   </div>
 
@@ -868,7 +869,7 @@
           
         
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2016">
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
           
             <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
@@ -882,7 +883,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    Most state of the art approaches for Named Entity Recognition rely on hand crafted features and annotated corpora. Recently Neural network based models have been proposed which do not require handcrafted features but still require annotated corpora. However, such annotated corpora may not be available for many languages. In this paper, we propose a neural network based model which allows sharing the decoder as well as word and character level parameters between two languages thereby allowing a resource fortunate language to aid a resource deprived language. Specifically, we focus on the case when limited annotated corpora is available in one language (L1) and abundant annotated corpora is available in another language (L2). Sharing the network architecture and parameters between L1 and L2 leads to improved performance in L1. Further, our approach does not require any hand crafted features but instead directly learns meaningful feature representations from the training data itself. We experiment with 4 language pairs and show that indeed in a resource constrained setup (lesser annotated corpora), a model jointly trained with data from another language performs better than a model trained only on the limited corpora in one language.
+    
     
   </div>
 
@@ -965,7 +966,7 @@
 
   <div class="pub-abstract" itemprop="text">
     
-    An acid test for any new Word Sense Disam-biguation (WSD) algorithm is its performance against the Most Frequent Sense (MFS). The field of WSD has found the MFS baseline very hard to beat. Clearly, if WSD researchers had access to MFS values, their striving to better this heuristic will push the WSD frontier. However, getting MFS values requires sense annotated corpus in enormous amounts, which is out of bounds for most languages, even if their WordNets are available. In this paper, we propose an unsupervised method for MFS detection from the untagged corpora, which exploits word embeddings. We compare the word embedding of a word with all its sense embeddings and obtain the predominant sense with the highest similarity. We observe significant performance gain for Hindi WSD over the WordNet First Sense (WFS) baseline. As for English, the SemCor baseline is bettered for those words whose frequency is greater than 2. Our approach is language and domain independent.
+    
     
   </div>
 

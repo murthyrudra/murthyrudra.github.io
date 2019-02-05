@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Rudra Murthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2015 20:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://murthyrudra.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Indian languages</title>
+      <link>https://murthyrudra.github.io/tags/indian-languages/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/indian-languages/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Introduction to Deep Learning</title>
@@ -30,11 +39,47 @@
     </item>
     
     <item>
+      <title>Named entity recognition</title>
+      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/named-entity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sentiment Analysis</title>
       <link>https://murthyrudra.github.io/tags/sentiment-analysis/</link>
       <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://murthyrudra.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-resource languages</title>
+      <link>https://murthyrudra.github.io/tags/low-resource-languages/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/low-resource-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual learning</title>
+      <link>https://murthyrudra.github.io/tags/multilingual-learning/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/multilingual-learning/</guid>
       <description></description>
     </item>
     

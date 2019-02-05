@@ -6,10 +6,19 @@
     <description>Recent content in Mitesh M. Khapra on Rudra Murthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://murthyrudra.github.io/authors/mitesh-m.-khapra/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
+      <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sharing Network Parameters for Crosslingual Named Entity Recognition</title>

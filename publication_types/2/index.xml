@@ -6,7 +6,7 @@
     <description>Recent content in 2 on Rudra Murthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://murthyrudra.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
       <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
+      <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing Network Parameters for Crosslingual Named Entity Recognition</title>
+      <link>https://murthyrudra.github.io/publication/dblp-journalscorrvkb-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/dblp-journalscorrvkb-16/</guid>
       <description></description>
     </item>
     
