@@ -145,8 +145,17 @@
 
 &lt;h2 id=&#34;maxwell-boltzmann-distribution&#34;&gt;Maxwell-Boltzmann Distribution&lt;/h2&gt;
 
-&lt;p&gt;With the assumption that a &lt;strong&gt;word-context pair&lt;/strong&gt; follows a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&amp;#39;t mathematically defined what energy is? Energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; needs to satisfy the following property
-* Energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; should be low when they have high affinity (co-occurrence) towards each other and vice-versa&lt;/p&gt;
+&lt;p&gt;With the assumption that a &lt;strong&gt;word-context pair&lt;/strong&gt; follows a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&amp;#39;t mathematically defined what energy is? Energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; needs to satisfy the following property&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; should be low when they have high affinity (co-occurrence) towards each other and vice-versa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How do we determine the most probably energy associated with a &lt;strong&gt;word-context pairs&lt;/strong&gt;? First let us formally define the energy associated with a &lt;strong&gt;word-context pairs&lt;/strong&gt; as&lt;/p&gt;
+
+&lt;p&gt;$$\begin{align}
+E(\text{context}, \text{word}) = - vi_{\text{context}}^Tv_{\text{word}}
+\end{align} $$&lt;/p&gt;
 </description>
     </item>
     

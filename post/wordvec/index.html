@@ -499,8 +499,17 @@ Let us consider a corpus as some closed system. We care only about the particles
 
 <h2 id="maxwell-boltzmann-distribution">Maxwell-Boltzmann Distribution</h2>
 
-<p>With the assumption that a <strong>word-context pair</strong> follows a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&#39;t mathematically defined what energy is? Energy of a <strong>word-context pairs</strong> needs to satisfy the following property
-* Energy of a <strong>word-context pairs</strong> should be low when they have high affinity (co-occurrence) towards each other and vice-versa</p>
+<p>With the assumption that a <strong>word-context pair</strong> follows a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&#39;t mathematically defined what energy is? Energy of a <strong>word-context pairs</strong> needs to satisfy the following property</p>
+
+<ul>
+<li>Energy of a <strong>word-context pairs</strong> should be low when they have high affinity (co-occurrence) towards each other and vice-versa</li>
+</ul>
+
+<p>How do we determine the most probably energy associated with a <strong>word-context pairs</strong>? First let us formally define the energy associated with a <strong>word-context pairs</strong> as</p>
+
+<p>$$\begin{align}
+E(\text{context}, \text{word}) = - vi_{\text{context}}^Tv_{\text{word}}
+\end{align} $$</p>
 
     </div>
 
@@ -674,6 +683,9 @@ Let us consider a corpus as some closed system. We care only about the particles
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -691,6 +703,8 @@ Let us consider a corpus as some closed system. We care only about the particles
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
