@@ -400,7 +400,7 @@ Let us consider a corpus as some closed system. We care only about the particles
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    4 min read
   </span>
   
 
@@ -508,8 +508,45 @@ Let us consider a corpus as some closed system. We care only about the particles
 <p>How do we determine the most probably energy associated with a <strong>word-context pairs</strong>? First let us formally define the energy associated with a <strong>word-context pairs</strong> as</p>
 
 <p>$$\begin{align}
-E(\text{context}, \text{word}) = - vi_{\text{context}}^Tv_{\text{word}}
+E(\text{context}, \text{word}) = - v_{\text{context}}^Tv_{\text{word}}
 \end{align} $$</p>
+
+<p>Here, we are associating a word and it&#39;s context with a $d$ dimensional real valued vector. It would be interesting to explore a different function for calculating the energy associated with a <strong>word-context pairs</strong>. One advantage of representing a word by vector is that we can study the interaction of unseen <strong>word-context pairs</strong>.</p>
+
+<p>We are really interested in finding out the most-probable energy state of a <strong>word-context pairs</strong> in a given closed system. The probability is given by the equation
+$$ \begin{align}
+        P(\text{context}, \text{word}) = \frac{1}{Z} \exp^{-
+        E(\text{context},\text{word})}
+        \end{align}
+$$</p>
+
+<p>The goal is to estimate the parameters of the distribution by looking at the data. We use maximum likelihood to estimate the parameters. Given a corpus, we build a dataset consisting of <strong>word-context pairs</strong> where the contextual region is appropriately defined.</p>
+
+<h2 id="maximum-likelihood-estimation">Maximum Likelihood Estimation</h2>
+
+<p>Given a dataset $$ D= (w,c)$$ pairs, the goal is to maximize the probability of seeing context given the word <em>i.e,</em></p>
+
+<p>$$\begin{align}
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \sum P(c | w) \\<br />
+&amp;= \sum \frac{p(c,w)}{p(w)} \\<br />
+&amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\<br />
+\end{align}$$</p>
+
+<p>Substituting the definition of $$P(c,w)$$ we get,
+$$\begin{align}
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\<br />
+&amp;= \sum \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+\end{align}$$</p>
+
+<p>Taking log-likelihood of the objective gives,
+$$\begin{align}
+\underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;= \log \sum P(c
+| w)
+\\<br />
+&amp;= \prod \log \frac{p(c,w)}{p(w)} \\<br />
+&amp;= \prod \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+\end{align}$$
+We have now arrived at the skip-gram definition.</p>
 
     </div>
 
