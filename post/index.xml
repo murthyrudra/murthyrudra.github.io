@@ -31,15 +31,5 @@ Results    Language Dataset Link Word Embeddings Reference F1-Score     English 
  Tikona Fort Rajmachi Kothaligad Sagargad Raigad Fort Mahuli Fort Katraj Sinhagad Night Trek Korigad Fort Kalavantindurg  Stay Tuned for more updates</description>
     </item>
     
-    <item>
-      <title>Trekking</title>
-      <link>https://murthyrudra.github.io/post/wordvec/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/post/wordvec/</guid>
-      <description>If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguous. How do these words behave? Can we somehow model the behaviour of words?
-Let us consider a corpus as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies.</description>
-    </item>
-    
   </channel>
 </rss>
