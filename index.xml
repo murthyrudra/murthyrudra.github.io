@@ -25,10 +25,10 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;Language&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Dataset Link&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Dataset&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;Word Embeddings&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;Reference&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;F1-Score&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;F1 Score&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -59,7 +59,7 @@
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;German&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34; target=&#34;_blank&#34;&gt;https://nlpado.de/~sebastian/software/ner_german.shtml&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;87.64&lt;/td&gt;
@@ -67,7 +67,7 @@
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Italian&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;EVALITA 2009&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Evalita 2009&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;75.98&lt;/td&gt;
