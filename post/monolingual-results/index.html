@@ -28,10 +28,11 @@
   
     
   
-  <meta name="description" content="Transfer learning approaches for Neural Machine Translation (NMT) train a NMT model on the assisting-target language pair (parent model) which is later fine-tuned for the source-target language pair of interest (child model), with the target language being the same. In many cases, the assisting language has a different word order from the source language. We show that divergent word order adversely limits the benefits from transfer learning when little to no parallel corpus between the source and target language is available. To bridge this divergence, We propose to pre-order the assisting language sentence to match the word order of the source language and train the parent model. Our experiments on many language pairs show that bridging the word order gap leads to significant improvement in the translation quality.">
+  <meta name="description" content="The Neural NER system implemented by me as part of the papers https://murthyrudra.github.io/publication/low-resource-tallip/ and https://murthyrudra.github.io/publication/p-18-2064/ achieves the following F1-Scores on various languages.
+Results    Language Dataset Link Word Embeddings Reference F1-Score     English CoNLL 2003 Spectral Embeddings https://arxiv.org/abs/1607.00198 90.94   Spanish CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.75   Dutch CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.20   German https://nlpado.de/~sebastian/software/ner_german.shtml Spectral Embeddings https://aclanthology.info/papers/P18-2064/p18-2064 87.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/">
+  <link rel="alternate" hreflang="en-us" href="https://murthyrudra.github.io/post/monolingual-results/">
 
   
 
@@ -105,7 +106,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/">
+  <link rel="canonical" href="https://murthyrudra.github.io/post/monolingual-results/">
 
   
   
@@ -117,21 +118,22 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Rudra Murthy">
-  <meta property="og:url" content="https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/">
-  <meta property="og:title" content="Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages | Rudra Murthy">
-  <meta property="og:description" content="Transfer learning approaches for Neural Machine Translation (NMT) train a NMT model on the assisting-target language pair (parent model) which is later fine-tuned for the source-target language pair of interest (child model), with the target language being the same. In many cases, the assisting language has a different word order from the source language. We show that divergent word order adversely limits the benefits from transfer learning when little to no parallel corpus between the source and target language is available. To bridge this divergence, We propose to pre-order the assisting language sentence to match the word order of the source language and train the parent model. Our experiments on many language pairs show that bridging the word order gap leads to significant improvement in the translation quality."><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://murthyrudra.github.io/post/monolingual-results/">
+  <meta property="og:title" content="Monolingual NER Results for various Languages | Rudra Murthy">
+  <meta property="og:description" content="The Neural NER system implemented by me as part of the papers https://murthyrudra.github.io/publication/low-resource-tallip/ and https://murthyrudra.github.io/publication/p-18-2064/ achieves the following F1-Scores on various languages.
+Results    Language Dataset Link Word Embeddings Reference F1-Score     English CoNLL 2003 Spectral Embeddings https://arxiv.org/abs/1607.00198 90.94   Spanish CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.75   Dutch CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.20   German https://nlpado.de/~sebastian/software/ner_german.shtml Spectral Embeddings https://aclanthology.info/papers/P18-2064/p18-2064 87."><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-01-01T00:00:00&#43;05:30">
+  <meta property="article:published_time" content="2017-01-01T00:00:00&#43;05:30">
   
-  <meta property="article:modified_time" content="2019-02-05T23:59:11&#43;05:30">
-  
-
+  <meta property="article:modified_time" content="2017-01-01T00:00:00&#43;05:30">
   
 
   
 
-  <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages | Rudra Murthy</title>
+  
+
+  <title>Monolingual NER Results for various Languages | Rudra Murthy</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -347,7 +349,8 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
 
   
 
@@ -368,7 +371,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</h1>
+  <h1 itemprop="name">Monolingual NER Results for various Languages</h1>
 
   
 
@@ -376,33 +379,11 @@
     
 
 
-<meta content="2018-01-01 00:00:00 &#43;0530 IST" itemprop="datePublished">
-<meta content="2019-02-05 23:59:11 &#43;0530 IST" itemprop="dateModified">
+<meta content="2017-01-01 00:00:00 &#43;0530 IST" itemprop="datePublished">
+<meta content="2017-01-01 00:00:00 &#43;0530 IST" itemprop="dateModified">
 
 <div class="article-metadata">
 
-  
-  
-  
-  
-  <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/rudra-murthy/">Rudra Murthy</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/anoop-kunchukuttan/">Anoop Kunchukuttan</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/pushpak-bhattacharyya/">Pushpak Bhattacharyya</a>
-      </span>
-    </span>
-    
-  </div>
   
   
 
@@ -412,10 +393,15 @@
     
       
     
-    <time>January 2018</time>
+    <time>Jan 1, 2017</time>
   </span>
   
 
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
   
 
   
@@ -429,35 +415,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Addressing%20word-order%20Divergence%20in%20Multilingual%20Neural%20Machine%20Translationfor%20extremely%20Low%20Resource%20Languages&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fdblp-journalscorrabs-1811-00383%2f"
+         href="https://twitter.com/intent/tweet?text=Monolingual%20NER%20Results%20for%20various%20Languages&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpost%2fmonolingual-results%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fdblp-journalscorrabs-1811-00383%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmurthyrudra.github.io%2fpost%2fmonolingual-results%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fdblp-journalscorrabs-1811-00383%2f&amp;title=Addressing%20word-order%20Divergence%20in%20Multilingual%20Neural%20Machine%20Translationfor%20extremely%20Low%20Resource%20Languages"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmurthyrudra.github.io%2fpost%2fmonolingual-results%2f&amp;title=Monolingual%20NER%20Results%20for%20various%20Languages"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fdblp-journalscorrabs-1811-00383%2f&amp;title=Addressing%20word-order%20Divergence%20in%20Multilingual%20Neural%20Machine%20Translationfor%20extremely%20Low%20Resource%20Languages"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmurthyrudra.github.io%2fpost%2fmonolingual-results%2f&amp;title=Monolingual%20NER%20Results%20for%20various%20Languages"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Addressing%20word-order%20Divergence%20in%20Multilingual%20Neural%20Machine%20Translationfor%20extremely%20Low%20Resource%20Languages&amp;body=https%3a%2f%2fmurthyrudra.github.io%2fpublication%2fdblp-journalscorrabs-1811-00383%2f">
+         href="mailto:?subject=Monolingual%20NER%20Results%20for%20various%20Languages&amp;body=https%3a%2f%2fmurthyrudra.github.io%2fpost%2fmonolingual-results%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -477,58 +463,12 @@
 
 
 
-  
 
 
 
 
 
 
-  
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-  
-    
-  
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/1811.00383" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/dblp-journalscorrabs-1811-00383/dblp-journalscorrabs-1811-00383.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
 
 
   
@@ -538,70 +478,116 @@
 
   <div class="article-container">
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Transfer learning approaches for Neural Machine Translation (NMT) train a NMT model on the assisting-target language pair (parent model) which is later fine-tuned for the source-target language pair of interest (child model), with the target language being the same. In many cases, the assisting language has a different word order from the source language. We show that divergent word order adversely limits the benefits from transfer learning when little to no parallel corpus between the source and target language is available. To bridge this divergence, We propose to pre-order the assisting language sentence to match the word order of the source language and train the parent model. Our experiments on many language pairs show that bridging the word order gap leads to significant improvement in the translation quality.</p>
-    
+    <div class="article-style" itemprop="articleBody">
+      
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
+<p>The Neural NER system implemented by me as part of the papers https://murthyrudra.github.io/publication/low-resource-tallip/ and https://murthyrudra.github.io/publication/p-18-2064/ achieves the following <em>F1-Scores</em> on various languages.</p>
 
-            
-            
-            <a href="/publication/#2">
-              Journal article
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
+<h2 id="results">Results</h2>
+
+<table>
+<thead>
+<tr>
+<th align="center">Language</th>
+<th align="center">Dataset Link</th>
+<th align="center">Word Embeddings</th>
+<th align="center">Reference</th>
+<th align="center">F1-Score</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">English</td>
+<td align="center"><a href="https://www.clips.uantwerpen.be/conll2003/ner/" target="_blank">CoNLL 2003</a></td>
+<td align="center"><a href="http://www.pdhillon.com/code.html" target="_blank">Spectral Embeddings</a></td>
+<td align="center"><a href="https://arxiv.org/abs/1607.00198" target="_blank">https://arxiv.org/abs/1607.00198</a></td>
+<td align="center">90.94</td>
+</tr>
+
+<tr>
+<td align="center">Spanish</td>
+<td align="center"><a href="https://www.clips.uantwerpen.be/conll2002/ner/" target="_blank">CoNLL 2002</a></td>
+<td align="center">Spectral Embeddings</td>
+<td align="center"><a href="https://arxiv.org/abs/1607.00198" target="_blank">https://arxiv.org/abs/1607.00198</a></td>
+<td align="center">85.75</td>
+</tr>
+
+<tr>
+<td align="center">Dutch</td>
+<td align="center"><a href="https://www.clips.uantwerpen.be/conll2002/ner/" target="_blank">CoNLL 2002</a></td>
+<td align="center">Spectral Embeddings</td>
+<td align="center"><a href="https://arxiv.org/abs/1607.00198" target="_blank">https://arxiv.org/abs/1607.00198</a></td>
+<td align="center">85.20</td>
+</tr>
+
+<tr>
+<td align="center">German</td>
+<td align="center"><a href="https://nlpado.de/~sebastian/software/ner_german.shtml" target="_blank">https://nlpado.de/~sebastian/software/ner_german.shtml</a></td>
+<td align="center">Spectral Embeddings</td>
+<td align="center"><a href="https://aclanthology.info/papers/P18-2064/p18-2064" target="_blank">https://aclanthology.info/papers/P18-2064/p18-2064</a></td>
+<td align="center">87.64</td>
+</tr>
+
+<tr>
+<td align="center">Italian</td>
+<td align="center">EVALITA 2009</td>
+<td align="center">Spectral Embeddings</td>
+<td align="center"><a href="https://aclanthology.info/papers/P18-2064/p18-2064" target="_blank">https://aclanthology.info/papers/P18-2064/p18-2064</a></td>
+<td align="center">75.98</td>
+</tr>
+
+<tr>
+<td align="center">Hindi</td>
+<td align="center">FIRE 2014</td>
+<td align="center"><a href="https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md" target="_blank">Fasttext Embeddings</a></td>
+<td align="center"><a href="https://aclanthology.info/papers/P18-2064/p18-2064" target="_blank">https://aclanthology.info/papers/P18-2064/p18-2064</a></td>
+<td align="center">64.93</td>
+</tr>
+
+<tr>
+<td align="center">Marathi</td>
+<td align="center">FIRE 2014</td>
+<td align="center">Fasttext Embeddings</td>
+<td align="center"><a href="https://aclanthology.info/papers/P18-2064/p18-2064" target="_blank">https://aclanthology.info/papers/P18-2064/p18-2064</a></td>
+<td align="center">61.46</td>
+</tr>
+
+<tr>
+<td align="center">Bengali</td>
+<td align="center">FIRE 2014</td>
+<td align="center">Fasttext Embeddings</td>
+<td align="center"><a href="https://aclanthology.info/papers/P18-2064/p18-2064" target="_blank">https://aclanthology.info/papers/P18-2064/p18-2064</a></td>
+<td align="center">55.61</td>
+</tr>
+
+<tr>
+<td align="center">Malayalam</td>
+<td align="center">FIRE 2014</td>
+<td align="center">Fasttext Embeddings</td>
+<td align="center"><a href="https://aclanthology.info/papers/P18-2064/p18-2064" target="_blank">https://aclanthology.info/papers/P18-2064/p18-2064</a></td>
+<td align="center">64.59</td>
+</tr>
+
+<tr>
+<td align="center">Tamil</td>
+<td align="center">FIRE 2014</td>
+<td align="center">Fasttext Embeddings</td>
+<td align="center"><a href="https://aclanthology.info/papers/P18-2064/p18-2064" target="_blank">https://aclanthology.info/papers/P18-2064/p18-2064</a></td>
+<td align="center">65.39</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &lsquo;|&rsquo; as delimiter lead to substantial improvement. Also, these models are trained using <a href="https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md" target="_blank">common-crawl embeddings</a> as opposed to <a href="https://fasttext.cc/docs/en/pretrained-vectors.html" target="_blank">wikipedia embeddings</a></strong></p>
+
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>CoRR</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
 
     
 
 
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/indian-languages/">indian languages</a>
-  
-  <a class="badge badge-light" href="/tags/neural-machine-translation/">neural machine translation</a>
-  
-  <a class="badge badge-light" href="/tags/low-resource-languages/">low-resource languages</a>
-  
-  <a class="badge badge-light" href="/tags/pre-ordering/">pre-ordering</a>
-  
-</div>
-
-
-
     
+      
 
 
 
@@ -609,22 +595,108 @@
 
 
   
+
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-    
   
+  <img class="portrait mr-3" src="/author/admin/avatar_hu7714b019411cc77a6b3e521c7bada980_78762_250x250_fill_q75_box_center.jpg" itemprop="image" alt="Avatar">
   
 
-
-
-
-
-
-
-
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/authors/admin">Rudra Murthy V</a></h5>
+    <h6 class="card-subtitle">PhD Student</h6>
+    <p class="card-text" itemprop="description">My research interests include multilingual learning for various Natural Language Processing Tasks.</p>
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/#contact" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://twitter.com/rudramurthyv" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.co.in/citations?user=5bjj_9cAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/murthyrudra" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+    </ul>
   </div>
 </div>
 
 
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
 
 <div class="container">
   <footer class="site-footer">
