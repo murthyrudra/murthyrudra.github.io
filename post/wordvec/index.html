@@ -126,7 +126,7 @@ Let us consider a corpus as some closed system. We care only about the particles
   
   <meta property="article:published_time" content="2019-02-06T00:00:00&#43;05:30">
   
-  <meta property="article:modified_time" content="2019-02-06T00:00:00&#43;05:30">
+  <meta property="article:modified_time" content="2019-02-06T22:48:33&#43;05:30">
   
 
   
@@ -380,7 +380,7 @@ Let us consider a corpus as some closed system. We care only about the particles
 
 
 <meta content="2019-02-06 00:00:00 &#43;0530 IST" itemprop="datePublished">
-<meta content="2019-02-06 00:00:00 &#43;0530 IST" itemprop="dateModified">
+<meta content="2019-02-06 22:48:33 &#43;0530 IST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -391,6 +391,8 @@ Let us consider a corpus as some closed system. We care only about the particles
   <span class="article-date">
     
     
+      
+          Last updated on
       
     
     <time>Feb 6, 2019</time>
@@ -527,24 +529,24 @@ $$</p>
 <p>Given a dataset $$ D= (w,c)$$ pairs, the goal is to maximize the probability of seeing context given the word <em>i.e,</em></p>
 
 <p>$$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \sum P(c | w) \\<br />
-&amp;= \sum \frac{p(c,w)}{p(w)} \\<br />
-&amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\<br />
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \prod P(c | w) \\<br />
+&amp;= \prod \frac{p(c,w)}{p(w)} \\<br />
+&amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\<br />
 \end{align}$$</p>
 
 <p>Substituting the definition of $P(c,w)$ we get,
 $$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\<br />
-&amp;= \sum \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\<br />
+&amp;= \prod \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$</p>
 
 <p>Taking log-likelihood of the objective gives,
 $$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;= \log \sum P(c
+\underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;= \log \prod P(c
 | w)
 \\<br />
-&amp;= \prod \log \frac{p(c,w)}{p(w)} \\<br />
-&amp;= \prod \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+&amp;= \sum \log \frac{p(c,w)}{p(w)} \\<br />
+&amp;= \sum \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$
 We have now arrived at the skip-gram definition.</p>
 

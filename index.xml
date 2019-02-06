@@ -173,24 +173,24 @@ $$&lt;/p&gt;
 &lt;p&gt;Given a dataset $$ D= (w,c)$$ pairs, the goal is to maximize the probability of seeing context given the word &lt;em&gt;i.e,&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;$$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \sum P(c | w) \\&lt;br /&gt;
-&amp;amp;= \sum \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
-&amp;amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod P(c | w) \\&lt;br /&gt;
+&amp;amp;= \prod \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
+&amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
 \end{align}$$&lt;/p&gt;
 
 &lt;p&gt;Substituting the definition of $P(c,w)$ we get,
 $$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
-&amp;amp;= \sum \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
+&amp;amp;= \prod \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$&lt;/p&gt;
 
 &lt;p&gt;Taking log-likelihood of the objective gives,
 $$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;amp;= \log \sum P(c
+\underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;amp;= \log \prod P(c
 | w)
 \\&lt;br /&gt;
-&amp;amp;= \prod \log \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
-&amp;amp;= \prod \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+&amp;amp;= \sum \log \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
+&amp;amp;= \sum \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$
 We have now arrived at the skip-gram definition.&lt;/p&gt;
 </description>
