@@ -71,7 +71,7 @@
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
       <description>
 
-&lt;p&gt;The Neural NER system implemented by me as part of the papers https://murthyrudra.github.io/publication/low-resource-tallip/ and https://murthyrudra.github.io/publication/p-18-2064/ achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
+&lt;p&gt;The Neural NER system implemented by me as part of the papers &lt;a href=&#34;https://murthyrudra.github.io/publication/low-resource-tallip/&#34; target=&#34;_blank&#34;&gt;TALLIP paper&lt;/a&gt; and &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt; achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
 
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
 
@@ -169,7 +169,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to &lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34; target=&#34;_blank&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to &lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34; target=&#34;_blank&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

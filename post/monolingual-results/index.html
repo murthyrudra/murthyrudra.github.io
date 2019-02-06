@@ -28,8 +28,8 @@
   
     
   
-  <meta name="description" content="The Neural NER system implemented by me as part of the papers https://murthyrudra.github.io/publication/low-resource-tallip/ and https://murthyrudra.github.io/publication/p-18-2064/ achieves the following F1-Scores on various languages.
-Results    Language Dataset Link Word Embeddings Reference F1-Score     English CoNLL 2003 Spectral Embeddings https://arxiv.org/abs/1607.00198 90.94   Spanish CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.75   Dutch CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.20   German https://nlpado.de/~sebastian/software/ner_german.shtml Spectral Embeddings https://aclanthology.info/papers/P18-2064/p18-2064 87.">
+  <meta name="description" content="The Neural NER system implemented by me as part of the papers TALLIP paper and ACL 2018 Paper achieves the following F1-Scores on various languages.
+Results    Language Dataset Link Word Embeddings Reference F1-Score     English CoNLL 2003 Spectral Embeddings https://arxiv.org/abs/1607.00198 90.94   Spanish CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.75   Dutch CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.20   German https://nlpado.de/~sebastian/software/ner_german.shtml Spectral Embeddings https://aclanthology.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://murthyrudra.github.io/post/monolingual-results/">
@@ -120,8 +120,8 @@ Results    Language Dataset Link Word Embeddings Reference F1-Score     English 
   <meta property="og:site_name" content="Rudra Murthy">
   <meta property="og:url" content="https://murthyrudra.github.io/post/monolingual-results/">
   <meta property="og:title" content="Monolingual NER Results for various Languages | Rudra Murthy">
-  <meta property="og:description" content="The Neural NER system implemented by me as part of the papers https://murthyrudra.github.io/publication/low-resource-tallip/ and https://murthyrudra.github.io/publication/p-18-2064/ achieves the following F1-Scores on various languages.
-Results    Language Dataset Link Word Embeddings Reference F1-Score     English CoNLL 2003 Spectral Embeddings https://arxiv.org/abs/1607.00198 90.94   Spanish CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.75   Dutch CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.20   German https://nlpado.de/~sebastian/software/ner_german.shtml Spectral Embeddings https://aclanthology.info/papers/P18-2064/p18-2064 87."><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
+  <meta property="og:description" content="The Neural NER system implemented by me as part of the papers TALLIP paper and ACL 2018 Paper achieves the following F1-Scores on various languages.
+Results    Language Dataset Link Word Embeddings Reference F1-Score     English CoNLL 2003 Spectral Embeddings https://arxiv.org/abs/1607.00198 90.94   Spanish CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.75   Dutch CoNLL 2002 Spectral Embeddings https://arxiv.org/abs/1607.00198 85.20   German https://nlpado.de/~sebastian/software/ner_german.shtml Spectral Embeddings https://aclanthology."><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2017-01-01T00:00:00&#43;05:30">
@@ -481,7 +481,7 @@ Results    Language Dataset Link Word Embeddings Reference F1-Score     English 
     <div class="article-style" itemprop="articleBody">
       
 
-<p>The Neural NER system implemented by me as part of the papers https://murthyrudra.github.io/publication/low-resource-tallip/ and https://murthyrudra.github.io/publication/p-18-2064/ achieves the following <em>F1-Scores</em> on various languages.</p>
+<p>The Neural NER system implemented by me as part of the papers <a href="https://murthyrudra.github.io/publication/low-resource-tallip/" target="_blank">TALLIP paper</a> and <a href="https://murthyrudra.github.io/publication/p-18-2064/" target="_blank">ACL 2018 Paper</a> achieves the following <em>F1-Scores</em> on various languages.</p>
 
 <h2 id="results">Results</h2>
 
@@ -579,7 +579,7 @@ Results    Language Dataset Link Word Embeddings Reference F1-Score     English 
 </tbody>
 </table>
 
-<p><strong>PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &lsquo;|&rsquo; as delimiter lead to substantial improvement. Also, these models are trained using <a href="https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md" target="_blank">common-crawl embeddings</a> as opposed to <a href="https://fasttext.cc/docs/en/pretrained-vectors.html" target="_blank">wikipedia embeddings</a></strong></p>
+<p>PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &lsquo;|&rsquo; as delimiter lead to substantial improvement. Also, these models are trained using <a href="https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md" target="_blank">common-crawl embeddings</a> as opposed to <a href="https://fasttext.cc/docs/en/pretrained-vectors.html" target="_blank">wikipedia embeddings</a></p>
 
     </div>
 
