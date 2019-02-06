@@ -14,7 +14,7 @@
     <item>
       <title>Monolingual NER Results for various Languages</title>
       <link>https://murthyrudra.github.io/post/monolingual-results/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
       <description>The Neural NER system implemented by me as part of the papers TALLIP paper and ACL 2018 Paper achieves the following F1-Scores on various languages.

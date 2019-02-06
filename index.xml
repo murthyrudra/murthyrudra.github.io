@@ -10,63 +10,9 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
-      <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Deep Learning Solution to Named Entity Recognition</title>
-      <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
-      <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
-      <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Named Entity Recognition Tutorial at ICON 2017</title>
-      <link>https://murthyrudra.github.io/talk/icon-2017/</link>
-      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/talk/icon-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifying Raga Similarity in Hindustani Classical Music through Distributed Representation of Raga Names</title>
-      <link>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Monolingual NER Results for various Languages</title>
       <link>https://murthyrudra.github.io/post/monolingual-results/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
       <description>
@@ -171,6 +117,60 @@
 
 &lt;p&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to &lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34; target=&#34;_blank&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
+      <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning Solution to Named Entity Recognition</title>
+      <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
+      <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
+      <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Named Entity Recognition Tutorial at ICON 2017</title>
+      <link>https://murthyrudra.github.io/talk/icon-2017/</link>
+      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/talk/icon-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Raga Similarity in Hindustani Classical Music through Distributed Representation of Raga Names</title>
+      <link>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</guid>
+      <description></description>
     </item>
     
     <item>
