@@ -178,7 +178,7 @@ $$&lt;/p&gt;
 &amp;amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
 \end{align}$$&lt;/p&gt;
 
-&lt;p&gt;Substituting the definition of $$P(c,w)$$ we get,
+&lt;p&gt;Substituting the definition of $P(c,w)$ we get,
 $$\begin{align}
 \underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \sum \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
 &amp;amp;= \sum \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
