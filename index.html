@@ -592,12 +592,12 @@
   
 
   <h3 class="article-title" itemprop="name">
-    <a href="/publication/p-18-2064/" itemprop="url">Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</a>
+    <a href="/publication/dblp-journalscorrabs-1811-00383/" itemprop="url">Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</a>
   </h3>
 
   <div class="pub-abstract" itemprop="text">
     
-    Multilingual learning for Neural Named Entity Recognition (NNER) involves jointly training a neural network for multiple languages. Typically, the goal is improving the NER performance of one of the languages (the primary language) using the other assisting languages. We show that the divergence in the tag distributions of the common named entities between the primary and assisting languages can reduce the effectiveness of multilingual learning. To alleviate this problem, we propose a metric based on symmetric KL divergence to filter out the highly divergent training instances in the assisting language. We empirically show that our data selection strategy improves NER performance in many languages, including those with very limited training data.
+    Transfer learning approaches for Neural Machine Translation (NMT) train a NMT model on the assisting-target language pair (parent model) which is later fine-tuned for the source-target language pair of interest (child model), with the target language being the same. In many cases, the assisting language has a different word order from the source language. We show that divergent word order adversely limits the benefits from transfer learning when little to no parallel corpus between the source and target language is available. To bridge this divergence, We propose to pre-order the assisting language sentence to match the word order of the source language and train the parent model. Our experiments on many language pairs show that bridging the word order gap leads to significant improvement in the translation quality.
     
   </div>
 
@@ -609,7 +609,7 @@
 
   <div class="pub-publication">
     
-    <em>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</em>,
+    <em>To appear in NAACL 2019</em>,
     
     2018
   </div>
@@ -628,14 +628,14 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://aclweb.org/anthology/P18-2064" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://arxiv.org/abs/1811.00383" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/p-18-2064/p-18-2064.bib">
+        data-filename="/publication/dblp-journalscorrabs-1811-00383/dblp-journalscorrabs-1811-00383.bib">
   Cite
 </button>
 
@@ -798,7 +798,7 @@
   <span itemprop="author">
     Rudra Murthy, Anoop Kunchukuttan, Pushpak Bhattacharyya</span>.
   <a href="/publication/dblp-journalscorrabs-1811-00383/" itemprop="name">Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</a>.
-  <em>CoRR</em>,
+  <em>To appear in NAACL 2019</em>,
   2018.
   <p>
 
