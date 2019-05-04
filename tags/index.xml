@@ -6,18 +6,10 @@
     <description>Recent content in Tags on Rudra Murthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://murthyrudra.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>deep learning</title>
-      <link>https://murthyrudra.github.io/tags/deep-learning/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>indian languages</title>
@@ -38,24 +30,6 @@
     </item>
     
     <item>
-      <title>multilingual learning</title>
-      <link>https://murthyrudra.github.io/tags/multilingual-learning/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/multilingual-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>named entity recognition</title>
-      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/named-entity-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>neural machine translation</title>
       <link>https://murthyrudra.github.io/tags/neural-machine-translation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
@@ -70,6 +44,33 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/tags/pre-ordering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://murthyrudra.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual learning</title>
+      <link>https://murthyrudra.github.io/tags/multilingual-learning/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/multilingual-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>named entity recognition</title>
+      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/tags/named-entity-recognition/</guid>
       <description></description>
     </item>
     
