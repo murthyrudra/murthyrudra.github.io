@@ -124,7 +124,7 @@
   
   <meta property="article:published_time" content="2019-02-06T00:00:00&#43;05:30">
   
-  <meta property="article:modified_time" content="2019-05-04T14:34:28&#43;05:30">
+  <meta property="article:modified_time" content="2019-05-04T14:41:39&#43;05:30">
   
 
   
@@ -397,7 +397,7 @@
 
 
 <meta content="2019-02-06 00:00:00 &#43;0530 IST" itemprop="datePublished">
-<meta content="2019-05-04 14:34:28 &#43;0530 IST" itemprop="dateModified">
+<meta content="2019-05-04 14:41:39 &#43;0530 IST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -419,7 +419,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    4 min read
+    5 min read
   </span>
   
 
@@ -520,9 +520,11 @@
 <p>A justification for this approach is that in scenarios where we have limited training data, we need a strong prior distribution over models. The parent model trained on a large amount of bilingual data can be considered an anchor point, the peak of our prior distribution in model space. When we train the child model initialized with the parent model, we fix parameters likely to be useful across tasks so that they will not be changed during child-model training.</p>
 </blockquote>
 
-<h4 id="supervised-learning-as-curve-fitting">Supervised Learning as Curve Fitting</h4>
+<h3 id="supervised-learning-as-curve-fitting">Supervised Learning as Curve Fitting</h3>
 
 <p>The goal of suprvised learning can be thought of as fitting a curve (function) given some data points <em>i.e.,</em> $y = f(x)$ learn the fundtion $f$ given input values $x$ and corresponding output values $y$. If we had $y$ for every pint in the input space, we can fit the curve exactly. In real-life scenarios, we usually get $y$ for some sample of points in the input space. The values $y$ might be noisy for some values of $x$. Sometimes, the sample of points may be very small that it might not be indicator of the function at all.</p>
+
+<h4 id="fitting-a-cosine-function">Fitting a Cosine Function</h4>
 
 <p>Consider the task of fitting a <strong>Cosine</strong> function. We will use a deep feedfoward neural network for this purpose. We will first generate a set of data points and plot the curve.</p>
 
@@ -532,12 +534,127 @@ X = np.random.randint(720, size=(200,1))
 X_rad = X * np.pi / 180
 # Get the corresponding cosine values for the inputs
 Y = np.cos(X_rad)
-
-# We will add some noise to the inputs
-mask = np.random.randint(2,size=(200))
-y_noise = Y
-y_noise[ (mask==1) ] += (0.001 - np.random.rand(1) * 0.01)
 </code></pre>
+
+<p>The following figure plots the genrated data points 
+
+
+<figure>
+
+<img src="cosine.png" />
+
+
+</figure> We now randomly select a subset of points to train our model.</p>
+
+<pre><code class="language-python">X_small = X_rad[:20]
+Y_small = Y[:20]
+</code></pre>
+
+<p>The reduced set of data points leads to the following plot 
+
+
+<figure>
+
+<img src="cosine-small.png" />
+
+
+</figure> Before proceeding further, let us define the deep learning model.</p>
+
+<pre><code class="language-python">class CurveFitter(nn.Module):
+
+	def __init__(self, inputDim, outDim, hidDim):
+		super(CurveFitter, self).__init__()
+
+		self.inputDim = inputDim
+		self.outDim = outDim
+		self.hidDim = hidDim
+
+		self.linear_l1 = nn.Linear(self.inputDim, self.hidDim)
+		self.nla_l1 = nn.ReLU()
+
+		self.linear_l2 = nn.Linear(self.hidDim, self.hidDim)
+		self.nla_l2 = nn.ReLU()
+
+		self.linear_l3 = nn.Linear(self.hidDim, self.hidDim)
+		self.nla_l3 = nn.ReLU()
+
+		self.linear_l4 = nn.Linear(self.hidDim, self.outDim)
+		self.nla_l4 = nn.Tanh()
+
+		self.mse_loss = nn.MSELoss()
+
+	def forward(self, x):
+
+		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
+
+		return result
+
+	def loss(self, x, y):
+
+		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
+
+		return self.mse_loss(result, y)
+</code></pre>
+
+<p>Let us instantiate the model and use <em>Adam</em> optimizer to train the model.</p>
+
+<pre><code class="language-python">torch.manual_seed(9899999)
+network_cos = CurveFitter(1, 1, 200 )
+optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
+</code></pre>
+
+<p>Training the above model on the smaller set of points for different random initialization leads to the following curves 
+
+
+<figure>
+
+<img src="cosine-supervised.png" />
+
+
+</figure></p>
+
+<p>As observed, the model does well in areas where sufficient data is present. However, on the leftmost region where we have only one data point the model does poorly on fitting the curve.</p>
+
+<h4 id="transferring-knowledge-from-sine-function">Transferring Knowledge from Sine Function</h4>
+
+<p>Let us assume, that we have enough data points to train a Sine function. We will train the model using the earlier architecture. Unlike earlier, we will generate points from 0 to 1080 instead of 0 to 720.</p>
+
+<pre><code class="language-python"># We will generate 200 random points from 0 to 720
+X = np.random.randint(1080, size=(200,1))
+# Convert the values to radians
+X_rad = X * np.pi / 180
+# Get the corresponding cosine values for the inputs
+Y = np.sin(X_rad)
+</code></pre>
+
+<p>The training points for sine function is 
+
+
+<figure>
+
+<img src="sine.png" />
+
+
+</figure> and the curve fit by the model is 
+
+
+<figure>
+
+<img src="sine-predicted.png" />
+
+
+</figure>
+We will use the trained model and further fine-tune the model on smaller set of points for the cosine function. The resulting fitted curve looks as below 
+
+
+<figure>
+
+<img src="cosine-transfer.png" />
+
+
+</figure></p>
+
+<p>Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. This is what i believe <em>Zoph et.al 2016</em> meant when they said that <span class="markup-quote"> the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large. </span></p>
 
 <h4 id="references">References</h4>
 
