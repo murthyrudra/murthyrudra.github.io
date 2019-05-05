@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>An Intuitive Explanation on Why Transfer Learning Works</title>
+      <link>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
+      <description>Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept tree. Instead, we learn the corresponding word used to represent the concept (tree). This is different from how children first learn a language.</description>
+    </item>
+    
+    <item>
       <title>Monolingual NER Results for various Languages</title>
       <link>https://murthyrudra.github.io/post/monolingual-results/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
@@ -19,15 +28,6 @@
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
       <description>The Neural NER system implemented by me as part of the papers TALLIP paper and ACL 2018 Paper achieves the following F1-Scores on various languages.
 Results    Language Dataset Word Embeddings Reference F1 Score     English CoNLL 2003 Spectral Embeddings Arxiv Paper 90.94   Spanish CoNLL 2002 Spectral Embeddings Arxiv Paper 85.75   Dutch CoNLL 2002 Spectral Embeddings Arxiv Paper 85.20   German Link Spectral Embeddings ACL 2018 Paper 87.</description>
-    </item>
-    
-    <item>
-      <title>My Thoughts on Transfer Learning</title>
-      <link>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
-      <description>Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept tree. Instead, we learn the corresponding word used to represent the concept (tree). This is different from how children first learn a language.</description>
     </item>
     
     <item>
