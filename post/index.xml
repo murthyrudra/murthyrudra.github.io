@@ -22,6 +22,15 @@ Results    Language Dataset Word Embeddings Reference F1 Score     English CoNLL
     </item>
     
     <item>
+      <title>My Thoughts on Transfer Learning</title>
+      <link>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
+      <description>Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept tree. Instead, we learn the corresponding word used to represent the concept (tree). This is different from how children first learn a language.</description>
+    </item>
+    
+    <item>
       <title>My thoughts on word2vec</title>
       <link>https://murthyrudra.github.io/post/wordvec/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
@@ -29,15 +38,6 @@ Results    Language Dataset Word Embeddings Reference F1 Score     English CoNLL
       <guid>https://murthyrudra.github.io/post/wordvec/</guid>
       <description>If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?
 Let us consider a corpus as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies.</description>
-    </item>
-    
-    <item>
-      <title>Transfer Learning</title>
-      <link>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
-      <description>Some of us are really excited about the prospect of learning a new language. Unlike in formal language classes, we usually begin wth by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts for example the word tree. We instead learn the word used to represent the concept (tree). This is different from how children first learn a language.</description>
     </item>
     
     <item>
