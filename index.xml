@@ -243,7 +243,7 @@ optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;As observed, the model does well in areas where sufficient data is present. However, on the leftmost region where we have only one data point the model does poorly on fitting the curve.&lt;/p&gt;
+&lt;p&gt;As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.&lt;/p&gt;
 
 &lt;h4 id=&#34;transferring-knowledge-from-sine-function&#34;&gt;Transferring Knowledge from Sine Function&lt;/h4&gt;
 
