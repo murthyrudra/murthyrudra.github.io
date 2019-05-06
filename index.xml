@@ -176,6 +176,18 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 &lt;p&gt;Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe &lt;em&gt;Zoph et.al 2016&lt;/em&gt; meant when they said that &lt;span class=&#34;markup-quote&#34;&gt; the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large. &lt;/span&gt;&lt;/p&gt;
 
+&lt;h4 id=&#34;initialization&#34;&gt;Initialization&lt;/h4&gt;
+
+&lt;p&gt;Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves 
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;cosine-rand.gif&#34; /&gt;
+
+
+&lt;/figure&gt; However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.:w&lt;/p&gt;
+
 &lt;p&gt;The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.&lt;/p&gt;
 
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
