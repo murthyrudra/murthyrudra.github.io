@@ -186,7 +186,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
 &lt;img src=&#34;cosine-rand.gif&#34; /&gt;
 
 
-&lt;/figure&gt; However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.:w&lt;/p&gt;
+&lt;/figure&gt; However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;
 
 &lt;p&gt;The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.&lt;/p&gt;
 
