@@ -128,16 +128,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://murthyrudra.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://murthyrudra.github.io/home/experience/</guid>
-      <description>iwidget = &amp;ldquo;experience&amp;rdquo; headless = true # This file represents a page section.
-&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip; Date format for experience Refer to https://sourcethemes.com/academic/docs/customization/#date-format date_format = &amp;ldquo;May 2019&amp;rdquo;
-Experiences. Add/remove as many [[experience]] blocks below as you like. Required fields are title, company, and date_start. Leave date_end empty if it&amp;rsquo;s your current employer. Begin/end multi-line descriptions with 3 quotes &amp;quot;&amp;quot;&amp;quot;. [[experience]] title = &amp;ldquo;PhD Student&amp;rdquo; company = &amp;ldquo;Indian Institute of Technology Bombay&amp;rdquo; company_url = &amp;ldquo;http://iitb.</description>
-    </item>
-    
   </channel>
 </rss>
