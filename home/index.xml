@@ -107,8 +107,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://murthyrudra.github.io/home/resctools/</guid>
-      <description>Data Due to licensing issue we are unable to share the data for English and Indian languages (except Marathi). For Marathi, please fill the form here
-However, Spanish and Dutch data are freely available here. German NER data is taken from here. Also, we make a copy of Spanish, Dutch and German languages data available in the Data folder.</description>
+      <description>Dataset: Due to licensing issue we are unable to share the data for English and Indian languages (except Marathi). For Marathi, please fill the form here.
+However, Spanish and Dutch data are freely available here. German NER data is taken from here. Also, we make a copy of Spanish, Dutch and German languages data available in the Data folder.
+NER Tool: We also provide NER tool as web service here.</description>
     </item>
     
     <item>
