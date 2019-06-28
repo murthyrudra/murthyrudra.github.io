@@ -1,24 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <title>Authors on Rudra Murthy</title>
+    <link>https://murthyrudra.github.io/authors/</link>
+    <description>Recent content in Authors on Rudra Murthy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://murthyrudra.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Anoop Kunchukuttan</title>
+      <link>https://murthyrudra.github.io/authors/anoop-kunchukuttan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/anoop-kunchukuttan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushpak Bhattacharyya</title>
+      <link>https://murthyrudra.github.io/authors/pushpak-bhattacharyya/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/pushpak-bhattacharyya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudra Murthy</title>
+      <link>https://murthyrudra.github.io/authors/rudra-murthy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/rudra-murthy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitesh M. Khapra</title>
+      <link>https://murthyrudra.github.io/authors/mitesh-m.-khapra/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/mitesh-m.-khapra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Patel</title>
+      <link>https://murthyrudra.github.io/authors/kevin-patel/</link>
+      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/kevin-patel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Md Shad Akhtar</title>
+      <link>https://murthyrudra.github.io/authors/md-shad-akhtar/</link>
+      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/md-shad-akhtar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joe Cheri Ross</title>
+      <link>https://murthyrudra.github.io/authors/joe-cheri-ross/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/joe-cheri-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaustuv Kanti Ganguli</title>
+      <link>https://murthyrudra.github.io/authors/kaustuv-kanti-ganguli/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/kaustuv-kanti-ganguli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerana Singhal</title>
+      <link>https://murthyrudra.github.io/authors/prerana-singhal/</link>
+      <pubDate>Sat, 12 Dec 2015 20:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/prerana-singhal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sudha Bhingardive</title>
+      <link>https://murthyrudra.github.io/authors/sudha-bhingardive/</link>
+      <pubDate>Sat, 12 Dec 2015 20:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/sudha-bhingardive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dhirendra Singh</title>
+      <link>https://murthyrudra.github.io/authors/dhirendra-singh/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/dhirendra-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanumant Redkar</title>
+      <link>https://murthyrudra.github.io/authors/hanumant-redkar/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/authors/hanumant-redkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://murthyrudra.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <guid>https://murthyrudra.github.io/authors/admin/</guid>
+      <description>
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;Hi, I am a Research Scholar from &lt;a href=&#34;http://www.cfilt.iitb.ac.in/&#34; target=&#34;_blank&#34;&gt;Center For Indian Language Technology&lt;/a&gt; lab headed by &lt;a href=&#34;https://www.cse.iitb.ac.in/~pb/&#34; target=&#34;_blank&#34;&gt;Professor. Pushpak Bhattacharyya&lt;/a&gt;. My area of interest is Deep Multilingual Learning to various Natural Language Processing(NLP) tasks.&lt;/p&gt;
+
+&lt;h4 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Pinky:&lt;/strong&gt; Gee, Brain, What do you want to do today?&lt;br /&gt;
+&lt;strong&gt;Brain:&lt;/strong&gt; The same thing we do everyday, Pinky. Borrow features from high-resource language to improve NLP Task performance in low-resource languages&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Deep Learning techniques have become the &lt;em&gt;de-facto&lt;/em&gt; approach for any Natural Language Processing (NLP) task. Deep neural networks coupled with unsupervised learning (in the form of pre-trained word embeddings or initial training of language model followed by supervised training) have revolutionised the area of NLP, at least for resource-rich languages. However, the success of deep learning techniques needs to be taken with a pinch of salt. The deep learning techniques have known to perform badly for low-resource languages when trained on very small data. To be fair even traditional machine learning models would perform badly if not for feature engineering. Due to limited data the model cannot reliably establish correlations with features and class labels leading to poor performance.&lt;/p&gt;
+
+&lt;p&gt;In my thesis, I focus on borrowing features (implicitly statistics) from a related language (also known as multilingual learning). This should minimise the impact of data sparsity and lead to improvements in the low-resource language for the task in hand. We apply the above intuition to Named Entity recognition (NER) task. We show that borrowing features from a related languages infact helps improve the NER performance in low-resource languages. However, the improvements gained is limited by the lexical gap between the two languages. Though the lexical gap can be overcome by use of crosslingual embeddings, these embeddings have known to be of poor quality for Indian languages. Currently, my research is focused on obtaining better crosslingual embeddings for Indian languages.&lt;/p&gt;
 </description>
     </item>
     

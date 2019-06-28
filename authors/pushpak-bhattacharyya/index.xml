@@ -4,11 +4,11 @@
     <title>Pushpak Bhattacharyya on Rudra Murthy</title>
     <link>https://murthyrudra.github.io/authors/pushpak-bhattacharyya/</link>
     <description>Recent content in Pushpak Bhattacharyya on Rudra Murthy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://murthyrudra.github.io/authors/pushpak-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://murthyrudra.github.io/authors/pushpak-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,7 +26,8 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
-      <description>The Marathi Named Entity annotated data described in the paper can be downloaded here.</description>
+      <description>&lt;p&gt;The Marathi Named Entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,7 +45,8 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
-      <description>The Marathi named entity annotated data described in the paper can be downloaded here.</description>
+      <description>&lt;p&gt;The Marathi named entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
