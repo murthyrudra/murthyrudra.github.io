@@ -1,104 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rudra Murthy</title>
-    <link>https://murthyrudra.github.io/tags/</link>
-    <description>Recent content in Tags on Rudra Murthy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on Academic</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	<atom:link href="https://murthyrudra.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>deep learning</title>
-      <link>https://murthyrudra.github.io/tags/deep-learning/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>indian languages</title>
-      <link>https://murthyrudra.github.io/tags/indian-languages/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/indian-languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>low-resource languages</title>
-      <link>https://murthyrudra.github.io/tags/low-resource-languages/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/low-resource-languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multilingual learning</title>
-      <link>https://murthyrudra.github.io/tags/multilingual-learning/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/multilingual-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>named entity recognition</title>
-      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/named-entity-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural machine translation</title>
-      <link>https://murthyrudra.github.io/tags/neural-machine-translation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/neural-machine-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pre-ordering</title>
-      <link>https://murthyrudra.github.io/tags/pre-ordering/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/pre-ordering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sentiment analysis</title>
-      <link>https://murthyrudra.github.io/tags/sentiment-analysis/</link>
-      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/sentiment-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>word embeddings</title>
-      <link>https://murthyrudra.github.io/tags/word-embeddings/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/word-embeddings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>word sense disambiguation</title>
-      <link>https://murthyrudra.github.io/tags/word-sense-disambiguation/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/tags/word-sense-disambiguation/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

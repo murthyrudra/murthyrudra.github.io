@@ -1,78 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Rudra Murthy</title>
-    <link>https://murthyrudra.github.io/publication/</link>
-    <description>Recent content in Publications on Rudra Murthy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Publications on Academic</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://murthyrudra.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
-      <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
-      <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
-      <description>The Marathi Named Entity annotated data described in the paper can be downloaded here.</description>
-    </item>
-    
-    <item>
-      <title>A Deep Learning Solution to Named Entity Recognition</title>
-      <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
-      <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
-      <description>The Marathi named entity annotated data described in the paper can be downloaded here.</description>
-    </item>
-    
-    <item>
-      <title>Identifying Raga Similarity in Hindustani Classical Music through Distributed Representation of Raga Names</title>
-      <link>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sharing Network Parameters for Crosslingual Named Entity Recognition</title>
-      <link>https://murthyrudra.github.io/publication/dblp-journalscorrvkb-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/dblp-journalscorrvkb-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised most frequent sense detection using word embeddings</title>
-      <link>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
