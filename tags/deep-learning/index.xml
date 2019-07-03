@@ -6,20 +6,10 @@
     <description>Recent content in deep learning on Rudra Murthy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
     
 	    <atom:link href="https://murthyrudra.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
-      <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
-      <description>&lt;p&gt;The Marathi Named Entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>A Deep Learning Solution to Named Entity Recognition</title>
@@ -28,16 +18,6 @@
       
       <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
-      <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
-      <description>&lt;p&gt;The Marathi named entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
