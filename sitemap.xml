@@ -139,13 +139,13 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/ner/</loc>
+    <loc>https://murthyrudra.github.io/categories/named-entity-recognition/</loc>
     <lastmod>2019-02-04T22:34:35+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/ner/</loc>
+    <loc>https://murthyrudra.github.io/tags/named-entity-recognition/</loc>
     <lastmod>2019-02-04T22:34:35+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -250,12 +250,6 @@
   
   <url>
     <loc>https://murthyrudra.github.io/tags/multilingual-learning/</loc>
-    <lastmod>2018-12-01T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://murthyrudra.github.io/tags/named-entity-recognition/</loc>
     <lastmod>2018-12-01T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>

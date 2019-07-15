@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>named entity recognition on Rudra Murthy</title>
-    <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
+    <link>https://murthyrudra.github.io/categories/named-entity-recognition/</link>
     <description>Recent content in named entity recognition on Rudra Murthy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Feb 2019 22:34:35 +0530</lastBuildDate>
     
-	    <atom:link href="https://murthyrudra.github.io/tags/named-entity-recognition/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://murthyrudra.github.io/categories/named-entity-recognition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -119,53 +119,6 @@
 
 &lt;p&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to &lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34; target=&#34;_blank&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
-      <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
-      <description>&lt;p&gt;The Marathi Named Entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Deep Learning Solution to Named Entity Recognition</title>
-      <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
-      <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
-      <description>&lt;p&gt;The Marathi named entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Named Entity Recognition Tutorial at ICON 2017</title>
-      <link>https://murthyrudra.github.io/talk/icon-2017/</link>
-      <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/talk/icon-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning Tutorial at ICON 2015</title>
-      <link>https://murthyrudra.github.io/talk/icon-2015/</link>
-      <pubDate>Sat, 12 Dec 2015 20:00:00 +0530</pubDate>
-      
-      <guid>https://murthyrudra.github.io/talk/icon-2015/</guid>
-      <description></description>
     </item>
     
   </channel>
