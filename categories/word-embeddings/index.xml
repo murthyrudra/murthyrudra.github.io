@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>word embeddings on Rudra Murthy</title>
+    <link>https://murthyrudra.github.io/categories/word-embeddings/</link>
+    <description>Recent content in word embeddings on Rudra Murthy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0530</lastBuildDate>
+    
+	    <atom:link href="https://murthyrudra.github.io/categories/word-embeddings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My thoughts on word2vec</title>
+      <link>https://murthyrudra.github.io/post/wordvec/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/post/wordvec/</guid>
+      <description>
+
+&lt;p&gt;If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?&lt;/p&gt;
+
+&lt;p&gt;Let us consider a &lt;strong&gt;corpus&lt;/strong&gt; as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies. In the case of the corpus, should we choose &lt;strong&gt;words&lt;/strong&gt; as the particle of interest? But the word itself doesn&amp;#39;t signify anything. When we hear a word we implicitly assume a context which helps us in deciphering it&amp;#39;s meaning.&lt;/p&gt;
+
+&lt;p&gt;Instead, we choose &lt;strong&gt;word-context pair&lt;/strong&gt; as the particles in our closed system. The contextual word could be as simple as a co-occurring word in a window or a word related by some dependency relationship.&lt;/p&gt;
+
+&lt;p&gt;Just like in a gaseous system, some particles have high kinetic energy and some particles have very low kinetic energy. Let us assume that temperature and pressure are constant and do not have any influence on the system. What do we mean by high kinetic energy in the definition of our particles (&lt;strong&gt;word-context pair&lt;/strong&gt;)?&lt;/p&gt;
+
+&lt;p&gt;In the gaseous state, we find few particles with very low energy, a lot number of particles with the most common(average) energy and very few particles with very high energy. It almost looks like a bell curve with tapering at the high energy region.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If we take any corpus, usually we find few word-context pairs which appear always together, many pairs appear a decent number of times and a very large number of pairs which do not appear at all?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Let us now define the energy of a &lt;strong&gt;word-context pair&lt;/strong&gt;, as the energy required to bring them together in a closed system. Some pairs like &lt;em&gt;(money, bank)&lt;/em&gt;, &lt;em&gt;(money, account)&lt;/em&gt; require less energy as they frequently appear together. But more energy is required for a pair like &lt;em&gt;(bank, pitch)&lt;/em&gt;. If a pair appears a lot number of times in the corpus, they already have a strong affinity towards each other. Hence less energy is required to  bring them together. If a pair does not appear then probably more energy is required to make them appear together.&lt;/p&gt;
+
+&lt;p&gt;If we make the assumption that distribution of &lt;strong&gt;word-context pair&lt;/strong&gt; is similar to the distribution of particles in a closed gaseous state, we have a statistical model in hand. We already have assumed that temperature and pressure are constant in our system.&lt;/p&gt;
+
+&lt;h2 id=&#34;maxwell-boltzmann-distribution&#34;&gt;Maxwell-Boltzmann Distribution&lt;/h2&gt;
+
+&lt;p&gt;With the assumption that a &lt;strong&gt;word-context pair&lt;/strong&gt; follow a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&amp;#39;t mathematically defined what energy is? The energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; needs to satisfy the following property&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The energy of a &lt;strong&gt;word-context pair&lt;/strong&gt; should be low when they have high affinity (co-occurrence) towards each other and vice-versa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How do we determine the most probable energy associated with a &lt;strong&gt;word-context pairs&lt;/strong&gt;? First, let us formally define the energy associated with a &lt;strong&gt;word-context pair&lt;/strong&gt; as&lt;/p&gt;
+
+&lt;p&gt;$$\begin{align}
+E(\text{context}, \text{word}) = - v_{\text{context}}^Tv_{\text{word}}
+\end{align} $$&lt;/p&gt;
+
+&lt;p&gt;Here, we are associating a word and it&amp;#39;s context with a $d$ dimensional real-valued vector. It would be interesting to explore a different function for calculating the energy associated with a &lt;strong&gt;word-context pairs&lt;/strong&gt;. One advantage of representing a word by a real-valued vector is that we can study the interaction of unseen &lt;strong&gt;word-context pairs&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are really interested in finding out the most-probable energy state of a &lt;strong&gt;word-context pair&lt;/strong&gt; in a given closed system. The probability is given by the equation
+$$ \begin{align}
+        P(\text{context}, \text{word}) = \frac{1}{Z} \exp^{-
+        E(\text{context},\text{word})}
+        \end{align}
+$$&lt;/p&gt;
+
+&lt;p&gt;The goal is to estimate the parameters of the distribution by looking at the data. We use maximum likelihood to estimate the parameters. Given a corpus, we build a dataset consisting of &lt;strong&gt;word-context pairs&lt;/strong&gt; where the contextual region is appropriately defined.&lt;/p&gt;
+
+&lt;h2 id=&#34;maximum-likelihood-estimation&#34;&gt;Maximum Likelihood Estimation&lt;/h2&gt;
+
+&lt;p&gt;Given a dataset $$ D= (w,c)$$ pairs, the goal is to maximize the probability of seeing context given the word &lt;em&gt;i.e,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;$$\begin{align}
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod P(c | w) \\&lt;br /&gt;
+&amp;amp;= \prod \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
+&amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
+\end{align}$$&lt;/p&gt;
+
+&lt;p&gt;Substituting the definition of $P(c,w)$ we get,
+$$\begin{align}
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
+&amp;amp;= \prod \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+\end{align}$$&lt;/p&gt;
+
+&lt;p&gt;Taking log-likelihood of the objective gives,
+$$\begin{align}
+\underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;amp;= \log \prod P(c
+| w)
+\\&lt;br /&gt;
+&amp;amp;= \sum \log \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
+&amp;amp;= \sum \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
+\end{align}$$
+We have now arrived at the skip-gram definition.&lt;/p&gt;
+
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mikolov, Tomas; et al. &amp;ldquo;Efficient Estimation of Word Representations in Vector Space&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. &amp;ldquo;Distributed representations of words and phrases and their compositionality.&amp;rdquo; In Advances in neural information processing systems, pp. 3111-3119. 2013.&lt;/li&gt;
+&lt;li&gt;Mikolov, Tomas, Wen-tau Yih, and Geoffrey Zweig. &amp;ldquo;Linguistic regularities in continuous space word representations.&amp;rdquo; In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 746-751. 2013.&lt;/li&gt;
+&lt;li&gt;Goldberg, Yoav, and Omer Levy. &amp;ldquo;word2vec Explained: deriving Mikolov et al.&amp;rsquo;s negative-sampling word-embedding method.&amp;rdquo; arXiv preprint arXiv:1402.3722 (2014).&lt;/li&gt;
+&lt;li&gt;Rudolph, Maja, Francisco Ruiz, Stephan Mandt, and David Blei. &amp;ldquo;Exponential family embeddings.&amp;rdquo; In Advances in Neural Information Processing Systems, pp. 478-486. 2016.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

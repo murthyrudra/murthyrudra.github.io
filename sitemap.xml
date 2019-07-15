@@ -30,8 +30,44 @@
   </url>
   
   <url>
+    <loc>https://murthyrudra.github.io/categories/</loc>
+    <lastmod>2019-07-07T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/relation/</loc>
+    <lastmod>2019-07-07T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/</loc>
+    <lastmod>2019-07-07T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/categories/webcomics/</loc>
+    <lastmod>2019-07-07T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/webcomics/</loc>
+    <lastmod>2019-07-07T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://murthyrudra.github.io/post/webcomics/iamsorry/</loc>
     <lastmod>2019-07-06T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/facebook/</loc>
+    <lastmod>2019-06-27T00:00:00+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -45,18 +81,90 @@
   </url>
   
   <url>
+    <loc>https://murthyrudra.github.io/categories/naacl-2019/</loc>
+    <lastmod>2019-06-07T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/naacl-2019/</loc>
+    <lastmod>2019-06-07T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</loc>
     <lastmod>2019-05-05T00:00:00+05:30</lastmod>
   </url>
   
   <url>
+    <loc>https://murthyrudra.github.io/categories/transfer-learning/</loc>
+    <lastmod>2019-05-05T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/transfer-learning/</loc>
+    <lastmod>2019-05-05T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/categories/european-languages/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/european-languages/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/categories/indian-languages/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/indian-languages/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://murthyrudra.github.io/post/monolingual-results/</loc>
-    <lastmod>2019-02-04T00:00:00+05:30</lastmod>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/categories/ner/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/ner/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://murthyrudra.github.io/post/wordvec/</loc>
     <lastmod>2019-02-03T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/categories/word-embeddings/</loc>
+    <lastmod>2019-02-03T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/word-embeddings/</loc>
+    <lastmod>2019-02-03T00:00:00+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -101,18 +209,6 @@
   
   <url>
     <loc>https://murthyrudra.github.io/authors/rudra-murthy/</loc>
-    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://murthyrudra.github.io/tags/</loc>
-    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://murthyrudra.github.io/tags/indian-languages/</loc>
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -187,12 +283,6 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/</loc>
-    <lastmod>2017-12-21T20:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://murthyrudra.github.io/categories/deep-learning/</loc>
     <lastmod>2017-12-21T20:00:00+05:30</lastmod>
     <priority>0</priority>
@@ -254,6 +344,18 @@
   </url>
   
   <url>
+    <loc>https://murthyrudra.github.io/categories/trekking/</loc>
+    <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/trekking/</loc>
+    <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://murthyrudra.github.io/post/trekking/</loc>
     <lastmod>2017-01-01T00:00:00+05:30</lastmod>
   </url>
@@ -295,12 +397,6 @@
   <url>
     <loc>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</loc>
     <lastmod>2015-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://murthyrudra.github.io/tags/word-embeddings/</loc>
-    <lastmod>2015-01-01T00:00:00+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
