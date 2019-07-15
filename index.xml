@@ -6,10 +6,48 @@
     <description>Recent content on Rudra Murthy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 18:00:02 +0530</lastBuildDate>
     
 	    <atom:link href="https://murthyrudra.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chirp: Geo-Aware Chat app for Android with Automatic Translation Support</title>
+      <link>https://murthyrudra.github.io/project/chirp-chat/</link>
+      <pubDate>Mon, 15 Jul 2019 18:00:02 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/project/chirp-chat/</guid>
+      <description>
+
+&lt;p&gt;Assume that you have visited to some tourist place and you are hungry. Basically you want to find some good hotel to have lunch. You can use some existing apps but what if the checked-in hotel is no longer there? Or you want to find someone from your place? Location-aware chat i.e, chatting with someone in your proximity comes in handy for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chirp is a location-aware chat that allows you to chat with someone in your proximity.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;stage-1&#34;&gt;Stage 1:&lt;/h2&gt;
+
+&lt;p&gt;This project was developed as part of a course project during my &lt;em&gt;Masters&lt;/em&gt; in IISc. A brief description about the app can be found here:&lt;/p&gt;
+
+&lt;p&gt;In this project, we have developed a location based chat application developed for Android OS users, allowing the user to see other users in the user&amp;rsquo;s neighbourhood and setup an instant chat with one or more such proximal users. We use Location Manager APIs for retrieving GPS co-ordinates and Java XMPP based server and client side APIs for authentication, session and log maintenance. The platform is scalable with respect to number of users and has certain built-in security measures.&lt;/p&gt;
+
+&lt;h2 id=&#34;stage-2&#34;&gt;Stage 2:&lt;/h2&gt;
+
+&lt;p&gt;I had extended this project to include automatic translation support during my first year of PhD. This again was developed as part of a course work. The user can set his native language preference. Depending on the native language set the received text would be automatically converted to the user&amp;rsquo;s native language if already not. In this particular project we had showed the utility between a Telugu and Gujarati native speaker trying to communicate with each other. We trained Moses toolkit on the parallel corpus to obtain a Translation system between Gujarati and Telugu.&lt;/p&gt;
+
+&lt;p&gt;~&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Extraction on SMS related to LG products</title>
+      <link>https://murthyrudra.github.io/project/lg-info-sms/</link>
+      <pubDate>Mon, 15 Jul 2019 17:59:53 +0530</pubDate>
+      
+      <guid>https://murthyrudra.github.io/project/lg-info-sms/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;Worked on Information Extraction on SMS related to LG products consultancy project for LGsoft Bangalore from June 2017 to December 2017.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Break-up of Astronomical Proportion!</title>
