@@ -4,37 +4,42 @@
   
   <url>
     <loc>https://murthyrudra.github.io/categories/</loc>
-    <lastmod>2019-08-26T11:22:31+05:30</lastmod>
+    <lastmod>2019-10-29T22:16:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://murthyrudra.github.io/post/marriage/</loc>
+    <lastmod>2019-10-29T22:16:14+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://murthyrudra.github.io/</loc>
-    <lastmod>2019-08-26T11:22:31+05:30</lastmod>
+    <lastmod>2019-10-29T22:16:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://murthyrudra.github.io/tags/</loc>
-    <lastmod>2019-08-26T11:22:31+05:30</lastmod>
+    <lastmod>2019-10-29T22:16:14+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/categories/webcomics/</loc>
+    <lastmod>2019-10-29T22:16:14+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/webcomics/</loc>
+    <lastmod>2019-10-29T22:16:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://murthyrudra.github.io/post/bo-chans/</loc>
     <lastmod>2019-08-26T11:22:31+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://murthyrudra.github.io/categories/webcomics/</loc>
-    <lastmod>2019-08-26T11:22:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://murthyrudra.github.io/tags/webcomics/</loc>
-    <lastmod>2019-08-26T11:22:31+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -146,14 +151,14 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/post/monolingual-results/</loc>
-    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://murthyrudra.github.io/tags/indian-languages/</loc>
     <lastmod>2019-02-04T22:34:35+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/post/monolingual-results/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
   </url>
   
   <url>
