@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PhD Student">
+  <meta name="description" content="Denoising-based Unsupervised Neural Machine Translation (U-NMT) models typically employ denoising strategy at the encoder module to prevent the model from memorizing the input source sentence. Specifically, given an input sentence of length n, the model applies n/2 random swaps between consecutive words and trains the denoising-based U-NMT model. Though effective, applying denoising strategy on every sentence in the training data leads to uncertainty in the model thereby, limiting the benefits from the denoising-based U-NMT model. In this paper, we propose a simple fine-tuning strategy where we fine-tune the trained denoising-based U-NMT system without the denoising strategy. The input sentences are presented as is i.e., without any shuffling noise added. We observe significant improvements in translation performance on many language pairs from our fine-tuning strategy. Our analysis reveals that our proposed models lead to increase in higher n-gram BLEU score compared to the denoising U-NMT modelsa.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://murthyrudra.github.io/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://murthyrudra.github.io/publication/banerjee-2019-ordering/">
 
   
 
@@ -91,15 +91,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Rudra Murthy">
-  <link rel="feed" href="/authors/index.xml" type="application/rss+xml" title="Rudra Murthy">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://murthyrudra.github.io/authors/">
+  <link rel="canonical" href="https://murthyrudra.github.io/publication/banerjee-2019-ordering/">
 
   
   
@@ -114,12 +111,14 @@
   <meta property="twitter:creator" content="@rudramurthyv">
   
   <meta property="og:site_name" content="Rudra Murthy">
-  <meta property="og:url" content="https://murthyrudra.github.io/authors/">
-  <meta property="og:title" content="Authors | Rudra Murthy">
-  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://murthyrudra.github.io/publication/banerjee-2019-ordering/">
+  <meta property="og:title" content="Ordering Matters: Word Ordering Aware Unsupervised NMT | Rudra Murthy">
+  <meta property="og:description" content="Denoising-based Unsupervised Neural Machine Translation (U-NMT) models typically employ denoising strategy at the encoder module to prevent the model from memorizing the input source sentence. Specifically, given an input sentence of length n, the model applies n/2 random swaps between consecutive words and trains the denoising-based U-NMT model. Though effective, applying denoising strategy on every sentence in the training data leads to uncertainty in the model thereby, limiting the benefits from the denoising-based U-NMT model. In this paper, we propose a simple fine-tuning strategy where we fine-tune the trained denoising-based U-NMT system without the denoising strategy. The input sentences are presented as is i.e., without any shuffling noise added. We observe significant improvements in translation performance on many language pairs from our fine-tuning strategy. Our analysis reveals that our proposed models lead to increase in higher n-gram BLEU score compared to the denoising U-NMT modelsa."><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2019-01-01T00:00:00&#43;05:30">
+  <meta property="article:published_time" content="2019-11-05T04:02:57&#43;00:00">
+  
+  <meta property="article:modified_time" content="2019-01-01T00:00:00&#43;05:30">
   
 
   
@@ -131,7 +130,7 @@
 
 
 
-  <title>Authors | Rudra Murthy</title>
+  <title>Ordering Matters: Word Ordering Aware Unsupervised NMT | Rudra Murthy</title>
 
 </head>
 
@@ -408,6 +407,185 @@
 </nav>
 
 
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Ordering Matters: Word Ordering Aware Unsupervised NMT</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2019-01-01 00:00:00 &#43;0530 IST" itemprop="datePublished">
+<meta content="2019-01-01 00:00:00 &#43;0530 IST" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tamali-banerjee/">Tamali Banerjee</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/rudra-murthy-v/">Rudra Murthy V</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/pushpak-bhattacharyya/">Pushpak Bhattacharyya</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Tue, Jan 1, 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://murthyrudra.github.io/publication/banerjee-2019-ordering/&amp;text=Ordering%20Matters:%20Word%20Ordering%20Aware%20Unsupervised%20NMT" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://murthyrudra.github.io/publication/banerjee-2019-ordering/&amp;t=Ordering%20Matters:%20Word%20Ordering%20Aware%20Unsupervised%20NMT" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Ordering%20Matters:%20Word%20Ordering%20Aware%20Unsupervised%20NMT&amp;body=https://murthyrudra.github.io/publication/banerjee-2019-ordering/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://murthyrudra.github.io/publication/banerjee-2019-ordering/&amp;title=Ordering%20Matters:%20Word%20Ordering%20Aware%20Unsupervised%20NMT" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Ordering%20Matters:%20Word%20Ordering%20Aware%20Unsupervised%20NMT%20https://murthyrudra.github.io/publication/banerjee-2019-ordering/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://murthyrudra.github.io/publication/banerjee-2019-ordering/&amp;title=Ordering%20Matters:%20Word%20Ordering%20Aware%20Unsupervised%20NMT" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -417,62 +595,131 @@
 
 
 
-
-
-
-
-  
-
-  
-  
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Authors</h1>
 
-  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1911.01212" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/banerjee-2019-ordering/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Denoising-based Unsupervised Neural Machine Translation (U-NMT) models typically employ denoising strategy at the encoder module to prevent the model from memorizing the input source sentence. Specifically, given an input sentence of length n, the model applies n/2 random swaps between consecutive words and trains the denoising-based U-NMT model. Though effective, applying denoising strategy on every sentence in the training data leads to uncertainty in the model thereby, limiting the benefits from the denoising-based U-NMT model. In this paper, we propose a simple fine-tuning strategy where we fine-tune the trained denoising-based U-NMT system without the denoising strategy. The input sentences are presented as is i.e., without any shuffling noise added. We observe significant improvements in translation performance on many language pairs from our fine-tuning strategy. Our analysis reveals that our proposed models lead to increase in higher n-gram BLEU score compared to the denoising U-NMT modelsa.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#0">
+              Uncategorized
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
   
-
-  <ul>
-    
-    
-      
-      <li><a href="https://murthyrudra.github.io/authors/prerana-singhal/">Prerana Singhal</a></li>
-    
-      
-      <li><a href="https://murthyrudra.github.io/authors/sudha-bhingardive/">Sudha Bhingardive</a></li>
-    
-      
-      <li><a href="https://murthyrudra.github.io/authors/dhirendra-singh/">Dhirendra Singh</a></li>
-    
-      
-      <li><a href="https://murthyrudra.github.io/authors/hanumant-redkar/">Hanumant Redkar</a></li>
-    
-      
-      <li><a href="https://murthyrudra.github.io/authors/admin/">Rudra Murthy V</a></li>
-    
-  </ul>
-
+  <a class="badge badge-light" href="/tags/unsupervised-neural-machine-translation/">unsupervised neural machine translation</a>
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/">&laquo;</a></li>
-    
-    
-  </ul>
-</nav>
-
-
 </div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/tamali-banerjee/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
 
       
 
