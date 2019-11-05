@@ -26,13 +26,13 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/webcomics/</loc>
+    <loc>https://murthyrudra.github.io/categories/webcomics/</loc>
     <lastmod>2019-10-29T22:16:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/webcomics/</loc>
+    <loc>https://murthyrudra.github.io/tags/webcomics/</loc>
     <lastmod>2019-10-29T22:16:14+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -104,13 +104,13 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/naacl-2019/</loc>
+    <loc>https://murthyrudra.github.io/categories/naacl-2019/</loc>
     <lastmod>2019-06-07T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/naacl-2019/</loc>
+    <loc>https://murthyrudra.github.io/tags/naacl-2019/</loc>
     <lastmod>2019-06-07T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -121,20 +121,14 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/transfer-learning/</loc>
-    <lastmod>2019-05-05T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://murthyrudra.github.io/categories/transfer-learning/</loc>
     <lastmod>2019-05-05T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/european-languages/</loc>
-    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <loc>https://murthyrudra.github.io/tags/transfer-learning/</loc>
+    <lastmod>2019-05-05T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,7 +139,7 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/indian-languages/</loc>
+    <loc>https://murthyrudra.github.io/tags/european-languages/</loc>
     <lastmod>2019-02-04T22:34:35+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -157,18 +151,24 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/post/monolingual-results/</loc>
-    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://murthyrudra.github.io/tags/named-entity-recognition/</loc>
+    <loc>https://murthyrudra.github.io/tags/indian-languages/</loc>
     <lastmod>2019-02-04T22:34:35+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://murthyrudra.github.io/post/monolingual-results/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://murthyrudra.github.io/categories/named-entity-recognition/</loc>
+    <lastmod>2019-02-04T22:34:35+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/tags/named-entity-recognition/</loc>
     <lastmod>2019-02-04T22:34:35+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -179,13 +179,13 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/word-embeddings/</loc>
+    <loc>https://murthyrudra.github.io/categories/word-embeddings/</loc>
     <lastmod>2019-02-03T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/word-embeddings/</loc>
+    <loc>https://murthyrudra.github.io/tags/word-embeddings/</loc>
     <lastmod>2019-02-03T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -203,6 +203,11 @@
   </url>
   
   <url>
+    <loc>https://murthyrudra.github.io/publication/jyotsna-2019-crosslingual/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</loc>
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
   </url>
@@ -215,6 +220,12 @@
   
   <url>
     <loc>https://murthyrudra.github.io/authors/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/authors/jyotsana-khatri/</loc>
     <lastmod>2019-01-01T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -395,13 +406,13 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/trekking/</loc>
+    <loc>https://murthyrudra.github.io/categories/trekking/</loc>
     <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/trekking/</loc>
+    <loc>https://murthyrudra.github.io/tags/trekking/</loc>
     <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
