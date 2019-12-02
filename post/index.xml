@@ -110,17 +110,13 @@
       <description>
 
 
-
-
 &lt;figure&gt;
 
 &lt;img src=&#34;souvenirs.jpg&#34; /&gt;
 
 
 &lt;/figure&gt;
-
 &lt;h5 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h5&gt;
-
 &lt;p&gt;The content was created using Inskcape. I would like to thank &lt;strong&gt;Sids Art - Inkscape And Drawings&lt;/strong&gt; for the nice Youtube Tutorial 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/vExdB5MI26c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -247,12 +243,8 @@
       <pubDate>Wed, 26 Jun 2019 10:43:02 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/facebook-user-price/</guid>
-      <description>
-
-&lt;h4 id=&#34;context&#34;&gt;Context:&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&amp;amp;IR=T&#34; target=&#34;_blank&#34;&gt;Facebook and Google could be forced to tell you how much your data is worth under new US legislation&lt;/a&gt;&lt;/p&gt;
-
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&amp;amp;IR=T&#34;&gt;Facebook and Google could be forced to tell you how much your data is worth under new US legislation&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -262,9 +254,7 @@
 
 
 &lt;/figure&gt;
-
 &lt;h5 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h5&gt;
-
 &lt;p&gt;The avatar was drawn using Inskcape. I would like to thank &lt;strong&gt;Sids Art - Inkscape And Drawings&lt;/strong&gt; for the nice Youtube Tutorial 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/L9cVUTrXPMw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -279,20 +269,12 @@
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</guid>
-      <description>
-
-&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&amp;rsquo;s NAACL was unlike any other year. The highlight of this year&amp;rsquo;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&amp;rsquo;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&amp;rsquo;t control&lt;/em&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&#39;s NAACL was unlike any other year. The highlight of this year&#39;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&#39;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&#39;t control&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I will brief about few of the initiatives taken by the organizing committee here.&lt;/p&gt;
-
 &lt;h3 id=&#34;a-more-inclusive-conference&#34;&gt;A More Inclusive Conference&lt;/h3&gt;
-
 &lt;h4 id=&#34;pronouns&#34;&gt;Pronouns&lt;/h4&gt;
-
-&lt;p&gt;Have you ever bumped into someone and couldn&amp;rsquo;t figure out how to address them? You don&amp;rsquo;t know if you should address them by their first name or last name? Someone addresses you by the wrong pronoun? &lt;em&gt;Not to worry, the committee came up with a solution to address this all.&lt;/em&gt;&lt;/p&gt;
-
+&lt;p&gt;Have you ever bumped into someone and couldn&#39;t figure out how to address them? You don&#39;t know if you should address them by their first name or last name? Someone addresses you by the wrong pronoun? &lt;em&gt;Not to worry, the committee came up with a solution to address this all.&lt;/em&gt;&lt;/p&gt;
 &lt;h5 id=&#34;conference-badge&#34;&gt;Conference Badge&lt;/h5&gt;
-
 &lt;p&gt;
 
 
@@ -308,10 +290,8 @@
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-This year&amp;rsquo;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&amp;rsquo;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read &lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&#34;gender-neutral-restrooms&#34;&gt;Gender-neutral Restrooms&lt;/h4&gt;
-
+This year&#39;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&#39;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read &lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;genderneutral-restrooms&#34;&gt;Gender-neutral Restrooms&lt;/h4&gt;
 &lt;p&gt;
 
 
@@ -328,36 +308,22 @@ This year&amp;rsquo;s conference badge was different. Apart from your name and y
 
 &lt;/figure&gt;
 The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone can use this restrooms irrespective of their gender or identity. If you are not comfortable using gender-neutral restrooms, then not to worry as the venue had regular restrooms too.&lt;/p&gt;
-
-&lt;h3 id=&#34;quiet-prayer-rooms&#34;&gt;Quiet/Prayer Rooms&lt;/h3&gt;
-
-&lt;p&gt;Conferences are usually crowded. You may sometimes feel like you need to go to a quiet place to get away from all the discussions. Or maybe you feel like meditating for a bit. Or maybe it&amp;rsquo;s your prayer time. This year, the conference venue had a separate &lt;em&gt;Quiet/Prayer Room&lt;/em&gt; for the sole purpose.&lt;/p&gt;
-
+&lt;h3 id=&#34;quietprayer-rooms&#34;&gt;Quiet/Prayer Rooms&lt;/h3&gt;
+&lt;p&gt;Conferences are usually crowded. You may sometimes feel like you need to go to a quiet place to get away from all the discussions. Or maybe you feel like meditating for a bit. Or maybe it&#39;s your prayer time. This year, the conference venue had a separate &lt;em&gt;Quiet/Prayer Room&lt;/em&gt; for the sole purpose.&lt;/p&gt;
 &lt;h3 id=&#34;childcare&#34;&gt;Childcare&lt;/h3&gt;
-
 &lt;p&gt;It is stressful to attend a conference and it is more stressful to attend a conference accompanied by your children. The conference had provisions where one can apply for subsidy which could be used to compensate for arranging a childcare provider at the venue or at home. The venue also had two rooms one for &lt;em&gt;nursing&lt;/em&gt; and other for spending time with your kids. Bringing your kids to attend a conference is a pleasurable experience now.&lt;/p&gt;
-
 &lt;h3 id=&#34;disability-access&#34;&gt;Disability Access&lt;/h3&gt;
-
 &lt;p&gt;The conference had various initiatives like&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;captioning of the talks for the hearing-impaired&lt;/li&gt;
 &lt;li&gt;quiet areas to escape from the intensity of the conference&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;remote-presentations-and-poster&#34;&gt;Remote Presentations and Poster&lt;/h3&gt;
-
 &lt;p&gt;Have you ever missed attending a conference for not being able to get proper funding or denied VISA or other personal factors? Recently, there is growing concern with conferences held in USA about VISA denial. It is very frustrating that you miss out the chance of attending conferences and networking with people. These are some factors which are out of our control. However, the organizing committee decided that there could be something done to ensure that such participants do not miss out the experience of attending the conference. One of the features of the conference was &lt;em&gt;Remote Presentations&lt;/em&gt; and &lt;em&gt;Remote Posters&lt;/em&gt;. One does not have to miss the feeling of not being able to present their work in front of the world.&lt;/p&gt;
-
 &lt;p&gt;There were occasional issues when it comes to remote presentations, but this is a first step towards more inclusivity. Hopefully, in the coming years you can connect with conference attendees from your home itself and present your work to the world.&lt;/p&gt;
-
 &lt;h3 id=&#34;whova-app&#34;&gt;Whova App&lt;/h3&gt;
-
-&lt;p&gt;Are you attending the conference for the first time and are not sure what to do? Just as in earlier conferences, NAACL used Whova app to help attendees connect with each other. You can find out who all are attending the conferences, what are their interests, form groups to go out for lunch and sight-seeing. Even if someone couldn&amp;rsquo;t be present physically at the conference that person (remember: the deliberate avoidance of using pronouns here) can still connect with others attending the conference via the app.&lt;/p&gt;
-
+&lt;p&gt;Are you attending the conference for the first time and are not sure what to do? Just as in earlier conferences, NAACL used Whova app to help attendees connect with each other. You can find out who all are attending the conferences, what are their interests, form groups to go out for lunch and sight-seeing. Even if someone couldn&#39;t be present physically at the conference that person (remember: the deliberate avoidance of using pronouns here) can still connect with others attending the conference via the app.&lt;/p&gt;
 &lt;p&gt;This year NAACL was a good experience and I enjoyed attending the conference. The conference took a step in being more inclusive and ensured no-one felt left out. The system may not be perfect but a step in the right-direction.&lt;/p&gt;
-
 &lt;p&gt;Cheers :)&lt;/p&gt;
 </description>
     </item>
@@ -368,49 +334,31 @@ The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone c
       <pubDate>Sun, 05 May 2019 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
-      <description>
-
-&lt;p&gt;Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept &lt;em&gt;tree&lt;/em&gt;. Instead, we learn the corresponding word used to represent the concept (&lt;em&gt;tree&lt;/em&gt;). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what &lt;strong&gt;Transfer Learning&lt;/strong&gt; is all about. &lt;span class=&#34;markup-quote&#34;&gt;Transfer Learning is using knowledge gained from one task to solve a related task.&lt;/span&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept &lt;em&gt;tree&lt;/em&gt;. Instead, we learn the corresponding word used to represent the concept (&lt;em&gt;tree&lt;/em&gt;). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what &lt;strong&gt;Transfer Learning&lt;/strong&gt; is all about. &lt;span class=&#34;markup-quote&#34;&gt;Transfer Learning is using knowledge gained from one task to solve a related task.&lt;/span&gt;&lt;/p&gt;
 &lt;h5 id=&#34;definition&#34;&gt;Definition:&lt;/h5&gt;
-
-&lt;p&gt;Now, let me quote the Wikipedia definition for &lt;a href=&#34;https://en.wikipedia.org/wiki/Transfer_learning&#34; target=&#34;_blank&#34;&gt;Transfer Learning&lt;/a&gt;,&lt;/p&gt;
-
+&lt;p&gt;Now, let me quote the Wikipedia definition for &lt;a href=&#34;https://en.wikipedia.org/wiki/Transfer_learning&#34;&gt;Transfer Learning&lt;/a&gt;,&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognise cars could apply when trying to recognise trucks. This area of research bears some relation to the long history of psychological literature on transfer of learning, although formal ties between the two fields are limited.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;In the field of Natural Language Processing (NLP), transfer learning can take the form of multi-task learning or multilingual learning. Multi-task learning refers to using knowledge from one task to improve performance in a related task in the same language. For example, sentiment analysis helping emotion analysis. Similarly, multilingual learning refers to using knowledge from a task in one language to improve performance in a related task in another language language. Usually in multilingual learning, we focus on the case where the tasks are the same in both the languages.&lt;/p&gt;
-
-&lt;p&gt;In this post, I won&amp;rsquo;t be going into the details of Transfer Learning. Sebastian Ruder&amp;rsquo;s blog post on &lt;a href=&#34;http://ruder.io/transfer-learning/&#34; target=&#34;_blank&#34;&gt;Transfer Learning&lt;/a&gt; summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.&lt;/p&gt;
-
+&lt;p&gt;In this post, I won&#39;t be going into the details of Transfer Learning. Sebastian Ruder&#39;s blog post on &lt;a href=&#34;http://ruder.io/transfer-learning/&#34;&gt;Transfer Learning&lt;/a&gt; summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.&lt;/p&gt;
 &lt;h3 id=&#34;transfer-learning-a-strong-prior-distribution-over-models&#34;&gt;Transfer Learning: A Strong Prior Distribution Over Models&lt;/h3&gt;
-
 &lt;p&gt;&lt;em&gt;Zoph et.al 2016&lt;/em&gt; quotes in his paper titled &lt;strong&gt;Transfer Learning for Low-Resource Neural Machine Translation&lt;/strong&gt;:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;A justification for this approach is that in scenarios where we have limited training data, we need a strong prior distribution over models. The parent model trained on a large amount of bilingual data can be considered an anchor point, the peak of our prior distribution in model space. When we train the child model initialised with the parent model, we fix parameters likely to be useful across tasks so that they will not be changed during child-model training.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;h3 id=&#34;supervised-learning-as-curve-fitting&#34;&gt;Supervised Learning as Curve Fitting&lt;/h3&gt;
-
 &lt;p&gt;The goal of supervised learning can be thought of as fitting a curve (function) given some data points &lt;em&gt;i.e.,&lt;/em&gt; $y = f(x)$. Learn the function $f$, given input values $x$ and corresponding output values $y$. If we had $y$ for every point in the input space, we can fit the curve exactly. This is not the case in real-life scenarios. We usually get to collect a subset of measurements $y$ for some sample of points $x$ in the input space. The measurements $y$ obtained might be noisy. As a consequence, there are many possible functions which can fit the data well. The problem reduces to &lt;strong&gt;search&lt;/strong&gt;, where the goal is to find a function which fits the data.&lt;/p&gt;
-
 &lt;p&gt;There are situations, where we rarely get to collect observations. The collected observations may not be indicative of the actual function to be learnt. Supervised learning fails badly in these cases. If we have a related task with abundant data points, we can train the supervised model on this auxiliary task. Now when we fine-tune the auxiliary task model on the actual task data, the model is already restricted in the function space. The search now proceeds to find a suitable function to fit the actual task data in the neighbourhood.&lt;/p&gt;
-
 &lt;h4 id=&#34;fitting-a-cosine-function&#34;&gt;Fitting a Cosine Function&lt;/h4&gt;
-
 &lt;p&gt;Let us demonstrate this intuition with a toy example. Consider the task of fitting a &lt;strong&gt;Cosine&lt;/strong&gt; function. We will use a deep feed-forward neural network for this purpose. We will first generate a set of data points and plot the curve.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# We will generate 200 random points from 0 to 720
-X = np.random.randint(720, size=(200,1))
-# Convert the values to radians
-X_rad = X * np.pi / 180
-# Get the corresponding cosine values for the inputs
-Y = np.cos(X_rad)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The following figure plots the generated data points 
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# We will generate 200 random points from 0 to 720&lt;/span&gt;
+X &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;random&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;randint(&lt;span style=&#34;color:#ae81ff&#34;&gt;720&lt;/span&gt;, size&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;200&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;))
+&lt;span style=&#34;color:#75715e&#34;&gt;# Convert the values to radians&lt;/span&gt;
+X_rad &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;180&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;# Get the corresponding cosine values for the inputs&lt;/span&gt;
+Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;cos(X_rad)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The following figure plots the generated data points 
 
 
 &lt;figure&gt;
@@ -419,12 +367,9 @@ Y = np.cos(X_rad)
 
 
 &lt;/figure&gt; We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;X_small = X_rad[:20]
-Y_small = Y[:20]
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The reduced set of data points leads to the following plot 
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;X_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X_rad[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
+Y_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Y[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The reduced set of data points leads to the following plot 
 
 
 &lt;figure&gt;
@@ -433,51 +378,45 @@ Y_small = Y[:20]
 
 
 &lt;/figure&gt; Before proceeding further, let us define the deep learning model.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;CurveFitter&lt;/span&gt;(nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Module):
 
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;class CurveFitter(nn.Module):
+	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; __init__(self, inputDim, outDim, hidDim):
+		super(CurveFitter, self)&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;__init__()
 
-	def __init__(self, inputDim, outDim, hidDim):
-		super(CurveFitter, self).__init__()
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;inputDim &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; inputDim
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;outDim &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; outDim
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; hidDim
 
-		self.inputDim = inputDim
-		self.outDim = outDim
-		self.hidDim = hidDim
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;inputDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim)
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ReLU()
 
-		self.linear_l1 = nn.Linear(self.inputDim, self.hidDim)
-		self.nla_l1 = nn.ReLU()
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim)
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ReLU()
 
-		self.linear_l2 = nn.Linear(self.hidDim, self.hidDim)
-		self.nla_l2 = nn.ReLU()
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l3 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim)
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l3 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ReLU()
 
-		self.linear_l3 = nn.Linear(self.hidDim, self.hidDim)
-		self.nla_l3 = nn.ReLU()
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l4 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;outDim)
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l4 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Tanh()
 
-		self.linear_l4 = nn.Linear(self.hidDim, self.outDim)
-		self.nla_l4 = nn.Tanh()
+		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;mse_loss &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;MSELoss()
 
-		self.mse_loss = nn.MSELoss()
+	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;forward&lt;/span&gt;(self, x):
 
-	def forward(self, x):
+		result &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l1( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l1(x) ) ) ) ) ) ) )
 
-		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
+		&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; result
 
-		return result
+	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;loss&lt;/span&gt;(self, x, y):
 
-	def loss(self, x, y):
+		result &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l1( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l1(x) ) ) ) ) ) ) )
 
-		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
-
-		return self.mse_loss(result, y)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Let us instantiate the model and use &lt;em&gt;Adam&lt;/em&gt; optimizer to train the model.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;torch.manual_seed(9899999)
-network_cos = CurveFitter(1, 1, 200 )
-optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Training the above model on the smaller set of points leads to the following curve 
+		&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;mse_loss(result, y)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Let us instantiate the model and use &lt;em&gt;Adam&lt;/em&gt; optimizer to train the model.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;torch&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;manual_seed(&lt;span style=&#34;color:#ae81ff&#34;&gt;9899999&lt;/span&gt;)
+network_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; CurveFitter(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;200&lt;/span&gt; )
+optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(network_cos&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;parameters(), lr&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0.001&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Training the above model on the smaller set of points leads to the following curve 
 
 
 &lt;figure&gt;
@@ -486,22 +425,16 @@ optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
 
 
 &lt;/figure&gt;&lt;/p&gt;
-
 &lt;p&gt;As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.&lt;/p&gt;
-
 &lt;h4 id=&#34;transferring-knowledge-from-sine-function&#34;&gt;Transferring Knowledge from Sine Function&lt;/h4&gt;
-
 &lt;p&gt;Let us assume, that we have enough data points to train a Sine function. We will train the model using the earlier architecture. Unlike earlier, we will generate points from 0 to 1080 instead of 0 to 720.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# We will generate 200 random points from 0 to 720
-X = np.random.randint(1080, size=(200,1))
-# Convert the values to radians
-X_rad = X * np.pi / 180
-# Get the corresponding cosine values for the inputs
-Y = np.sin(X_rad)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The training points for sine function is 
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# We will generate 200 random points from 0 to 720&lt;/span&gt;
+X &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;random&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;randint(&lt;span style=&#34;color:#ae81ff&#34;&gt;1080&lt;/span&gt;, size&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;200&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;))
+&lt;span style=&#34;color:#75715e&#34;&gt;# Convert the values to radians&lt;/span&gt;
+X_rad &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;180&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;# Get the corresponding cosine values for the inputs&lt;/span&gt;
+Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;sin(X_rad)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The training points for sine function is 
 
 
 &lt;figure&gt;
@@ -527,11 +460,8 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 &lt;/figure&gt;&lt;/p&gt;
-
 &lt;p&gt;Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe &lt;em&gt;Zoph et.al 2016&lt;/em&gt; meant when they said that &lt;span class=&#34;markup-quote&#34;&gt;the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large.&lt;/span&gt;&lt;/p&gt;
-
 &lt;h4 id=&#34;initialization&#34;&gt;Initialization&lt;/h4&gt;
-
 &lt;p&gt;Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves 
 
 
@@ -541,11 +471,8 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 &lt;/figure&gt; However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;
-
 &lt;p&gt;The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.&lt;/p&gt;
-
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Barret Zoph, Deniz Yuret, Jonathan May, and Kevin Knight. &lt;em&gt;Transfer Learning for Low-Resource Neural Machine Translation&lt;/em&gt;. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, EMNLP 2016.&lt;/li&gt;
 &lt;/ul&gt;
@@ -558,12 +485,8 @@ We will use the trained model and further fine-tune the model on smaller set of 
       <pubDate>Mon, 04 Feb 2019 22:34:35 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
-      <description>
-
-&lt;p&gt;The Neural NER system implemented by me as part of the papers &lt;a href=&#34;https://murthyrudra.github.io/publication/low-resource-tallip/&#34; target=&#34;_blank&#34;&gt;TALLIP paper&lt;/a&gt; and &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt; achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
-
+      <description>&lt;p&gt;The Neural NER system implemented by me as part of the papers &lt;a href=&#34;https://murthyrudra.github.io/publication/low-resource-tallip/&#34;&gt;TALLIP paper&lt;/a&gt; and &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt; achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -574,91 +497,80 @@ We will use the trained model and further fine-tune the model on smaller set of 
 &lt;th align=&#34;center&#34;&gt;F1 Score&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;English&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2003/ner/&#34; target=&#34;_blank&#34;&gt;CoNLL 2003&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.pdhillon.com/code.html&#34; target=&#34;_blank&#34;&gt;Spectral Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2003/ner/&#34;&gt;CoNLL 2003&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.pdhillon.com/code.html&#34;&gt;Spectral Embeddings&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;90.94&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Spanish&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;85.75&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Dutch&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;85.20&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;German&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;87.64&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Italian&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Evalita 2009&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;75.98&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Hindi&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34;&gt;Fasttext Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34;&gt;Fasttext Embeddings&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;64.93&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Marathi&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;61.46&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Bengali&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;55.61&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Malayalam&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;64.59&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Tamil&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34; target=&#34;_blank&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;65.39&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;p&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to &lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34; target=&#34;_blank&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to &lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -668,82 +580,58 @@ We will use the trained model and further fine-tune the model on smaller set of 
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/wordvec/</guid>
-      <description>
-
-&lt;p&gt;If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?&lt;/p&gt;
-
-&lt;p&gt;Let us consider a &lt;strong&gt;corpus&lt;/strong&gt; as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies. In the case of the corpus, should we choose &lt;strong&gt;words&lt;/strong&gt; as the particle of interest? But the word itself doesn&amp;#39;t signify anything. When we hear a word we implicitly assume a context which helps us in deciphering it&amp;#39;s meaning.&lt;/p&gt;
-
+      <description>&lt;p&gt;If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?&lt;/p&gt;
+&lt;p&gt;Let us consider a &lt;strong&gt;corpus&lt;/strong&gt; as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies. In the case of the corpus, should we choose &lt;strong&gt;words&lt;/strong&gt; as the particle of interest? But the word itself doesn&#39;t signify anything. When we hear a word we implicitly assume a context which helps us in deciphering it&#39;s meaning.&lt;/p&gt;
 &lt;p&gt;Instead, we choose &lt;strong&gt;word-context pair&lt;/strong&gt; as the particles in our closed system. The contextual word could be as simple as a co-occurring word in a window or a word related by some dependency relationship.&lt;/p&gt;
-
 &lt;p&gt;Just like in a gaseous system, some particles have high kinetic energy and some particles have very low kinetic energy. Let us assume that temperature and pressure are constant and do not have any influence on the system. What do we mean by high kinetic energy in the definition of our particles (&lt;strong&gt;word-context pair&lt;/strong&gt;)?&lt;/p&gt;
-
 &lt;p&gt;In the gaseous state, we find few particles with very low energy, a lot number of particles with the most common(average) energy and very few particles with very high energy. It almost looks like a bell curve with tapering at the high energy region.&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;If we take any corpus, usually we find few word-context pairs which appear always together, many pairs appear a decent number of times and a very large number of pairs which do not appear at all?&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;Let us now define the energy of a &lt;strong&gt;word-context pair&lt;/strong&gt;, as the energy required to bring them together in a closed system. Some pairs like &lt;em&gt;(money, bank)&lt;/em&gt;, &lt;em&gt;(money, account)&lt;/em&gt; require less energy as they frequently appear together. But more energy is required for a pair like &lt;em&gt;(bank, pitch)&lt;/em&gt;. If a pair appears a lot number of times in the corpus, they already have a strong affinity towards each other. Hence less energy is required to  bring them together. If a pair does not appear then probably more energy is required to make them appear together.&lt;/p&gt;
-
 &lt;p&gt;If we make the assumption that distribution of &lt;strong&gt;word-context pair&lt;/strong&gt; is similar to the distribution of particles in a closed gaseous state, we have a statistical model in hand. We already have assumed that temperature and pressure are constant in our system.&lt;/p&gt;
-
-&lt;h2 id=&#34;maxwell-boltzmann-distribution&#34;&gt;Maxwell-Boltzmann Distribution&lt;/h2&gt;
-
-&lt;p&gt;With the assumption that a &lt;strong&gt;word-context pair&lt;/strong&gt; follow a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&amp;#39;t mathematically defined what energy is? The energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; needs to satisfy the following property&lt;/p&gt;
-
+&lt;h2 id=&#34;maxwellboltzmann-distribution&#34;&gt;Maxwell-Boltzmann Distribution&lt;/h2&gt;
+&lt;p&gt;With the assumption that a &lt;strong&gt;word-context pair&lt;/strong&gt; follow a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&#39;t mathematically defined what energy is? The energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; needs to satisfy the following property&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The energy of a &lt;strong&gt;word-context pair&lt;/strong&gt; should be low when they have high affinity (co-occurrence) towards each other and vice-versa&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;How do we determine the most probable energy associated with a &lt;strong&gt;word-context pairs&lt;/strong&gt;? First, let us formally define the energy associated with a &lt;strong&gt;word-context pair&lt;/strong&gt; as&lt;/p&gt;
-
 &lt;p&gt;$$\begin{align}
 E(\text{context}, \text{word}) = - v_{\text{context}}^Tv_{\text{word}}
 \end{align} $$&lt;/p&gt;
-
-&lt;p&gt;Here, we are associating a word and it&amp;#39;s context with a $d$ dimensional real-valued vector. It would be interesting to explore a different function for calculating the energy associated with a &lt;strong&gt;word-context pairs&lt;/strong&gt;. One advantage of representing a word by a real-valued vector is that we can study the interaction of unseen &lt;strong&gt;word-context pairs&lt;/strong&gt;.&lt;/p&gt;
-
+&lt;p&gt;Here, we are associating a word and it&#39;s context with a $d$ dimensional real-valued vector. It would be interesting to explore a different function for calculating the energy associated with a &lt;strong&gt;word-context pairs&lt;/strong&gt;. One advantage of representing a word by a real-valued vector is that we can study the interaction of unseen &lt;strong&gt;word-context pairs&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We are really interested in finding out the most-probable energy state of a &lt;strong&gt;word-context pair&lt;/strong&gt; in a given closed system. The probability is given by the equation
 $$ \begin{align}
-        P(\text{context}, \text{word}) = \frac{1}{Z} \exp^{-
-        E(\text{context},\text{word})}
-        \end{align}
+P(\text{context}, \text{word}) = \frac{1}{Z} \exp^{-
+E(\text{context},\text{word})}
+\end{align}
 $$&lt;/p&gt;
-
 &lt;p&gt;The goal is to estimate the parameters of the distribution by looking at the data. We use maximum likelihood to estimate the parameters. Given a corpus, we build a dataset consisting of &lt;strong&gt;word-context pairs&lt;/strong&gt; where the contextual region is appropriately defined.&lt;/p&gt;
-
 &lt;h2 id=&#34;maximum-likelihood-estimation&#34;&gt;Maximum Likelihood Estimation&lt;/h2&gt;
-
 &lt;p&gt;Given a dataset $$ D= (w,c)$$ pairs, the goal is to maximize the probability of seeing context given the word &lt;em&gt;i.e,&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;$$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod P(c | w) \\&lt;br /&gt;
-&amp;amp;= \prod \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
-&amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod P(c | w) \\\&lt;br&gt;
+&amp;amp;= \prod \frac{p(c,w)}{p(w)} \\\&lt;br&gt;
+&amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\&lt;br&gt;
 \end{align}$$&lt;/p&gt;
-
 &lt;p&gt;Substituting the definition of $P(c,w)$ we get,
 $$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\&lt;br /&gt;
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\&lt;br&gt;
 &amp;amp;= \prod \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$&lt;/p&gt;
-
 &lt;p&gt;Taking log-likelihood of the objective gives,
 $$\begin{align}
 \underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;amp;= \log \prod P(c
 | w)
-\\&lt;br /&gt;
-&amp;amp;= \sum \log \frac{p(c,w)}{p(w)} \\&lt;br /&gt;
+\\\&lt;br&gt;
+&amp;amp;= \sum \log \frac{p(c,w)}{p(w)} \\\&lt;br&gt;
 &amp;amp;= \sum \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$
 We have now arrived at the skip-gram definition.&lt;/p&gt;
-
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Mikolov, Tomas; et al. &amp;ldquo;Efficient Estimation of Word Representations in Vector Space&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. &amp;ldquo;Distributed representations of words and phrases and their compositionality.&amp;rdquo; In Advances in neural information processing systems, pp. 3111-3119. 2013.&lt;/li&gt;
 &lt;li&gt;Mikolov, Tomas, Wen-tau Yih, and Geoffrey Zweig. &amp;ldquo;Linguistic regularities in continuous space word representations.&amp;rdquo; In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 746-751. 2013.&lt;/li&gt;
-&lt;li&gt;Goldberg, Yoav, and Omer Levy. &amp;ldquo;word2vec Explained: deriving Mikolov et al.&amp;rsquo;s negative-sampling word-embedding method.&amp;rdquo; arXiv preprint arXiv:1402.3722 (2014).&lt;/li&gt;
+&lt;li&gt;Goldberg, Yoav, and Omer Levy. &amp;ldquo;word2vec Explained: deriving Mikolov et al.&amp;lsquo;s negative-sampling word-embedding method.&amp;rdquo; arXiv preprint arXiv:1402.3722 (2014).&lt;/li&gt;
 &lt;li&gt;Rudolph, Maja, Francisco Ruiz, Stephan Mandt, and David Blei. &amp;ldquo;Exponential family embeddings.&amp;rdquo; In Advances in Neural Information Processing Systems, pp. 478-486. 2016.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -755,26 +643,18 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
       <pubDate>Fri, 21 Jul 2017 20:46:38 +0530</pubDate>
       
       <guid>https://murthyrudra.github.io/post/marriage-promiscuity/</guid>
-      <description>&lt;p&gt;Let me directly cut to the chase. It&amp;rsquo;s been a question which is constantly pestering me from many days. It&amp;rsquo;s a simple question, &amp;ldquo;What is the relation between marriage, love, cheating and promiscuity&amp;rdquo;. The blog though does not answer this question, as it is difficult to find any answer but the effort is to search for one.&lt;/p&gt;
-
+      <description>&lt;p&gt;Let me directly cut to the chase. It&#39;s been a question which is constantly pestering me from many days. It&#39;s a simple question, &amp;ldquo;What is the relation between marriage, love, cheating and promiscuity&amp;rdquo;. The blog though does not answer this question, as it is difficult to find any answer but the effort is to search for one.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Marriage:&lt;/strong&gt;
-Have you ever wondered why one should get married? Well apart from a study which said Cancer survival rates are higher if you are married. Why should one get married? Okay, that&amp;rsquo;s an entirely unrelated question for this blog.&lt;/p&gt;
-
+Have you ever wondered why one should get married? Well apart from a study which said Cancer survival rates are higher if you are married. Why should one get married? Okay, that&#39;s an entirely unrelated question for this blog.&lt;/p&gt;
 &lt;p&gt;But really, many of us get married without even knowing what marriage is. I mean what are the rules and regulations one should follow after getting married? What is an acceptable behavior and what is unacceptable? Is there a rulebook or some sort of thing?&lt;/p&gt;
-
-&lt;p&gt;From an evolutionary perspective, human offspring require significant effort and time to ensure that the offspring can survive on it&amp;rsquo;s own. This could have led to early human ancestors to form some kind of agreement where both of them devote time and effort for the offspring. Any form of sexual activity means within this period means sharing of time and resources thus reducing the survival rate of the offspring.&lt;/p&gt;
-
+&lt;p&gt;From an evolutionary perspective, human offspring require significant effort and time to ensure that the offspring can survive on it&#39;s own. This could have led to early human ancestors to form some kind of agreement where both of them devote time and effort for the offspring. Any form of sexual activity means within this period means sharing of time and resources thus reducing the survival rate of the offspring.&lt;/p&gt;
 &lt;p&gt;This might have made promiscuity an unacceptable behaviour. Promiscuity means that the male has to compete with other male species for continuation of its genes. The female wants the offspring to be stringer so that they have better survival rate. This combined with promiscuity means that only a smaller portion of males being able to transfer their genes to offsprings. As a result there will be lesser genetic diversity being more prone to diseases.&lt;/p&gt;
-
 &lt;p&gt;This makes sense why we still consider promiscuity and unacceptable behavior. But should cheating be considered unacceptable behavior in the current scenario?&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Here we are looking at marriage between any two consenting adults and is not restricted to marriage between a man and a woman.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Love:&lt;/strong&gt;
-Even though much of the argument which applies to marriage applies here, love is different from marriage. Unlike marriage there is no obligation/commitment to raise on offspring. If love is some &amp;ldquo;divine connection between souls always praying for the happiness of the other&amp;rdquo;, where did the concept of cheating come in between. If being sexually active with multiple partners is cheating, then isn&amp;rsquo;t this love less inclined towards divine soul and more focused on one&amp;rsquo;s body. I mean a person can be in divine love with you and sexually active with someone else, unless, love has got something to do with sexual freedom. To put it bluntly, if love is finding happiness in the other partner&amp;rsquo;s happiness then, why am i concerned with what the other person does with their body?&lt;/p&gt;
-
+Even though much of the argument which applies to marriage applies here, love is different from marriage. Unlike marriage there is no obligation/commitment to raise on offspring. If love is some &amp;ldquo;divine connection between souls always praying for the happiness of the other&amp;rdquo;, where did the concept of cheating come in between. If being sexually active with multiple partners is cheating, then isn&#39;t this love less inclined towards divine soul and more focused on one&#39;s body. I mean a person can be in divine love with you and sexually active with someone else, unless, love has got something to do with sexual freedom. To put it bluntly, if love is finding happiness in the other partner&#39;s happiness then, why am i concerned with what the other person does with their body?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sex Workers and Promiscuity:&lt;/strong&gt;
-Even though it seems that sex workers show promiscuous behavior, the definition might have to be relooked. They are involved in many transient sexual relationships, it&amp;rsquo;s more of a professional choice than personal. The profession requires them to be in many transient sexual relationships, it might have been a personal choice too. If we consider this as any other profession the societal outlook towards them can be changed eventually considering them also as normal human beings.&lt;/p&gt;
+Even though it seems that sex workers show promiscuous behavior, the definition might have to be relooked. They are involved in many transient sexual relationships, it&#39;s more of a professional choice than personal. The profession requires them to be in many transient sexual relationships, it might have been a personal choice too. If we consider this as any other profession the societal outlook towards them can be changed eventually considering them also as normal human beings.&lt;/p&gt;
 </description>
     </item>
     
@@ -785,19 +665,17 @@ Even though it seems that sex workers show promiscuous behavior, the definition 
       
       <guid>https://murthyrudra.github.io/post/trekking/</guid>
       <description>&lt;p&gt;I have recently gained interest in Trekking. Here is a list of trekking spots visited by me and which you should never forget to visit.&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tikona&#34; target=&#34;_blank&#34;&gt;Tikona Fort&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rajmachi&#34; target=&#34;_blank&#34;&gt;Rajmachi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kothaligad&#34; target=&#34;_blank&#34;&gt;Kothaligad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sagargad&#34; target=&#34;_blank&#34;&gt;Sagargad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Raigad_Fort&#34; target=&#34;_blank&#34;&gt;Raigad Fort&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mahuli&#34; target=&#34;_blank&#34;&gt;Mahuli Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tikona&#34;&gt;Tikona Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rajmachi&#34;&gt;Rajmachi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kothaligad&#34;&gt;Kothaligad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sagargad&#34;&gt;Sagargad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Raigad_Fort&#34;&gt;Raigad Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mahuli&#34;&gt;Mahuli Fort&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Katraj Sinhagad Night Trek&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Korigad&#34; target=&#34;_blank&#34;&gt;Korigad Fort&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kalavantindurg.com/&#34; target=&#34;_blank&#34;&gt;Kalavantindurg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Korigad&#34;&gt;Korigad Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kalavantindurg.com/&#34;&gt;Kalavantindurg&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;em&gt;Stay Tuned for more updates&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>

@@ -82,7 +82,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a898eb080fbf0112b89e87392c6ca457.css">
+  <link rel="stylesheet" href="/css/academic.min.40491eabf1d74b853c762147b3b7c8ba.css">
 
   
 
@@ -589,49 +589,31 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      
-
-<p>Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept <em>tree</em>. Instead, we learn the corresponding word used to represent the concept (<em>tree</em>). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what <strong>Transfer Learning</strong> is all about. <span class="markup-quote">Transfer Learning is using knowledge gained from one task to solve a related task.</span></p>
-
+      <p>Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept <em>tree</em>. Instead, we learn the corresponding word used to represent the concept (<em>tree</em>). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what <strong>Transfer Learning</strong> is all about. <span class="markup-quote">Transfer Learning is using knowledge gained from one task to solve a related task.</span></p>
 <h5 id="definition">Definition:</h5>
-
-<p>Now, let me quote the Wikipedia definition for <a href="https://en.wikipedia.org/wiki/Transfer_learning" target="_blank">Transfer Learning</a>,</p>
-
+<p>Now, let me quote the Wikipedia definition for <a href="https://en.wikipedia.org/wiki/Transfer_learning">Transfer Learning</a>,</p>
 <blockquote>
 <p>Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognise cars could apply when trying to recognise trucks. This area of research bears some relation to the long history of psychological literature on transfer of learning, although formal ties between the two fields are limited.</p>
 </blockquote>
-
 <p>In the field of Natural Language Processing (NLP), transfer learning can take the form of multi-task learning or multilingual learning. Multi-task learning refers to using knowledge from one task to improve performance in a related task in the same language. For example, sentiment analysis helping emotion analysis. Similarly, multilingual learning refers to using knowledge from a task in one language to improve performance in a related task in another language language. Usually in multilingual learning, we focus on the case where the tasks are the same in both the languages.</p>
-
-<p>In this post, I won&rsquo;t be going into the details of Transfer Learning. Sebastian Ruder&rsquo;s blog post on <a href="http://ruder.io/transfer-learning/" target="_blank">Transfer Learning</a> summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.</p>
-
+<p>In this post, I won't be going into the details of Transfer Learning. Sebastian Ruder's blog post on <a href="http://ruder.io/transfer-learning/">Transfer Learning</a> summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.</p>
 <h3 id="transfer-learning-a-strong-prior-distribution-over-models">Transfer Learning: A Strong Prior Distribution Over Models</h3>
-
 <p><em>Zoph et.al 2016</em> quotes in his paper titled <strong>Transfer Learning for Low-Resource Neural Machine Translation</strong>:</p>
-
 <blockquote>
 <p>A justification for this approach is that in scenarios where we have limited training data, we need a strong prior distribution over models. The parent model trained on a large amount of bilingual data can be considered an anchor point, the peak of our prior distribution in model space. When we train the child model initialised with the parent model, we fix parameters likely to be useful across tasks so that they will not be changed during child-model training.</p>
 </blockquote>
-
 <h3 id="supervised-learning-as-curve-fitting">Supervised Learning as Curve Fitting</h3>
-
 <p>The goal of supervised learning can be thought of as fitting a curve (function) given some data points <em>i.e.,</em> $y = f(x)$. Learn the function $f$, given input values $x$ and corresponding output values $y$. If we had $y$ for every point in the input space, we can fit the curve exactly. This is not the case in real-life scenarios. We usually get to collect a subset of measurements $y$ for some sample of points $x$ in the input space. The measurements $y$ obtained might be noisy. As a consequence, there are many possible functions which can fit the data well. The problem reduces to <strong>search</strong>, where the goal is to find a function which fits the data.</p>
-
 <p>There are situations, where we rarely get to collect observations. The collected observations may not be indicative of the actual function to be learnt. Supervised learning fails badly in these cases. If we have a related task with abundant data points, we can train the supervised model on this auxiliary task. Now when we fine-tune the auxiliary task model on the actual task data, the model is already restricted in the function space. The search now proceeds to find a suitable function to fit the actual task data in the neighbourhood.</p>
-
 <h4 id="fitting-a-cosine-function">Fitting a Cosine Function</h4>
-
 <p>Let us demonstrate this intuition with a toy example. Consider the task of fitting a <strong>Cosine</strong> function. We will use a deep feed-forward neural network for this purpose. We will first generate a set of data points and plot the curve.</p>
-
-<pre><code class="language-python"># We will generate 200 random points from 0 to 720
-X = np.random.randint(720, size=(200,1))
-# Convert the values to radians
-X_rad = X * np.pi / 180
-# Get the corresponding cosine values for the inputs
-Y = np.cos(X_rad)
-</code></pre>
-
-<p>The following figure plots the generated data points 
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># We will generate 200 random points from 0 to 720</span>
+X <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">720</span>, size<span style="color:#f92672">=</span>(<span style="color:#ae81ff">200</span>,<span style="color:#ae81ff">1</span>))
+<span style="color:#75715e"># Convert the values to radians</span>
+X_rad <span style="color:#f92672">=</span> X <span style="color:#f92672">*</span> np<span style="color:#f92672">.</span>pi <span style="color:#f92672">/</span> <span style="color:#ae81ff">180</span>
+<span style="color:#75715e"># Get the corresponding cosine values for the inputs</span>
+Y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>cos(X_rad)
+</code></pre></div><p>The following figure plots the generated data points 
 
 
 <figure>
@@ -640,12 +622,9 @@ Y = np.cos(X_rad)
 
 
 </figure> We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.</p>
-
-<pre><code class="language-python">X_small = X_rad[:20]
-Y_small = Y[:20]
-</code></pre>
-
-<p>The reduced set of data points leads to the following plot 
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">X_small <span style="color:#f92672">=</span> X_rad[:<span style="color:#ae81ff">20</span>]
+Y_small <span style="color:#f92672">=</span> Y[:<span style="color:#ae81ff">20</span>]
+</code></pre></div><p>The reduced set of data points leads to the following plot 
 
 
 <figure>
@@ -654,51 +633,45 @@ Y_small = Y[:20]
 
 
 </figure> Before proceeding further, let us define the deep learning model.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">CurveFitter</span>(nn<span style="color:#f92672">.</span>Module):
 
-<pre><code class="language-python">class CurveFitter(nn.Module):
+	<span style="color:#66d9ef">def</span> __init__(self, inputDim, outDim, hidDim):
+		super(CurveFitter, self)<span style="color:#f92672">.</span>__init__()
 
-	def __init__(self, inputDim, outDim, hidDim):
-		super(CurveFitter, self).__init__()
+		self<span style="color:#f92672">.</span>inputDim <span style="color:#f92672">=</span> inputDim
+		self<span style="color:#f92672">.</span>outDim <span style="color:#f92672">=</span> outDim
+		self<span style="color:#f92672">.</span>hidDim <span style="color:#f92672">=</span> hidDim
 
-		self.inputDim = inputDim
-		self.outDim = outDim
-		self.hidDim = hidDim
+		self<span style="color:#f92672">.</span>linear_l1 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>Linear(self<span style="color:#f92672">.</span>inputDim, self<span style="color:#f92672">.</span>hidDim)
+		self<span style="color:#f92672">.</span>nla_l1 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>ReLU()
 
-		self.linear_l1 = nn.Linear(self.inputDim, self.hidDim)
-		self.nla_l1 = nn.ReLU()
+		self<span style="color:#f92672">.</span>linear_l2 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>Linear(self<span style="color:#f92672">.</span>hidDim, self<span style="color:#f92672">.</span>hidDim)
+		self<span style="color:#f92672">.</span>nla_l2 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>ReLU()
 
-		self.linear_l2 = nn.Linear(self.hidDim, self.hidDim)
-		self.nla_l2 = nn.ReLU()
+		self<span style="color:#f92672">.</span>linear_l3 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>Linear(self<span style="color:#f92672">.</span>hidDim, self<span style="color:#f92672">.</span>hidDim)
+		self<span style="color:#f92672">.</span>nla_l3 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>ReLU()
 
-		self.linear_l3 = nn.Linear(self.hidDim, self.hidDim)
-		self.nla_l3 = nn.ReLU()
+		self<span style="color:#f92672">.</span>linear_l4 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>Linear(self<span style="color:#f92672">.</span>hidDim, self<span style="color:#f92672">.</span>outDim)
+		self<span style="color:#f92672">.</span>nla_l4 <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>Tanh()
 
-		self.linear_l4 = nn.Linear(self.hidDim, self.outDim)
-		self.nla_l4 = nn.Tanh()
+		self<span style="color:#f92672">.</span>mse_loss <span style="color:#f92672">=</span> nn<span style="color:#f92672">.</span>MSELoss()
 
-		self.mse_loss = nn.MSELoss()
+	<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">forward</span>(self, x):
 
-	def forward(self, x):
+		result <span style="color:#f92672">=</span> self<span style="color:#f92672">.</span>nla_l4( self<span style="color:#f92672">.</span>linear_l4( self<span style="color:#f92672">.</span>nla_l3( self<span style="color:#f92672">.</span>linear_l3( self<span style="color:#f92672">.</span>nla_l2( self<span style="color:#f92672">.</span>linear_l2( self<span style="color:#f92672">.</span>nla_l1( self<span style="color:#f92672">.</span>linear_l1(x) ) ) ) ) ) ) )
 
-		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
+		<span style="color:#66d9ef">return</span> result
 
-		return result
+	<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">loss</span>(self, x, y):
 
-	def loss(self, x, y):
+		result <span style="color:#f92672">=</span> self<span style="color:#f92672">.</span>nla_l4( self<span style="color:#f92672">.</span>linear_l4( self<span style="color:#f92672">.</span>nla_l3( self<span style="color:#f92672">.</span>linear_l3( self<span style="color:#f92672">.</span>nla_l2( self<span style="color:#f92672">.</span>linear_l2( self<span style="color:#f92672">.</span>nla_l1( self<span style="color:#f92672">.</span>linear_l1(x) ) ) ) ) ) ) )
 
-		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
-
-		return self.mse_loss(result, y)
-</code></pre>
-
-<p>Let us instantiate the model and use <em>Adam</em> optimizer to train the model.</p>
-
-<pre><code class="language-python">torch.manual_seed(9899999)
-network_cos = CurveFitter(1, 1, 200 )
-optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
-</code></pre>
-
-<p>Training the above model on the smaller set of points leads to the following curve 
+		<span style="color:#66d9ef">return</span> self<span style="color:#f92672">.</span>mse_loss(result, y)
+</code></pre></div><p>Let us instantiate the model and use <em>Adam</em> optimizer to train the model.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">torch<span style="color:#f92672">.</span>manual_seed(<span style="color:#ae81ff">9899999</span>)
+network_cos <span style="color:#f92672">=</span> CurveFitter(<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">200</span> )
+optim_alg_cos <span style="color:#f92672">=</span> Adam(network_cos<span style="color:#f92672">.</span>parameters(), lr<span style="color:#f92672">=</span><span style="color:#ae81ff">0.001</span>)
+</code></pre></div><p>Training the above model on the smaller set of points leads to the following curve 
 
 
 <figure>
@@ -707,22 +680,16 @@ optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
 
 
 </figure></p>
-
 <p>As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.</p>
-
 <h4 id="transferring-knowledge-from-sine-function">Transferring Knowledge from Sine Function</h4>
-
 <p>Let us assume, that we have enough data points to train a Sine function. We will train the model using the earlier architecture. Unlike earlier, we will generate points from 0 to 1080 instead of 0 to 720.</p>
-
-<pre><code class="language-python"># We will generate 200 random points from 0 to 720
-X = np.random.randint(1080, size=(200,1))
-# Convert the values to radians
-X_rad = X * np.pi / 180
-# Get the corresponding cosine values for the inputs
-Y = np.sin(X_rad)
-</code></pre>
-
-<p>The training points for sine function is 
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># We will generate 200 random points from 0 to 720</span>
+X <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">1080</span>, size<span style="color:#f92672">=</span>(<span style="color:#ae81ff">200</span>,<span style="color:#ae81ff">1</span>))
+<span style="color:#75715e"># Convert the values to radians</span>
+X_rad <span style="color:#f92672">=</span> X <span style="color:#f92672">*</span> np<span style="color:#f92672">.</span>pi <span style="color:#f92672">/</span> <span style="color:#ae81ff">180</span>
+<span style="color:#75715e"># Get the corresponding cosine values for the inputs</span>
+Y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>sin(X_rad)
+</code></pre></div><p>The training points for sine function is 
 
 
 <figure>
@@ -748,11 +715,8 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 </figure></p>
-
 <p>Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe <em>Zoph et.al 2016</em> meant when they said that <span class="markup-quote">the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large.</span></p>
-
 <h4 id="initialization">Initialization</h4>
-
 <p>Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves 
 
 
@@ -762,11 +726,8 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 </figure> However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.</p>
-
 <p>The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.</p>
-
 <h4 id="references">References</h4>
-
 <ul>
 <li>Barret Zoph, Deniz Yuret, Jonathan May, and Kevin Knight. <em>Transfer Learning for Low-Resource Neural Machine Translation</em>. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, EMNLP 2016.</li>
 </ul>

@@ -63,29 +63,18 @@
       
       <guid>https://murthyrudra.github.io/academic-activities/</guid>
       <description>&lt;p&gt;[[main]]
-   name = &amp;ldquo;Academic Exposure&amp;rdquo;
-   url = &amp;ldquo;#academic-activities.md&amp;rdquo;
-   weight = &amp;ldquo;2&amp;rdquo;&lt;/p&gt;
-
+name = &amp;ldquo;Academic Exposure&amp;rdquo;
+url = &amp;ldquo;#academic-activities.md&amp;rdquo;
+weight = &amp;ldquo;2&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;[[main]]
-  name = &amp;ldquo;Internship&amp;rdquo;
-  url = &amp;ldquo;#internship.md&amp;rdquo;
-  weight = &amp;ldquo;3&amp;rdquo;&lt;/p&gt;
-
+name = &amp;ldquo;Internship&amp;rdquo;
+url = &amp;ldquo;#internship.md&amp;rdquo;
+weight = &amp;ldquo;3&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;[[main]]
-    name = &amp;ldquo;Resources and Tools&amp;rdquo;
-    url = &amp;ldquo;#rescTools&amp;rdquo;
-    weight = 4&lt;/p&gt;
+name = &amp;ldquo;Resources and Tools&amp;rdquo;
+url = &amp;ldquo;#rescTools&amp;rdquo;
+weight = 4&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
     </item>
     
     <item>
