@@ -309,7 +309,7 @@
 
 &lt;/figure&gt;
 This year&#39;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&#39;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read &lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;genderneutral-restrooms&#34;&gt;Gender-neutral Restrooms&lt;/h4&gt;
+&lt;h4 id=&#34;gender-neutral-restrooms&#34;&gt;Gender-neutral Restrooms&lt;/h4&gt;
 &lt;p&gt;
 
 
@@ -606,7 +606,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
 &lt;p&gt;&lt;em&gt;If we take any corpus, usually we find few word-context pairs which appear always together, many pairs appear a decent number of times and a very large number of pairs which do not appear at all?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Let us now define the energy of a &lt;strong&gt;word-context pair&lt;/strong&gt;, as the energy required to bring them together in a closed system. Some pairs like &lt;em&gt;(money, bank)&lt;/em&gt;, &lt;em&gt;(money, account)&lt;/em&gt; require less energy as they frequently appear together. But more energy is required for a pair like &lt;em&gt;(bank, pitch)&lt;/em&gt;. If a pair appears a lot number of times in the corpus, they already have a strong affinity towards each other. Hence less energy is required to  bring them together. If a pair does not appear then probably more energy is required to make them appear together.&lt;/p&gt;
 &lt;p&gt;If we make the assumption that distribution of &lt;strong&gt;word-context pair&lt;/strong&gt; is similar to the distribution of particles in a closed gaseous state, we have a statistical model in hand. We already have assumed that temperature and pressure are constant in our system.&lt;/p&gt;
-&lt;h2 id=&#34;maxwellboltzmann-distribution&#34;&gt;Maxwell-Boltzmann Distribution&lt;/h2&gt;
+&lt;h2 id=&#34;maxwell-boltzmann-distribution&#34;&gt;Maxwell-Boltzmann Distribution&lt;/h2&gt;
 &lt;p&gt;With the assumption that a &lt;strong&gt;word-context pair&lt;/strong&gt; follow a Maxwell-Boltzmann distribution, the goal now becomes to estimate the parameters of the distribution. We haven&#39;t mathematically defined what energy is? The energy of a &lt;strong&gt;word-context pairs&lt;/strong&gt; needs to satisfy the following property&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The energy of a &lt;strong&gt;word-context pair&lt;/strong&gt; should be low when they have high affinity (co-occurrence) towards each other and vice-versa&lt;/li&gt;

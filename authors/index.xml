@@ -152,14 +152,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://murthyrudra.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi, I am a Research Scholar from &lt;a href=&#34;http://www.cfilt.iitb.ac.in/&#34;&gt;Center For Indian Language Technology&lt;/a&gt; lab headed by &lt;a href=&#34;https://www.cse.iitb.ac.in/~pb/&#34;&gt;Professor. Pushpak Bhattacharyya&lt;/a&gt;. My area of interest is Deep Multilingual Learning to various Natural Language Processing(NLP) tasks.&lt;/p&gt;
-&lt;p&gt;I sometimes create Web-Comics (&lt;em&gt;or a gallery of bad Web-comics ever created&lt;/em&gt;) which you can find &lt;a href=&#34;https://murthyrudra.github.io/tags/webcomics/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Hi, I am a Research Scholar from &lt;a href=&#34;http://www.cfilt.iitb.ac.in/&#34;&gt;Center For Indian Language Technology&lt;/a&gt; lab headed by &lt;a href=&#34;https://www.cse.iitb.ac.in/~pb/&#34;&gt;Professor. Pushpak Bhattacharyya&lt;/a&gt;. My area of interest is using Deep Multilingual Learning to various Natural Language Processing(NLP) tasks.&lt;/p&gt;
+&lt;p&gt;You can get to know more about my hobbies &lt;a href=&#34;https://murthyrudra.github.io/tags/webcomics/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://murthyrudra.github.io/post/trekking/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Pinky:&lt;/strong&gt; Gee, Brain, What do you want to do today?&lt;br&gt;
 &lt;strong&gt;Brain:&lt;/strong&gt; The same thing we do everyday, Pinky. Borrow features from high-resource language to improve NLP Task performance in low-resource languages&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I am broadly interested in the application of Deep Learning to various Natural Language Processing (NLP) tasks. Recently, I have garnered interest in &lt;strong&gt;Multilingual Learning for NLP in Low-Resource Languages&lt;/strong&gt;. Low-resource languages do not have sufficient data, tools, and other resources (also known as data sparsity) to successfully train existing machine learning models for any NLP task. My current focus is on borrowing features (implicitly statistics) from one or more related languages (multilingual learning). I am specifically exploring ways of minimizing the divergence between unrelated languages at various granularities to better existing multilingual learning approaches.&lt;/p&gt;
+&lt;p&gt;I am broadly interested in the application of Deep Learning to various Natural Language Processing (NLP) tasks. Recently, I have garnered interest in &lt;strong&gt;Multilingual Learning for NLP in Low-Resource Languages&lt;/strong&gt;. Low-resource languages do not have sufficient data, tools, and other resources (leading to data sparsity) to successfully train existing machine learning models for any NLP task. My current focus is on borrowing features (implicitly statistics) from one or more related languages (multilingual learning). I am specifically exploring ways of minimizing the divergence between unrelated languages at various granularities to better existing multilingual learning approaches.&lt;/p&gt;
 </description>
     </item>
     
