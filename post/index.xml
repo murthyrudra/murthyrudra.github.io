@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://murthyrudra.github.io/post/</link>
     </image>
@@ -34,7 +34,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
-&lt;img src=&#34;waiterTip.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;waiterTip.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -65,7 +65,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
-&lt;img src=&#34;typicalMonday.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;typicalMonday.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -96,7 +96,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
-&lt;img src=&#34;ai.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;ai.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -127,7 +127,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
-&lt;img src=&#34;motivation.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;motivation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -158,7 +158,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
-&lt;img src=&#34;marriage.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;marriage.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -189,7 +189,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
-&lt;img src=&#34;bo-chans.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;bo-chans.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -220,7 +220,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
-&lt;img src=&#34;souvenirs.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;souvenirs.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -261,7 +261,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
-&lt;img src=&#34;please-send-relative.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;please-send-relative.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -292,7 +292,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
-&lt;img src=&#34;Overthinker.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;Overthinker.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -323,7 +323,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
-&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;be-careful-what-you-wish-for.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -354,7 +354,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
-&lt;img src=&#34;Missing-Thursday.jpeg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;Missing-Thursday.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -385,7 +385,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
-&lt;img src=&#34;EarthMoonBreakup.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;EarthMoonBreakup.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -416,7 +416,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
-&lt;img src=&#34;IamSorry.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;IamSorry.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -449,7 +449,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
-&lt;img src=&#34;facebookWorth.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;facebookWorth.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -492,7 +492,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; data-caption=&#34;Conference Badge&#34;&gt;
-&lt;img src=&#34;id.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;id.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -523,7 +523,7 @@ This year&#39;s conference badge was different. Apart from your name and your af
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; data-caption=&#34;Gender Neutral Restrooms&#34;&gt;
-&lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;restroom.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -579,13 +579,14 @@ The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone c
 &lt;p&gt;There are situations, where we rarely get to collect observations. The collected observations may not be indicative of the actual function to be learnt. Supervised learning fails badly in these cases. If we have a related task with abundant data points, we can train the supervised model on this auxiliary task. Now when we fine-tune the auxiliary task model on the actual task data, the model is already restricted in the function space. The search now proceeds to find a suitable function to fit the actual task data in the neighbourhood.&lt;/p&gt;
 &lt;h4 id=&#34;fitting-a-cosine-function&#34;&gt;Fitting a Cosine Function&lt;/h4&gt;
 &lt;p&gt;Let us demonstrate this intuition with a toy example. Consider the task of fitting a &lt;strong&gt;Cosine&lt;/strong&gt; function. We will use a deep feed-forward neural network for this purpose. We will first generate a set of data points and plot the curve.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# We will generate 200 random points from 0 to 720&lt;/span&gt;
-X &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;random&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;randint(&lt;span style=&#34;color:#ae81ff&#34;&gt;720&lt;/span&gt;, size&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;200&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;))
-&lt;span style=&#34;color:#75715e&#34;&gt;# Convert the values to radians&lt;/span&gt;
-X_rad &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;180&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# Get the corresponding cosine values for the inputs&lt;/span&gt;
-Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;cos(X_rad)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The following figure plots the generated data points 
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# We will generate 200 random points from 0 to 720
+X = np.random.randint(720, size=(200,1))
+# Convert the values to radians
+X_rad = X * np.pi / 180
+# Get the corresponding cosine values for the inputs
+Y = np.cos(X_rad)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The following figure plots the generated data points 
 
 
 
@@ -602,15 +603,16 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
-&lt;img src=&#34;cosine.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;cosine.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
 &lt;/figure&gt;
  We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;X_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X_rad[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
-Y_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Y[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The reduced set of data points leads to the following plot 
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;X_small = X_rad[:20]
+Y_small = Y[:20]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The reduced set of data points leads to the following plot 
 
 
 
@@ -627,51 +629,53 @@ Y_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Y[:&lt;span sty
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
-&lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;cosine-small.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
 &lt;/figure&gt;
  Before proceeding further, let us define the deep learning model.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;CurveFitter&lt;/span&gt;(nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Module):
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;class CurveFitter(nn.Module):
 
-	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; __init__(self, inputDim, outDim, hidDim):
-		super(CurveFitter, self)&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;__init__()
+	def __init__(self, inputDim, outDim, hidDim):
+		super(CurveFitter, self).__init__()
 
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;inputDim &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; inputDim
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;outDim &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; outDim
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; hidDim
+		self.inputDim = inputDim
+		self.outDim = outDim
+		self.hidDim = hidDim
 
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;inputDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim)
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ReLU()
+		self.linear_l1 = nn.Linear(self.inputDim, self.hidDim)
+		self.nla_l1 = nn.ReLU()
 
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim)
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ReLU()
+		self.linear_l2 = nn.Linear(self.hidDim, self.hidDim)
+		self.nla_l2 = nn.ReLU()
 
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l3 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim)
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l3 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ReLU()
+		self.linear_l3 = nn.Linear(self.hidDim, self.hidDim)
+		self.nla_l3 = nn.ReLU()
 
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l4 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Linear(self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;hidDim, self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;outDim)
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l4 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Tanh()
+		self.linear_l4 = nn.Linear(self.hidDim, self.outDim)
+		self.nla_l4 = nn.Tanh()
 
-		self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;mse_loss &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;MSELoss()
+		self.mse_loss = nn.MSELoss()
 
-	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;forward&lt;/span&gt;(self, x):
+	def forward(self, x):
 
-		result &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l1( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l1(x) ) ) ) ) ) ) )
+		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
 
-		&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; result
+		return result
 
-	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;loss&lt;/span&gt;(self, x, y):
+	def loss(self, x, y):
 
-		result &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l4( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l3( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l2( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;nla_l1( self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;linear_l1(x) ) ) ) ) ) ) )
+		result = self.nla_l4( self.linear_l4( self.nla_l3( self.linear_l3( self.nla_l2( self.linear_l2( self.nla_l1( self.linear_l1(x) ) ) ) ) ) ) )
 
-		&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; self&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;mse_loss(result, y)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Let us instantiate the model and use &lt;em&gt;Adam&lt;/em&gt; optimizer to train the model.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;torch&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;manual_seed(&lt;span style=&#34;color:#ae81ff&#34;&gt;9899999&lt;/span&gt;)
-network_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; CurveFitter(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;200&lt;/span&gt; )
-optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(network_cos&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;parameters(), lr&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0.001&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Training the above model on the smaller set of points leads to the following curve 
+		return self.mse_loss(result, y)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Let us instantiate the model and use &lt;em&gt;Adam&lt;/em&gt; optimizer to train the model.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;torch.manual_seed(9899999)
+network_cos = CurveFitter(1, 1, 200 )
+optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Training the above model on the smaller set of points leads to the following curve 
 
 
 
@@ -688,7 +692,7 @@ optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(netw
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
-&lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;cosine-supervised.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -697,13 +701,14 @@ optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(netw
 &lt;p&gt;As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.&lt;/p&gt;
 &lt;h4 id=&#34;transferring-knowledge-from-sine-function&#34;&gt;Transferring Knowledge from Sine Function&lt;/h4&gt;
 &lt;p&gt;Let us assume, that we have enough data points to train a Sine function. We will train the model using the earlier architecture. Unlike earlier, we will generate points from 0 to 1080 instead of 0 to 720.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# We will generate 200 random points from 0 to 720&lt;/span&gt;
-X &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;random&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;randint(&lt;span style=&#34;color:#ae81ff&#34;&gt;1080&lt;/span&gt;, size&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;200&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;))
-&lt;span style=&#34;color:#75715e&#34;&gt;# Convert the values to radians&lt;/span&gt;
-X_rad &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;180&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# Get the corresponding cosine values for the inputs&lt;/span&gt;
-Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;sin(X_rad)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The training points for sine function is 
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# We will generate 200 random points from 0 to 720
+X = np.random.randint(1080, size=(200,1))
+# Convert the values to radians
+X_rad = X * np.pi / 180
+# Get the corresponding cosine values for the inputs
+Y = np.sin(X_rad)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The training points for sine function is 
 
 
 
@@ -720,7 +725,7 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
-&lt;img src=&#34;sine.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;sine.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -742,7 +747,7 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
-&lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;sine-predicted.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -765,7 +770,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
-&lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;cosine-transfer.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -790,7 +795,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
-&lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;cosine-rand.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 

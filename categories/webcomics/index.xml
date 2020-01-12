@@ -7,7 +7,7 @@
     <description>Webcomics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 23:13:24 +0530</lastBuildDate>
     <image>
-      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Webcomics</title>
       <link>https://murthyrudra.github.io/categories/webcomics/</link>
     </image>
@@ -34,7 +34,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
-&lt;img src=&#34;waiterTip.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;waiterTip.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -65,7 +65,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
-&lt;img src=&#34;typicalMonday.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;typicalMonday.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -96,7 +96,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
-&lt;img src=&#34;ai.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;ai.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -127,7 +127,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
-&lt;img src=&#34;motivation.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;motivation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -158,7 +158,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
-&lt;img src=&#34;marriage.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;marriage.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -189,7 +189,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
-&lt;img src=&#34;bo-chans.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;bo-chans.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -220,7 +220,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
-&lt;img src=&#34;souvenirs.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;souvenirs.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -261,7 +261,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
-&lt;img src=&#34;please-send-relative.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;please-send-relative.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -292,7 +292,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
-&lt;img src=&#34;Overthinker.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;Overthinker.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -323,7 +323,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
-&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;be-careful-what-you-wish-for.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -354,7 +354,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
-&lt;img src=&#34;Missing-Thursday.jpeg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;Missing-Thursday.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -385,7 +385,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
-&lt;img src=&#34;EarthMoonBreakup.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;EarthMoonBreakup.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -416,7 +416,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
-&lt;img src=&#34;IamSorry.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;IamSorry.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
@@ -449,7 +449,7 @@
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
-&lt;img src=&#34;facebookWorth.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;facebookWorth.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
 
