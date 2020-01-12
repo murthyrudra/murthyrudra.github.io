@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sudha Bhingardive on Rudra Murthy</title>
+    <title>Sudha Bhingardive | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/authors/sudha-bhingardive/</link>
-    <description>Recent content in Sudha Bhingardive on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2015 20:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/authors/sudha-bhingardive/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/authors/sudha-bhingardive/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sudha Bhingardive</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2015 20:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>Sudha Bhingardive</title>
+      <link>https://murthyrudra.github.io/authors/sudha-bhingardive/</link>
+    </image>
     
     <item>
       <title>Deep Learning Tutorial at ICON 2015</title>
       <link>https://murthyrudra.github.io/talk/icon-2015/</link>
       <pubDate>Sat, 12 Dec 2015 20:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/talk/icon-2015/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Unsupervised most frequent sense detection using word embeddings</title>
       <link>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>named entity recognition on Rudra Murthy</title>
+    <title>named entity recognition | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
-    <description>Recent content in named entity recognition on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Feb 2019 22:34:35 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/tags/named-entity-recognition/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/tags/named-entity-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>named entity recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Feb 2019 22:34:35 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>named entity recognition</title>
+      <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
+    </image>
     
     <item>
       <title>Monolingual NER Results for various Languages</title>
       <link>https://murthyrudra.github.io/post/monolingual-results/</link>
       <pubDate>Mon, 04 Feb 2019 22:34:35 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
       <description>&lt;p&gt;The Neural NER system implemented by me as part of the papers &lt;a href=&#34;https://murthyrudra.github.io/publication/low-resource-tallip/&#34;&gt;TALLIP paper&lt;/a&gt; and &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt; achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
@@ -110,7 +110,6 @@
       <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
       <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
       <description>&lt;p&gt;The Marathi Named Entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -120,7 +119,6 @@
       <title>A Deep Learning Solution to Named Entity Recognition</title>
       <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
       <description></description>
     </item>
@@ -129,7 +127,6 @@
       <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
       <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
       <description>&lt;p&gt;The Marathi named entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -139,7 +136,6 @@
       <title>Named Entity Recognition Tutorial at ICON 2017</title>
       <link>https://murthyrudra.github.io/talk/icon-2017/</link>
       <pubDate>Thu, 21 Dec 2017 20:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/talk/icon-2017/</guid>
       <description></description>
     </item>
@@ -148,7 +144,6 @@
       <title>Deep Learning Tutorial at ICON 2015</title>
       <link>https://murthyrudra.github.io/talk/icon-2015/</link>
       <pubDate>Sat, 12 Dec 2015 20:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/talk/icon-2015/</guid>
       <description></description>
     </item>

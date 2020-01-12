@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,8 +35,6 @@
 
   
 
-
-  
 
   
   
@@ -69,6 +67,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -76,13 +76,14 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.40491eabf1d74b853c762147b3b7c8ba.css">
+  <link rel="stylesheet" href="/css/academic.min.8bf1a8e10d6eee2d04ced45c2c4351b7.css">
 
   
 
@@ -92,8 +93,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://murthyrudra.github.io/post/transfer-learning/transfer-learning/">
@@ -105,6 +106,7 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@rudramurthyv">
@@ -114,12 +116,76 @@
   <meta property="og:url" content="https://murthyrudra.github.io/post/transfer-learning/transfer-learning/">
   <meta property="og:title" content="Intuition Behind Transfer Learning | Rudra Murthy">
   <meta property="og:description" content="Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept tree. Instead, we learn the corresponding word used to represent the concept (tree). This is different from how children first learn a language."><meta property="og:image" content="https://murthyrudra.github.io/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://murthyrudra.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-05-05T00:00:00&#43;05:30">
+    
+      <meta property="article:published_time" content="2019-05-05T00:00:00&#43;05:30">
+    
+    <meta property="article:modified_time" content="2019-05-05T00:00:00&#43;05:30">
   
-  <meta property="article:modified_time" content="2019-05-05T00:00:00&#43;05:30">
+
   
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://murthyrudra.github.io/post/transfer-learning/transfer-learning/"
+  },
+  "headline": "Intuition Behind Transfer Learning",
+  
+  "datePublished": "2019-05-05T00:00:00+05:30",
+  "dateModified": "2019-05-05T00:00:00+05:30",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Rudra Murthy V"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rudra Murthy",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://murthyrudra.github.io/img/icon-512.png"
+    }
+  },
+  "description": "Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept tree. Instead, we learn the corresponding word used to represent the concept (tree). This is different from how children first learn a language."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -134,8 +200,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -153,7 +218,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -170,7 +235,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -407,7 +472,7 @@
 </nav>
 
 
-  <article class="article" itemscope itemtype="http://schema.org/Article">
+  <article class="article">
 
   
 
@@ -428,7 +493,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Intuition Behind Transfer Learning</h1>
+  <h1>Intuition Behind Transfer Learning</h1>
 
   
 
@@ -436,9 +501,6 @@
     
 
 
-
-<meta content="2019-05-05 00:00:00 &#43;0530 IST" itemprop="datePublished">
-<meta content="2019-05-05 00:00:00 &#43;0530 IST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -451,7 +513,7 @@
     
       
     
-    <time>May 5, 2019</time>
+    May 5, 2019
   </span>
   
 
@@ -466,13 +528,13 @@
 
   
   
+  
 
   
   
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder"></i>
-    <a href="/categories/transfer-learning/">Transfer Learning</a></span>
+    <i class="fas fa-folder mr-1"></i><a href="/categories/transfer-learning/">Transfer Learning</a></span>
   
 
   
@@ -588,7 +650,7 @@
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       <p>Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept <em>tree</em>. Instead, we learn the corresponding word used to represent the concept (<em>tree</em>). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what <strong>Transfer Learning</strong> is all about. <span class="markup-quote">Transfer Learning is using knowledge gained from one task to solve a related task.</span></p>
 <h5 id="definition">Definition:</h5>
 <p>Now, let me quote the Wikipedia definition for <a href="https://en.wikipedia.org/wiki/Transfer_learning">Transfer Learning</a>,</p>
@@ -616,23 +678,35 @@ Y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>cos
 </code></pre></div><p>The following figure plots the generated data points 
 
 
+
+
+
 <figure>
 
-<img src="cosine.png" />
+  <a data-fancybox="" href="cosine.png" >
 
+<img src="cosine.png" alt="" >
+</a>
 
-</figure> We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.</p>
+</figure>
+ We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">X_small <span style="color:#f92672">=</span> X_rad[:<span style="color:#ae81ff">20</span>]
 Y_small <span style="color:#f92672">=</span> Y[:<span style="color:#ae81ff">20</span>]
 </code></pre></div><p>The reduced set of data points leads to the following plot 
 
 
+
+
+
 <figure>
 
-<img src="cosine-small.png" />
+  <a data-fancybox="" href="cosine-small.png" >
 
+<img src="cosine-small.png" alt="" >
+</a>
 
-</figure> Before proceeding further, let us define the deep learning model.</p>
+</figure>
+ Before proceeding further, let us define the deep learning model.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">CurveFitter</span>(nn<span style="color:#f92672">.</span>Module):
 
 	<span style="color:#66d9ef">def</span> __init__(self, inputDim, outDim, hidDim):
@@ -674,12 +748,18 @@ optim_alg_cos <span style="color:#f92672">=</span> Adam(network_cos<span style="
 </code></pre></div><p>Training the above model on the smaller set of points leads to the following curve 
 
 
+
+
+
 <figure>
 
-<img src="cosine-supervised.png" />
+  <a data-fancybox="" href="cosine-supervised.png" >
 
+<img src="cosine-supervised.png" alt="" >
+</a>
 
-</figure></p>
+</figure>
+</p>
 <p>As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.</p>
 <h4 id="transferring-knowledge-from-sine-function">Transferring Knowledge from Sine Function</h4>
 <p>Let us assume, that we have enough data points to train a Sine function. We will train the model using the earlier architecture. Unlike earlier, we will generate points from 0 to 1080 instead of 0 to 720.</p>
@@ -692,40 +772,64 @@ Y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>sin
 </code></pre></div><p>The training points for sine function is 
 
 
-<figure>
 
-<img src="sine.png" />
-
-
-</figure> and the curve fit by the model is 
 
 
 <figure>
 
-<img src="sine-predicted.png" />
+  <a data-fancybox="" href="sine.png" >
 
+<img src="sine.png" alt="" >
+</a>
 
 </figure>
+ and the curve fit by the model is 
+
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="sine-predicted.png" >
+
+<img src="sine-predicted.png" alt="" >
+</a>
+
+</figure>
+
 We will use the trained model and further fine-tune the model on smaller set of points for the cosine function. The resulting fitted curve looks as below 
 
 
+
+
+
 <figure>
 
-<img src="cosine-transfer.png" />
+  <a data-fancybox="" href="cosine-transfer.png" >
 
+<img src="cosine-transfer.png" alt="" >
+</a>
 
-</figure></p>
+</figure>
+</p>
 <p>Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe <em>Zoph et.al 2016</em> meant when they said that <span class="markup-quote">the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large.</span></p>
 <h4 id="initialization">Initialization</h4>
 <p>Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves 
 
 
+
+
+
 <figure>
 
-<img src="cosine-rand.gif" />
+  <a data-fancybox="" href="cosine-rand.gif" >
 
+<img src="cosine-rand.gif" alt="" >
+</a>
 
-</figure> However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.</p>
+</figure>
+ However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.</p>
 <p>The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.</p>
 <h4 id="references">References</h4>
 <ul>
@@ -733,6 +837,9 @@ We will use the trained model and further fine-tune the model on smaller set of 
 </ul>
 
     </div>
+
+    
+
 
     
 
@@ -760,22 +867,23 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
+
   
   
   
     
   
   
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  <div class="media author-card">
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hu7714b019411cc77a6b3e521c7bada980_78762_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu7714b019411cc77a6b3e521c7bada980_78762_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://murthyrudra.github.io/">Rudra Murthy V</a></h5>
+      <h5 class="card-title"><a href="https://murthyrudra.github.io/">Rudra Murthy V</a></h5>
       <h6 class="card-subtitle">PhD Student</h6>
-      <p class="card-text" itemprop="description">My research interests include multilingual learning for various Natural Language Processing Tasks.</p>
+      <p class="card-text">My research interests include multilingual learning for various Natural Language Processing Tasks.</p>
       <ul class="network-icon" aria-hidden="true">
         
           
@@ -790,7 +898,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
             
           
           <li>
-            <a itemprop="sameAs" href="/#contact" >
+            <a href="/#contact" >
               <i class="fas fa-envelope"></i>
             </a>
           </li>
@@ -807,7 +915,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
             
           
           <li>
-            <a itemprop="sameAs" href="https://twitter.com/rudramurthyv" target="_blank" rel="noopener">
+            <a href="https://twitter.com/rudramurthyv" target="_blank" rel="noopener">
               <i class="fab fa-twitter"></i>
             </a>
           </li>
@@ -822,7 +930,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
             
           
           <li>
-            <a itemprop="sameAs" href="https://scholar.google.co.in/citations?user=5bjj_9cAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+            <a href="https://scholar.google.co.in/citations?user=5bjj_9cAAAAJ&amp;hl=en" target="_blank" rel="noopener">
               <i class="ai ai-google-scholar"></i>
             </a>
           </li>
@@ -839,7 +947,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
             
           
           <li>
-            <a itemprop="sameAs" href="https://github.com/murthyrudra" target="_blank" rel="noopener">
+            <a href="https://github.com/murthyrudra" target="_blank" rel="noopener">
               <i class="fab fa-github"></i>
             </a>
           </li>
@@ -856,7 +964,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.linkedin.com/in/rudra-murthy-96521a45" target="_blank" rel="noopener">
+            <a href="https://www.linkedin.com/in/rudra-murthy-96521a45" target="_blank" rel="noopener">
               <i class="fab fa-linkedin"></i>
             </a>
           </li>
@@ -871,7 +979,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
             
           
           <li>
-            <a itemprop="sameAs" href="/files/cv.pdf" >
+            <a href="/files/cv.pdf" >
               <i class="ai ai-cv"></i>
             </a>
           </li>
@@ -916,6 +1024,8 @@ We will use the trained model and further fine-tune the model on smaller set of 
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
         
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
       
 
       
@@ -926,9 +1036,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
     
     
-
-    
-    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
@@ -983,6 +1091,9 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
     
     
+
+    
+    
     
     
     
@@ -995,7 +1106,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
     
     
     
-    <script src="/js/academic.min.3394a224b26ce58ff36f44c54743e0ab.js"></script>
+    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
 
     
 

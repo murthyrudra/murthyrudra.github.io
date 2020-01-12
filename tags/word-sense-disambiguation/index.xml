@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>word sense disambiguation on Rudra Murthy</title>
+    <title>word sense disambiguation | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/tags/word-sense-disambiguation/</link>
-    <description>Recent content in word sense disambiguation on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/tags/word-sense-disambiguation/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/tags/word-sense-disambiguation/index.xml" rel="self" type="application/rss+xml" />
+    <description>word sense disambiguation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>word sense disambiguation</title>
+      <link>https://murthyrudra.github.io/tags/word-sense-disambiguation/</link>
+    </image>
     
     <item>
       <title>Unsupervised most frequent sense detection using word embeddings</title>
       <link>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</guid>
       <description></description>
     </item>

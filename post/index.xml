@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Rudra Murthy</title>
+    <title>Posts | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/post/</link>
-    <description>Recent content in Posts on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://murthyrudra.github.io/post/</link>
+    </image>
     
     <item>
       <title>Tips for Waiter</title>
       <link>https://murthyrudra.github.io/post/tip-waiter/</link>
       <pubDate>Tue, 03 Dec 2019 23:13:24 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/tip-waiter/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;waiterTip.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
 
+&lt;img src=&#34;waiterTip.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -33,17 +39,22 @@
       <title>Monday Conversation</title>
       <link>https://murthyrudra.github.io/post/monday-conversation/</link>
       <pubDate>Mon, 25 Nov 2019 21:58:59 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/monday-conversation/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;typicalMonday.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
 
+&lt;img src=&#34;typicalMonday.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -51,17 +62,22 @@
       <title>AI</title>
       <link>https://murthyrudra.github.io/post/ai/</link>
       <pubDate>Mon, 25 Nov 2019 21:56:41 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/ai/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;ai.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
 
+&lt;img src=&#34;ai.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -69,17 +85,22 @@
       <title>Motivation</title>
       <link>https://murthyrudra.github.io/post/motivation/</link>
       <pubDate>Wed, 06 Nov 2019 13:35:57 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/motivation/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;motivation.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
 
+&lt;img src=&#34;motivation.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -87,17 +108,22 @@
       <title>Marriage</title>
       <link>https://murthyrudra.github.io/post/marriage/</link>
       <pubDate>Tue, 29 Oct 2019 22:16:14 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/marriage/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;marriage.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
 
+&lt;img src=&#34;marriage.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -105,17 +131,22 @@
       <title>Take Advice from the Internet Seriously</title>
       <link>https://murthyrudra.github.io/post/bo-chans/</link>
       <pubDate>Mon, 26 Aug 2019 11:22:31 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/bo-chans/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;bo-chans.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
 
+&lt;img src=&#34;bo-chans.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -123,17 +154,22 @@
       <title>Souvenir</title>
       <link>https://murthyrudra.github.io/post/souvenir/</link>
       <pubDate>Mon, 12 Aug 2019 23:18:33 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/souvenir/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;souvenirs.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
 
+&lt;img src=&#34;souvenirs.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 &lt;h5 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h5&gt;
 &lt;p&gt;The content was created using Inskcape. I would like to thank &lt;strong&gt;Sids Art - Inkscape And Drawings&lt;/strong&gt; for the nice Youtube Tutorial 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -151,17 +187,22 @@
       <title>Relative Visit</title>
       <link>https://murthyrudra.github.io/post/relative-visit/</link>
       <pubDate>Thu, 08 Aug 2019 14:25:35 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/relative-visit/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;please-send-relative.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
 
+&lt;img src=&#34;please-send-relative.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -169,17 +210,22 @@
       <title>The Overthinker</title>
       <link>https://murthyrudra.github.io/post/overthinker/</link>
       <pubDate>Mon, 29 Jul 2019 20:34:46 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/overthinker/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;Overthinker.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
 
+&lt;img src=&#34;Overthinker.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -187,17 +233,22 @@
       <title>Be Careful What You Wish For</title>
       <link>https://murthyrudra.github.io/post/be-careful-what-you-wish-for/</link>
       <pubDate>Mon, 22 Jul 2019 12:44:59 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/be-careful-what-you-wish-for/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
 
+&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -205,17 +256,22 @@
       <title>The curious case of the missing Thursday!</title>
       <link>https://murthyrudra.github.io/post/thursday/</link>
       <pubDate>Tue, 16 Jul 2019 10:40:56 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/thursday/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;Missing-Thursday.jpeg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
 
+&lt;img src=&#34;Missing-Thursday.jpeg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -223,17 +279,22 @@
       <title>A Break-up of Astronomical Proportion!</title>
       <link>https://murthyrudra.github.io/post/earth-moon-breakup/</link>
       <pubDate>Sat, 06 Jul 2019 10:42:48 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/earth-moon-breakup/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;EarthMoonBreakup.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
 
+&lt;img src=&#34;EarthMoonBreakup.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -241,17 +302,22 @@
       <title>I am Sorry, Good Boi!</title>
       <link>https://murthyrudra.github.io/post/good-boi/</link>
       <pubDate>Fri, 05 Jul 2019 10:43:11 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/good-boi/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;IamSorry.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
 
+&lt;img src=&#34;IamSorry.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -259,19 +325,24 @@
       <title>Facebook Reveals Value of User&#39;s data</title>
       <link>https://murthyrudra.github.io/post/facebook-user-price/</link>
       <pubDate>Wed, 26 Jun 2019 10:43:02 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/facebook-user-price/</guid>
       <description>&lt;h4 id=&#34;context&#34;&gt;Context:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&amp;amp;IR=T&#34;&gt;Facebook and Google could be forced to tell you how much your data is worth under new US legislation&lt;/a&gt;&lt;/p&gt;
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;facebookWorth.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
 
+&lt;img src=&#34;facebookWorth.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 &lt;h5 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h5&gt;
 &lt;p&gt;The avatar was drawn using Inskcape. I would like to thank &lt;strong&gt;Sids Art - Inkscape And Drawings&lt;/strong&gt; for the nice Youtube Tutorial 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -285,7 +356,6 @@
       <title>My NAACL 2019 Experience: Part 1</title>
       <link>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</guid>
       <description>&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&#39;s NAACL was unlike any other year. The highlight of this year&#39;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&#39;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&#39;t control&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I will brief about few of the initiatives taken by the organizing committee here.&lt;/p&gt;
@@ -296,10 +366,15 @@
 &lt;p&gt;
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;id.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; &gt;
 
+&lt;img src=&#34;id.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -308,15 +383,21 @@
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 This year&#39;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&#39;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read &lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;gender-neutral-restrooms&#34;&gt;Gender-neutral Restrooms&lt;/h4&gt;
 &lt;p&gt;
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;restroom.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; &gt;
 
+&lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -325,6 +406,7 @@ This year&#39;s conference badge was different. Apart from your name and your af
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone can use this restrooms irrespective of their gender or identity. If you are not comfortable using gender-neutral restrooms, then not to worry as the venue had regular restrooms too.&lt;/p&gt;
 &lt;h3 id=&#34;quietprayer-rooms&#34;&gt;Quiet/Prayer Rooms&lt;/h3&gt;
 &lt;p&gt;Conferences are usually crowded. You may sometimes feel like you need to go to a quiet place to get away from all the discussions. Or maybe you feel like meditating for a bit. Or maybe it&#39;s your prayer time. This year, the conference venue had a separate &lt;em&gt;Quiet/Prayer Room&lt;/em&gt; for the sole purpose.&lt;/p&gt;
@@ -350,7 +432,6 @@ The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone c
       <title>Intuition Behind Transfer Learning</title>
       <link>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
       <description>&lt;p&gt;Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept &lt;em&gt;tree&lt;/em&gt;. Instead, we learn the corresponding word used to represent the concept (&lt;em&gt;tree&lt;/em&gt;). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what &lt;strong&gt;Transfer Learning&lt;/strong&gt; is all about. &lt;span class=&#34;markup-quote&#34;&gt;Transfer Learning is using knowledge gained from one task to solve a related task.&lt;/span&gt;&lt;/p&gt;
 &lt;h5 id=&#34;definition&#34;&gt;Definition:&lt;/h5&gt;
@@ -379,23 +460,35 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The following figure plots the generated data points 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
 
+&lt;img src=&#34;cosine.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt; We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
+&lt;/figure&gt;
+ We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;X_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X_rad[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
 Y_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Y[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The reduced set of data points leads to the following plot 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-small.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
 
+&lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt; Before proceeding further, let us define the deep learning model.&lt;/p&gt;
+&lt;/figure&gt;
+ Before proceeding further, let us define the deep learning model.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;CurveFitter&lt;/span&gt;(nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Module):
 
 	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; __init__(self, inputDim, outDim, hidDim):
@@ -437,12 +530,18 @@ optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(netw
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Training the above model on the smaller set of points leads to the following curve 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-supervised.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
 
+&lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.&lt;/p&gt;
 &lt;h4 id=&#34;transferring-knowledge-from-sine-function&#34;&gt;Transferring Knowledge from Sine Function&lt;/h4&gt;
 &lt;p&gt;Let us assume, that we have enough data points to train a Sine function. We will train the model using the earlier architecture. Unlike earlier, we will generate points from 0 to 1080 instead of 0 to 720.&lt;/p&gt;
@@ -455,40 +554,64 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The training points for sine function is 
 
 
-&lt;figure&gt;
 
-&lt;img src=&#34;sine.png&#34; /&gt;
-
-
-&lt;/figure&gt; and the curve fit by the model is 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;sine-predicted.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
 
+&lt;img src=&#34;sine.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+ and the curve fit by the model is 
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
+
+&lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
 We will use the trained model and further fine-tune the model on smaller set of points for the cosine function. The resulting fitted curve looks as below 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-transfer.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
 
+&lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe &lt;em&gt;Zoph et.al 2016&lt;/em&gt; meant when they said that &lt;span class=&#34;markup-quote&#34;&gt;the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large.&lt;/span&gt;&lt;/p&gt;
 &lt;h4 id=&#34;initialization&#34;&gt;Initialization&lt;/h4&gt;
 &lt;p&gt;Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-rand.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
 
+&lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt; However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;
+&lt;/figure&gt;
+ However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;
 &lt;p&gt;The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;ul&gt;
@@ -501,7 +624,6 @@ We will use the trained model and further fine-tune the model on smaller set of 
       <title>Monolingual NER Results for various Languages</title>
       <link>https://murthyrudra.github.io/post/monolingual-results/</link>
       <pubDate>Mon, 04 Feb 2019 22:34:35 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
       <description>&lt;p&gt;The Neural NER system implemented by me as part of the papers &lt;a href=&#34;https://murthyrudra.github.io/publication/low-resource-tallip/&#34;&gt;TALLIP paper&lt;/a&gt; and &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt; achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
@@ -596,7 +718,6 @@ We will use the trained model and further fine-tune the model on smaller set of 
       <title>My thoughts on word2vec</title>
       <link>https://murthyrudra.github.io/post/wordvec/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/wordvec/</guid>
       <description>&lt;p&gt;If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?&lt;/p&gt;
 &lt;p&gt;Let us consider a &lt;strong&gt;corpus&lt;/strong&gt; as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies. In the case of the corpus, should we choose &lt;strong&gt;words&lt;/strong&gt; as the particle of interest? But the word itself doesn&#39;t signify anything. When we hear a word we implicitly assume a context which helps us in deciphering it&#39;s meaning.&lt;/p&gt;
@@ -659,7 +780,6 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
       <title>Marriage and Promiscuity</title>
       <link>https://murthyrudra.github.io/post/marriage-promiscuity/</link>
       <pubDate>Fri, 21 Jul 2017 20:46:38 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/marriage-promiscuity/</guid>
       <description>&lt;p&gt;Let me directly cut to the chase. It&#39;s been a question which is constantly pestering me from many days. It&#39;s a simple question, &amp;ldquo;What is the relation between marriage, love, cheating and promiscuity&amp;rdquo;. The blog though does not answer this question, as it is difficult to find any answer but the effort is to search for one.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Marriage:&lt;/strong&gt;
@@ -680,7 +800,6 @@ Even though it seems that sex workers show promiscuous behavior, the definition 
       <title>Trekking</title>
       <link>https://murthyrudra.github.io/post/trekking/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/trekking/</guid>
       <description>&lt;p&gt;I have recently gained interest in Trekking. Here is a list of trekking spots visited by me and which you should never forget to visit.&lt;/p&gt;
 &lt;ul&gt;

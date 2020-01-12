@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pre-ordering on Rudra Murthy</title>
+    <title>pre-ordering | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/tags/pre-ordering/</link>
-    <description>Recent content in pre-ordering on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/tags/pre-ordering/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/tags/pre-ordering/index.xml" rel="self" type="application/rss+xml" />
+    <description>pre-ordering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>pre-ordering</title>
+      <link>https://murthyrudra.github.io/tags/pre-ordering/</link>
+    </image>
     
     <item>
       <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
       <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
       <description></description>
     </item>

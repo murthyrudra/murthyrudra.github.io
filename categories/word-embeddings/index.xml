@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>word embeddings on Rudra Murthy</title>
+    <title>word embeddings | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/categories/word-embeddings/</link>
-    <description>Recent content in word embeddings on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/categories/word-embeddings/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/categories/word-embeddings/index.xml" rel="self" type="application/rss+xml" />
+    <description>word embeddings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>word embeddings</title>
+      <link>https://murthyrudra.github.io/categories/word-embeddings/</link>
+    </image>
     
     <item>
       <title>My thoughts on word2vec</title>
       <link>https://murthyrudra.github.io/post/wordvec/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/wordvec/</guid>
       <description>&lt;p&gt;If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?&lt;/p&gt;
 &lt;p&gt;Let us consider a &lt;strong&gt;corpus&lt;/strong&gt; as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies. In the case of the corpus, should we choose &lt;strong&gt;words&lt;/strong&gt; as the particle of interest? But the word itself doesn&#39;t signify anything. When we hear a word we implicitly assume a context which helps us in deciphering it&#39;s meaning.&lt;/p&gt;

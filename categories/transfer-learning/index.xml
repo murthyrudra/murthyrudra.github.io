@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transfer Learning on Rudra Murthy</title>
+    <title>Transfer Learning | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/categories/transfer-learning/</link>
-    <description>Recent content in Transfer Learning on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/categories/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/categories/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transfer Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>Transfer Learning</title>
+      <link>https://murthyrudra.github.io/categories/transfer-learning/</link>
+    </image>
     
     <item>
       <title>Intuition Behind Transfer Learning</title>
       <link>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
       <description>&lt;p&gt;Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept &lt;em&gt;tree&lt;/em&gt;. Instead, we learn the corresponding word used to represent the concept (&lt;em&gt;tree&lt;/em&gt;). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what &lt;strong&gt;Transfer Learning&lt;/strong&gt; is all about. &lt;span class=&#34;markup-quote&#34;&gt;Transfer Learning is using knowledge gained from one task to solve a related task.&lt;/span&gt;&lt;/p&gt;
 &lt;h5 id=&#34;definition&#34;&gt;Definition:&lt;/h5&gt;
@@ -44,23 +44,35 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The following figure plots the generated data points 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
 
+&lt;img src=&#34;cosine.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt; We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
+&lt;/figure&gt;
+ We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;X_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; X_rad[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
 Y_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Y[:&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;]
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The reduced set of data points leads to the following plot 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-small.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
 
+&lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt; Before proceeding further, let us define the deep learning model.&lt;/p&gt;
+&lt;/figure&gt;
+ Before proceeding further, let us define the deep learning model.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;CurveFitter&lt;/span&gt;(nn&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Module):
 
 	&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; __init__(self, inputDim, outDim, hidDim):
@@ -102,12 +114,18 @@ optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(netw
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Training the above model on the smaller set of points leads to the following curve 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-supervised.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
 
+&lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.&lt;/p&gt;
 &lt;h4 id=&#34;transferring-knowledge-from-sine-function&#34;&gt;Transferring Knowledge from Sine Function&lt;/h4&gt;
 &lt;p&gt;Let us assume, that we have enough data points to train a Sine function. We will train the model using the earlier architecture. Unlike earlier, we will generate points from 0 to 1080 instead of 0 to 720.&lt;/p&gt;
@@ -120,40 +138,64 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The training points for sine function is 
 
 
-&lt;figure&gt;
 
-&lt;img src=&#34;sine.png&#34; /&gt;
-
-
-&lt;/figure&gt; and the curve fit by the model is 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;sine-predicted.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
 
+&lt;img src=&#34;sine.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+ and the curve fit by the model is 
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
+
+&lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
 We will use the trained model and further fine-tune the model on smaller set of points for the cosine function. The resulting fitted curve looks as below 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-transfer.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
 
+&lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe &lt;em&gt;Zoph et.al 2016&lt;/em&gt; meant when they said that &lt;span class=&#34;markup-quote&#34;&gt;the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large.&lt;/span&gt;&lt;/p&gt;
 &lt;h4 id=&#34;initialization&#34;&gt;Initialization&lt;/h4&gt;
 &lt;p&gt;Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;cosine-rand.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
 
+&lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt; However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;
+&lt;/figure&gt;
+ However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;
 &lt;p&gt;The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;ul&gt;

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neural machine translation on Rudra Murthy</title>
+    <title>neural machine translation | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/tags/neural-machine-translation/</link>
-    <description>Recent content in neural machine translation on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/tags/neural-machine-translation/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/tags/neural-machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <description>neural machine translation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>neural machine translation</title>
+      <link>https://murthyrudra.github.io/tags/neural-machine-translation/</link>
+    </image>
     
     <item>
       <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
       <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deep learning on Rudra Murthy</title>
+    <title>deep learning | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/tags/deep-learning/</link>
-    <description>Recent content in deep learning on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>deep learning</title>
+      <link>https://murthyrudra.github.io/tags/deep-learning/</link>
+    </image>
     
     <item>
       <title>A Deep Learning Solution to Named Entity Recognition</title>
       <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Deep Learning Tutorial at ICON 2015</title>
       <link>https://murthyrudra.github.io/talk/icon-2015/</link>
       <pubDate>Sat, 12 Dec 2015 20:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/talk/icon-2015/</guid>
       <description></description>
     </item>

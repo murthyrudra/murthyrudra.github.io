@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Rudra Murthy</title>
+    <title>Publications | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/publication/</link>
-    <description>Recent content in Publications on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://murthyrudra.github.io/publication/</link>
+    </image>
     
     <item>
       <title>A Study of Efficacy of Cross-lingual Word Embeddings for Indian Languages</title>
       <link>https://murthyrudra.github.io/publication/jyotsna-2019-crosslingual/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/jyotsna-2019-crosslingual/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
       <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Ordering Matters: Word Ordering Aware Unsupervised NMT</title>
       <link>https://murthyrudra.github.io/publication/banerjee-2019-ordering/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/banerjee-2019-ordering/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
       <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
       <description>&lt;p&gt;The Marathi Named Entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -52,7 +49,6 @@
       <title>A Deep Learning Solution to Named Entity Recognition</title>
       <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
       <description></description>
     </item>
@@ -61,7 +57,6 @@
       <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
       <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
       <description>&lt;p&gt;The Marathi named entity annotated data described in the paper can be downloaded &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -71,7 +66,6 @@
       <title>Identifying Raga Similarity in Hindustani Classical Music through Distributed Representation of Raga Names</title>
       <link>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</guid>
       <description></description>
     </item>
@@ -80,7 +74,6 @@
       <title>Unsupervised most frequent sense detection using word embeddings</title>
       <link>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</guid>
       <description></description>
     </item>

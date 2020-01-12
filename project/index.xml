@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Rudra Murthy</title>
+    <title>Projects | Rudra Murthy</title>
     <link>https://murthyrudra.github.io/project/</link>
-    <description>Recent content in Projects on Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2019 18:00:02 +0530</lastBuildDate>
-    
-	    <atom:link href="https://murthyrudra.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://murthyrudra.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2019 18:00:02 +0530</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://murthyrudra.github.io/project/</link>
+    </image>
     
     <item>
       <title>Chirp: Geo-Aware Chat app for Android with Automatic Translation Support</title>
       <link>https://murthyrudra.github.io/project/chirp-chat/</link>
       <pubDate>Mon, 15 Jul 2019 18:00:02 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/project/chirp-chat/</guid>
       <description>&lt;p&gt;Assume that you have visited to some tourist place and you are hungry. Basically you want to find some good hotel to have lunch. You can use some existing apps but what if the checked-in hotel is no longer there? Or you want to find someone from your place? Location-aware chat i.e, chatting with someone in your proximity comes in handy for you.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chirp is a location-aware chat that allows you to chat with someone in your proximity.&lt;/strong&gt;&lt;/p&gt;
@@ -32,7 +32,6 @@
       <title>Information Extraction on SMS related to LG products</title>
       <link>https://murthyrudra.github.io/project/lg-info-sms/</link>
       <pubDate>Mon, 15 Jul 2019 17:59:53 +0530</pubDate>
-      
       <guid>https://murthyrudra.github.io/project/lg-info-sms/</guid>
       <description>&lt;p&gt;Worked on Information Extraction on SMS related to LG products consultancy project for LGsoft Bangalore from June 2017 to December 2017.&lt;/p&gt;
 </description>
