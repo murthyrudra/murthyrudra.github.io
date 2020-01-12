@@ -23,12 +23,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
 
-&lt;img src=&#34;waiterTip.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
+&lt;img src=&#34;waiterTip.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -46,12 +54,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
 
-&lt;img src=&#34;typicalMonday.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
+&lt;img src=&#34;typicalMonday.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -69,12 +85,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
 
-&lt;img src=&#34;ai.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
+&lt;img src=&#34;ai.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -92,12 +116,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
 
-&lt;img src=&#34;motivation.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
+&lt;img src=&#34;motivation.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -115,12 +147,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
 
-&lt;img src=&#34;marriage.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
+&lt;img src=&#34;marriage.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -138,12 +178,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
 
-&lt;img src=&#34;bo-chans.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
+&lt;img src=&#34;bo-chans.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -161,12 +209,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
 
-&lt;img src=&#34;souvenirs.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
+&lt;img src=&#34;souvenirs.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -194,12 +250,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
 
-&lt;img src=&#34;please-send-relative.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
+&lt;img src=&#34;please-send-relative.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -217,12 +281,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
 
-&lt;img src=&#34;Overthinker.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
+&lt;img src=&#34;Overthinker.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -240,12 +312,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
 
-&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
+&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -263,12 +343,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
 
-&lt;img src=&#34;Missing-Thursday.jpeg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
+&lt;img src=&#34;Missing-Thursday.jpeg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -286,12 +374,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
 
-&lt;img src=&#34;EarthMoonBreakup.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
+&lt;img src=&#34;EarthMoonBreakup.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -309,12 +405,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
 
-&lt;img src=&#34;IamSorry.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
+&lt;img src=&#34;IamSorry.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -334,12 +438,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
 
-&lt;img src=&#34;facebookWorth.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
+&lt;img src=&#34;facebookWorth.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 

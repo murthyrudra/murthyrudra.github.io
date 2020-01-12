@@ -23,12 +23,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
 
-&lt;img src=&#34;waiterTip.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
+&lt;img src=&#34;waiterTip.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -46,12 +54,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
 
-&lt;img src=&#34;typicalMonday.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
+&lt;img src=&#34;typicalMonday.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -69,12 +85,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
 
-&lt;img src=&#34;ai.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
+&lt;img src=&#34;ai.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -92,12 +116,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
 
-&lt;img src=&#34;motivation.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
+&lt;img src=&#34;motivation.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -115,12 +147,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
 
-&lt;img src=&#34;marriage.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
+&lt;img src=&#34;marriage.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -138,12 +178,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
 
-&lt;img src=&#34;bo-chans.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
+&lt;img src=&#34;bo-chans.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -161,12 +209,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
 
-&lt;img src=&#34;souvenirs.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
+&lt;img src=&#34;souvenirs.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -194,12 +250,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
 
-&lt;img src=&#34;please-send-relative.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
+&lt;img src=&#34;please-send-relative.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -217,12 +281,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
 
-&lt;img src=&#34;Overthinker.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
+&lt;img src=&#34;Overthinker.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -240,12 +312,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
 
-&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
+&lt;img src=&#34;be-careful-what-you-wish-for.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -263,12 +343,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
 
-&lt;img src=&#34;Missing-Thursday.jpeg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
+&lt;img src=&#34;Missing-Thursday.jpeg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -286,12 +374,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
 
-&lt;img src=&#34;EarthMoonBreakup.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
+&lt;img src=&#34;EarthMoonBreakup.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -309,12 +405,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
 
-&lt;img src=&#34;IamSorry.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
+&lt;img src=&#34;IamSorry.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -334,12 +438,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
 
-&lt;img src=&#34;facebookWorth.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
+&lt;img src=&#34;facebookWorth.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -369,18 +481,26 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; &gt;
 
-&lt;img src=&#34;id.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; data-caption=&#34;Conference Badge&#34;&gt;
+&lt;img src=&#34;id.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Conference Badge&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Conference Badge
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -392,18 +512,26 @@ This year&#39;s conference badge was different. Apart from your name and your af
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; &gt;
 
-&lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; data-caption=&#34;Gender Neutral Restrooms&#34;&gt;
+&lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Gender Neutral Restrooms&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Gender Neutral Restrooms
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -463,12 +591,20 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
 
-&lt;img src=&#34;cosine.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
+&lt;img src=&#34;cosine.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
@@ -480,12 +616,20 @@ Y_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Y[:&lt;span sty
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
 
-&lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
+&lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  Before proceeding further, let us define the deep learning model.&lt;/p&gt;
@@ -533,12 +677,20 @@ optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(netw
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
 
-&lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
+&lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -557,12 +709,20 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
 
-&lt;img src=&#34;sine.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
+&lt;img src=&#34;sine.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  and the curve fit by the model is 
@@ -571,12 +731,20 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
 
-&lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
+&lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -586,12 +754,20 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
 
-&lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
+&lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -603,12 +779,20 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
 
-&lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
+&lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;

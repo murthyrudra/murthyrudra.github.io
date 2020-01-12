@@ -47,12 +47,20 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
 
-&lt;img src=&#34;cosine.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
+&lt;img src=&#34;cosine.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.&lt;/p&gt;
@@ -64,12 +72,20 @@ Y_small &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Y[:&lt;span sty
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
 
-&lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
+&lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  Before proceeding further, let us define the deep learning model.&lt;/p&gt;
@@ -117,12 +133,20 @@ optim_alg_cos &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Adam(netw
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
 
-&lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
+&lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -141,12 +165,20 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
 
-&lt;img src=&#34;sine.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
+&lt;img src=&#34;sine.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  and the curve fit by the model is 
@@ -155,12 +187,20 @@ Y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
 
-&lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
+&lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -170,12 +210,20 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
 
-&lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
+&lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -187,12 +235,20 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
 
-&lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
+&lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
  However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.&lt;/p&gt;

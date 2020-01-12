@@ -29,18 +29,26 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; &gt;
 
-&lt;img src=&#34;id.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; data-caption=&#34;Conference Badge&#34;&gt;
+&lt;img src=&#34;id.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Conference Badge&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Conference Badge
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -52,18 +60,26 @@ This year&#39;s conference badge was different. Apart from your name and your af
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; &gt;
 
-&lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; data-caption=&#34;Gender Neutral Restrooms&#34;&gt;
+&lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Gender Neutral Restrooms&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Gender Neutral Restrooms
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
