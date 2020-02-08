@@ -144,7 +144,7 @@
 &lt;p&gt;&lt;strong&gt;Pinky:&lt;/strong&gt; Gee, Brain, What do you want to do today?&lt;br&gt;
 &lt;strong&gt;Brain:&lt;/strong&gt; The same thing we do everyday, Pinky. Borrow features from high-resource language to improve NLP Task performance in low-resource languages&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I am broadly interested in the application of Deep Learning to various Natural Language Processing (NLP) tasks. Recently, I have garnered interest in &lt;strong&gt;Multilingual Learning for NLP in Low-Resource Languages&lt;/strong&gt;. Low-resource languages do not have sufficient data, tools, and other resources (leading to data sparsity) to successfully train existing machine learning models for any NLP task. My current focus is on borrowing features (implicitly statistics) from one or more related languages (multilingual learning). I am specifically exploring ways of minimizing the divergence between unrelated languages at various granularities to better existing multilingual learning approaches.&lt;/p&gt;
+&lt;p&gt;I am broadly interested in Natural Language Processing (NLP) for low-resource languages, specifically Indic languages. Recently, I have garnered interest in &lt;strong&gt;Multilingual Learning for NLP in Low-Resource Languages&lt;/strong&gt;. Low-resource languages do not have sufficient data, tools, and other resources (leading to data sparsity) to successfully train existing machine learning models for any NLP task. My current focus is on borrowing features (implicitly statistics) from one or more related languages (multilingual learning).&lt;/p&gt;
 </description>
     </item>
     
