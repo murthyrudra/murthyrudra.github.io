@@ -141,6 +141,35 @@
 
 &lt;/figure&gt;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;democracy.png&#34; data-caption=&#34;Democracy&#34;&gt;
+&lt;img data-src=&#34;democracy.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Democracy
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
