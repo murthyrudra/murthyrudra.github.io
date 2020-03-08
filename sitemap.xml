@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/</loc>
-    <lastmod>2020-02-20T11:46:25+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://murthyrudra.github.io/tags/</loc>
     <lastmod>2020-02-20T11:46:25+05:30</lastmod>
   </url>
@@ -128,12 +123,12 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/naacl-2019/</loc>
+    <loc>https://murthyrudra.github.io/tags/naacl-2019/</loc>
     <lastmod>2019-06-07T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/naacl-2019/</loc>
+    <loc>https://murthyrudra.github.io/categories/naacl-2019/</loc>
     <lastmod>2019-06-07T00:00:00+05:30</lastmod>
   </url>
   
@@ -143,12 +138,12 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/transfer-learning/</loc>
+    <loc>https://murthyrudra.github.io/tags/transfer-learning/</loc>
     <lastmod>2019-05-05T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/transfer-learning/</loc>
+    <loc>https://murthyrudra.github.io/categories/transfer-learning/</loc>
     <lastmod>2019-05-05T00:00:00+05:30</lastmod>
   </url>
   
@@ -193,12 +188,12 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/word-embeddings/</loc>
+    <loc>https://murthyrudra.github.io/tags/word-embeddings/</loc>
     <lastmod>2019-02-03T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/word-embeddings/</loc>
+    <loc>https://murthyrudra.github.io/categories/word-embeddings/</loc>
     <lastmod>2019-02-03T00:00:00+05:30</lastmod>
   </url>
   
@@ -393,12 +388,12 @@
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/categories/trekking/</loc>
+    <loc>https://murthyrudra.github.io/tags/trekking/</loc>
     <lastmod>2017-01-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://murthyrudra.github.io/tags/trekking/</loc>
+    <loc>https://murthyrudra.github.io/categories/trekking/</loc>
     <lastmod>2017-01-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -409,6 +404,11 @@
   
   <url>
     <loc>https://murthyrudra.github.io/academic-activities/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://murthyrudra.github.io/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   

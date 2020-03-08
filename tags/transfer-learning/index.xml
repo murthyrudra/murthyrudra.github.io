@@ -19,12 +19,14 @@
       <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
       <description>&lt;p&gt;Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept &lt;em&gt;tree&lt;/em&gt;. Instead, we learn the corresponding word used to represent the concept (&lt;em&gt;tree&lt;/em&gt;). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what &lt;strong&gt;Transfer Learning&lt;/strong&gt; is all about. &lt;span class=&#34;markup-quote&#34;&gt;Transfer Learning is using knowledge gained from one task to solve a related task.&lt;/span&gt;&lt;/p&gt;
 &lt;h5 id=&#34;definition&#34;&gt;Definition:&lt;/h5&gt;
-&lt;p&gt;Now, let me quote the Wikipedia definition for &lt;a href=&#34;https://en.wikipedia.org/wiki/Transfer_learning&#34;&gt;Transfer Learning&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;Now, let me quote the Wikipedia definition for 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Transfer_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Learning&lt;/a&gt;,&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognise cars could apply when trying to recognise trucks. This area of research bears some relation to the long history of psychological literature on transfer of learning, although formal ties between the two fields are limited.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;In the field of Natural Language Processing (NLP), transfer learning can take the form of multi-task learning or multilingual learning. Multi-task learning refers to using knowledge from one task to improve performance in a related task in the same language. For example, sentiment analysis helping emotion analysis. Similarly, multilingual learning refers to using knowledge from a task in one language to improve performance in a related task in another language language. Usually in multilingual learning, we focus on the case where the tasks are the same in both the languages.&lt;/p&gt;
-&lt;p&gt;In this post, I won&#39;t be going into the details of Transfer Learning. Sebastian Ruder&#39;s blog post on &lt;a href=&#34;http://ruder.io/transfer-learning/&#34;&gt;Transfer Learning&lt;/a&gt; summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.&lt;/p&gt;
+&lt;p&gt;In this post, I won&amp;rsquo;t be going into the details of Transfer Learning. Sebastian Ruder&amp;rsquo;s blog post on 
+&lt;a href=&#34;http://ruder.io/transfer-learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Learning&lt;/a&gt; summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.&lt;/p&gt;
 &lt;h3 id=&#34;transfer-learning-a-strong-prior-distribution-over-models&#34;&gt;Transfer Learning: A Strong Prior Distribution Over Models&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Zoph et.al 2016&lt;/em&gt; quotes in his paper titled &lt;strong&gt;Transfer Learning for Low-Resource Neural Machine Translation&lt;/strong&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -55,11 +57,16 @@ Y = np.cos(X_rad)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
-&lt;img data-src=&#34;cosine.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -81,11 +88,16 @@ Y_small = Y[:20]
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
-&lt;img data-src=&#34;cosine-small.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -144,11 +156,16 @@ optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
-&lt;img data-src=&#34;cosine-supervised.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -177,11 +194,16 @@ Y = np.sin(X_rad)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
-&lt;img data-src=&#34;sine.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;sine.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -199,11 +221,16 @@ Y = np.sin(X_rad)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
-&lt;img data-src=&#34;sine-predicted.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -222,11 +249,16 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
-&lt;img data-src=&#34;cosine-transfer.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -247,11 +279,16 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
-&lt;img data-src=&#34;cosine-rand.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 

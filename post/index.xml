@@ -22,6 +22,8 @@
 
 
 
+  
+  
 
 
 
@@ -30,11 +32,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;introduction.png&#34; data-caption=&#34;Introductions&#34;&gt;
-&lt;img data-src=&#34;introduction.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-introductions&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Introductions&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3407&#34; height=&#34;1381&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -59,6 +67,8 @@
 
 
 
+  
+  
 
 
 
@@ -67,11 +77,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;birthday.png&#34; data-caption=&#34;Birthday&#34;&gt;
-&lt;img data-src=&#34;birthday.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-birthday&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Birthday&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -88,6 +104,8 @@
 
 
 
+  
+  
 
 
 
@@ -96,11 +114,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;headphone.png&#34; data-caption=&#34;Headphones&#34;&gt;
-&lt;img data-src=&#34;headphone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-headphones&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Headphones&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -117,6 +141,8 @@
 
 
 
+  
+  
 
 
 
@@ -125,11 +151,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;smartphones.png&#34; data-caption=&#34;Smartphones&#34;&gt;
-&lt;img data-src=&#34;smartphones.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-smartphones&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Smartphones&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -146,6 +178,8 @@
 
 
 
+  
+  
 
 
 
@@ -154,11 +188,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;democracy.png&#34; data-caption=&#34;Democracy&#34;&gt;
-&lt;img data-src=&#34;democracy.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-democracy&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Democracy&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3047&#34; height=&#34;728&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -183,6 +223,8 @@
 
 
 
+  
+  
 
 
 
@@ -191,11 +233,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
-&lt;img data-src=&#34;waiterTip.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/tip-waiter/waiterTip_hu33d8f2710ea4928d295bd08cdc05f6eb_5616588_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/tip-waiter/waiterTip_hu33d8f2710ea4928d295bd08cdc05f6eb_5616588_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;27948&#34; height=&#34;7315&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -214,6 +262,8 @@
 
 
 
+  
+  
 
 
 
@@ -222,11 +272,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
-&lt;img data-src=&#34;typicalMonday.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/monday-conversation/typicalMonday_hu33d8f2710ea4928d295bd08cdc05f6eb_3266754_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/monday-conversation/typicalMonday_hu33d8f2710ea4928d295bd08cdc05f6eb_3266754_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;14995&#34; height=&#34;7795&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -245,6 +301,8 @@
 
 
 
+  
+  
 
 
 
@@ -253,11 +311,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
-&lt;img data-src=&#34;ai.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/ai/ai_hu33d8f2710ea4928d295bd08cdc05f6eb_3373761_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/ai/ai_hu33d8f2710ea4928d295bd08cdc05f6eb_3373761_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;12367&#34; height=&#34;9687&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -276,6 +340,8 @@
 
 
 
+  
+  
 
 
 
@@ -284,11 +350,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
-&lt;img data-src=&#34;motivation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;18830&#34; height=&#34;12945&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -307,6 +379,8 @@
 
 
 
+  
+  
 
 
 
@@ -315,11 +389,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
-&lt;img data-src=&#34;marriage.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;10154&#34; height=&#34;9753&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -338,6 +418,8 @@
 
 
 
+  
+  
 
 
 
@@ -346,11 +428,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
-&lt;img data-src=&#34;bo-chans.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7546&#34; height=&#34;10529&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -369,6 +457,8 @@
 
 
 
+  
+  
 
 
 
@@ -377,11 +467,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
-&lt;img data-src=&#34;souvenirs.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/souvenir/souvenirs_hu33d8f2710ea4928d295bd08cdc05f6eb_3794198_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/souvenir/souvenirs_hu33d8f2710ea4928d295bd08cdc05f6eb_3794198_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;9892&#34; height=&#34;10412&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -410,6 +506,8 @@
 
 
 
+  
+  
 
 
 
@@ -418,11 +516,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
-&lt;img data-src=&#34;please-send-relative.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/relative-visit/please-send-relative_hu33d8f2710ea4928d295bd08cdc05f6eb_3311748_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/relative-visit/please-send-relative_hu33d8f2710ea4928d295bd08cdc05f6eb_3311748_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7818&#34; height=&#34;14094&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -441,6 +545,8 @@
 
 
 
+  
+  
 
 
 
@@ -449,11 +555,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
-&lt;img data-src=&#34;Overthinker.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/overthinker/Overthinker_hu33d8f2710ea4928d295bd08cdc05f6eb_2715809_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/overthinker/Overthinker_hu33d8f2710ea4928d295bd08cdc05f6eb_2715809_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;11259&#34; height=&#34;6275&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -472,6 +584,8 @@
 
 
 
+  
+  
 
 
 
@@ -480,11 +594,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
-&lt;img data-src=&#34;be-careful-what-you-wish-for.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/be-careful-what-you-wish-for/be-careful-what-you-wish-for_hu33d8f2710ea4928d295bd08cdc05f6eb_783875_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/be-careful-what-you-wish-for/be-careful-what-you-wish-for_hu33d8f2710ea4928d295bd08cdc05f6eb_783875_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7239&#34; height=&#34;1816&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -503,6 +623,8 @@
 
 
 
+  
+  
 
 
 
@@ -511,11 +633,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
-&lt;img data-src=&#34;Missing-Thursday.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/thursday/Missing-Thursday_hu33d8f2710ea4928d295bd08cdc05f6eb_1069420_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/thursday/Missing-Thursday_hu33d8f2710ea4928d295bd08cdc05f6eb_1069420_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;8966&#34; height=&#34;2460&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -534,6 +662,8 @@
 
 
 
+  
+  
 
 
 
@@ -542,11 +672,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
-&lt;img data-src=&#34;EarthMoonBreakup.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7395&#34; height=&#34;3485&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -565,6 +701,8 @@
 
 
 
+  
+  
 
 
 
@@ -573,11 +711,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
-&lt;img data-src=&#34;IamSorry.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;6405&#34; height=&#34;2440&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -592,7 +736,15 @@
       <pubDate>Wed, 26 Jun 2019 10:43:02 +0530</pubDate>
       <guid>https://murthyrudra.github.io/post/facebook-user-price/</guid>
       <description>&lt;h4 id=&#34;context&#34;&gt;Context:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&amp;amp;IR=T&#34;&gt;Facebook and Google could be forced to tell you how much your data is worth under new US legislation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&amp;amp;IR=T&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook and Google could be forced to tell you how much your data is worth under new US legislation&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
 
 
 
@@ -604,13 +756,14 @@
 
 
 
+&lt;figure &gt;
 
 
-&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
-&lt;img data-src=&#34;facebookWorth.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5254&#34; height=&#34;4324&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -630,11 +783,11 @@
       <link>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0530</pubDate>
       <guid>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</guid>
-      <description>&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&#39;s NAACL was unlike any other year. The highlight of this year&#39;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&#39;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&#39;t control&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&amp;rsquo;s NAACL was unlike any other year. The highlight of this year&amp;rsquo;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&amp;rsquo;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&amp;rsquo;t control&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I will brief about few of the initiatives taken by the organizing committee here.&lt;/p&gt;
 &lt;h3 id=&#34;a-more-inclusive-conference&#34;&gt;A More Inclusive Conference&lt;/h3&gt;
 &lt;h4 id=&#34;pronouns&#34;&gt;Pronouns&lt;/h4&gt;
-&lt;p&gt;Have you ever bumped into someone and couldn&#39;t figure out how to address them? You don&#39;t know if you should address them by their first name or last name? Someone addresses you by the wrong pronoun? &lt;em&gt;Not to worry, the committee came up with a solution to address this all.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Have you ever bumped into someone and couldn&amp;rsquo;t figure out how to address them? You don&amp;rsquo;t know if you should address them by their first name or last name? Someone addresses you by the wrong pronoun? &lt;em&gt;Not to worry, the committee came up with a solution to address this all.&lt;/em&gt;&lt;/p&gt;
 &lt;h5 id=&#34;conference-badge&#34;&gt;Conference Badge&lt;/h5&gt;
 &lt;p&gt;
 
@@ -649,11 +802,16 @@
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure id=&#34;figure-conference-badge&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; data-caption=&#34;Conference Badge&#34;&gt;
-&lt;img data-src=&#34;id.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;id.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
   
@@ -665,7 +823,8 @@
 
 &lt;/figure&gt;
 
-This year&#39;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&#39;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read &lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+This year&amp;rsquo;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&amp;rsquo;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read 
+&lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;gender-neutral-restrooms&#34;&gt;Gender-neutral Restrooms&lt;/h4&gt;
 &lt;p&gt;
 
@@ -680,11 +839,16 @@ This year&#39;s conference badge was different. Apart from your name and your af
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure id=&#34;figure-gender-neutral-restrooms&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; data-caption=&#34;Gender Neutral Restrooms&#34;&gt;
-&lt;img data-src=&#34;restroom.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
   
@@ -698,7 +862,7 @@ This year&#39;s conference badge was different. Apart from your name and your af
 
 The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone can use this restrooms irrespective of their gender or identity. If you are not comfortable using gender-neutral restrooms, then not to worry as the venue had regular restrooms too.&lt;/p&gt;
 &lt;h3 id=&#34;quietprayer-rooms&#34;&gt;Quiet/Prayer Rooms&lt;/h3&gt;
-&lt;p&gt;Conferences are usually crowded. You may sometimes feel like you need to go to a quiet place to get away from all the discussions. Or maybe you feel like meditating for a bit. Or maybe it&#39;s your prayer time. This year, the conference venue had a separate &lt;em&gt;Quiet/Prayer Room&lt;/em&gt; for the sole purpose.&lt;/p&gt;
+&lt;p&gt;Conferences are usually crowded. You may sometimes feel like you need to go to a quiet place to get away from all the discussions. Or maybe you feel like meditating for a bit. Or maybe it&amp;rsquo;s your prayer time. This year, the conference venue had a separate &lt;em&gt;Quiet/Prayer Room&lt;/em&gt; for the sole purpose.&lt;/p&gt;
 &lt;h3 id=&#34;childcare&#34;&gt;Childcare&lt;/h3&gt;
 &lt;p&gt;It is stressful to attend a conference and it is more stressful to attend a conference accompanied by your children. The conference had provisions where one can apply for subsidy which could be used to compensate for arranging a childcare provider at the venue or at home. The venue also had two rooms one for &lt;em&gt;nursing&lt;/em&gt; and other for spending time with your kids. Bringing your kids to attend a conference is a pleasurable experience now.&lt;/p&gt;
 &lt;h3 id=&#34;disability-access&#34;&gt;Disability Access&lt;/h3&gt;
@@ -711,7 +875,7 @@ The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone c
 &lt;p&gt;Have you ever missed attending a conference for not being able to get proper funding or denied VISA or other personal factors? Recently, there is growing concern with conferences held in USA about VISA denial. It is very frustrating that you miss out the chance of attending conferences and networking with people. These are some factors which are out of our control. However, the organizing committee decided that there could be something done to ensure that such participants do not miss out the experience of attending the conference. One of the features of the conference was &lt;em&gt;Remote Presentations&lt;/em&gt; and &lt;em&gt;Remote Posters&lt;/em&gt;. One does not have to miss the feeling of not being able to present their work in front of the world.&lt;/p&gt;
 &lt;p&gt;There were occasional issues when it comes to remote presentations, but this is a first step towards more inclusivity. Hopefully, in the coming years you can connect with conference attendees from your home itself and present your work to the world.&lt;/p&gt;
 &lt;h3 id=&#34;whova-app&#34;&gt;Whova App&lt;/h3&gt;
-&lt;p&gt;Are you attending the conference for the first time and are not sure what to do? Just as in earlier conferences, NAACL used Whova app to help attendees connect with each other. You can find out who all are attending the conferences, what are their interests, form groups to go out for lunch and sight-seeing. Even if someone couldn&#39;t be present physically at the conference that person (remember: the deliberate avoidance of using pronouns here) can still connect with others attending the conference via the app.&lt;/p&gt;
+&lt;p&gt;Are you attending the conference for the first time and are not sure what to do? Just as in earlier conferences, NAACL used Whova app to help attendees connect with each other. You can find out who all are attending the conferences, what are their interests, form groups to go out for lunch and sight-seeing. Even if someone couldn&amp;rsquo;t be present physically at the conference that person (remember: the deliberate avoidance of using pronouns here) can still connect with others attending the conference via the app.&lt;/p&gt;
 &lt;p&gt;This year NAACL was a good experience and I enjoyed attending the conference. The conference took a step in being more inclusive and ensured no-one felt left out. The system may not be perfect but a step in the right-direction.&lt;/p&gt;
 &lt;p&gt;Cheers :)&lt;/p&gt;
 </description>
@@ -724,12 +888,14 @@ The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone c
       <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
       <description>&lt;p&gt;Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept &lt;em&gt;tree&lt;/em&gt;. Instead, we learn the corresponding word used to represent the concept (&lt;em&gt;tree&lt;/em&gt;). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what &lt;strong&gt;Transfer Learning&lt;/strong&gt; is all about. &lt;span class=&#34;markup-quote&#34;&gt;Transfer Learning is using knowledge gained from one task to solve a related task.&lt;/span&gt;&lt;/p&gt;
 &lt;h5 id=&#34;definition&#34;&gt;Definition:&lt;/h5&gt;
-&lt;p&gt;Now, let me quote the Wikipedia definition for &lt;a href=&#34;https://en.wikipedia.org/wiki/Transfer_learning&#34;&gt;Transfer Learning&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;Now, let me quote the Wikipedia definition for 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Transfer_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Learning&lt;/a&gt;,&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognise cars could apply when trying to recognise trucks. This area of research bears some relation to the long history of psychological literature on transfer of learning, although formal ties between the two fields are limited.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;In the field of Natural Language Processing (NLP), transfer learning can take the form of multi-task learning or multilingual learning. Multi-task learning refers to using knowledge from one task to improve performance in a related task in the same language. For example, sentiment analysis helping emotion analysis. Similarly, multilingual learning refers to using knowledge from a task in one language to improve performance in a related task in another language language. Usually in multilingual learning, we focus on the case where the tasks are the same in both the languages.&lt;/p&gt;
-&lt;p&gt;In this post, I won&#39;t be going into the details of Transfer Learning. Sebastian Ruder&#39;s blog post on &lt;a href=&#34;http://ruder.io/transfer-learning/&#34;&gt;Transfer Learning&lt;/a&gt; summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.&lt;/p&gt;
+&lt;p&gt;In this post, I won&amp;rsquo;t be going into the details of Transfer Learning. Sebastian Ruder&amp;rsquo;s blog post on 
+&lt;a href=&#34;http://ruder.io/transfer-learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Learning&lt;/a&gt; summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.&lt;/p&gt;
 &lt;h3 id=&#34;transfer-learning-a-strong-prior-distribution-over-models&#34;&gt;Transfer Learning: A Strong Prior Distribution Over Models&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Zoph et.al 2016&lt;/em&gt; quotes in his paper titled &lt;strong&gt;Transfer Learning for Low-Resource Neural Machine Translation&lt;/strong&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -760,11 +926,16 @@ Y = np.cos(X_rad)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine.png&#34; &gt;
-&lt;img data-src=&#34;cosine.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -786,11 +957,16 @@ Y_small = Y[:20]
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-small.png&#34; &gt;
-&lt;img data-src=&#34;cosine-small.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-small.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -849,11 +1025,16 @@ optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-supervised.png&#34; &gt;
-&lt;img data-src=&#34;cosine-supervised.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-supervised.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -882,11 +1063,16 @@ Y = np.sin(X_rad)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;sine.png&#34; &gt;
-&lt;img data-src=&#34;sine.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;sine.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -904,11 +1090,16 @@ Y = np.sin(X_rad)
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;sine-predicted.png&#34; &gt;
-&lt;img data-src=&#34;sine-predicted.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;sine-predicted.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -927,11 +1118,16 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-transfer.png&#34; &gt;
-&lt;img data-src=&#34;cosine-transfer.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-transfer.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -952,11 +1148,16 @@ We will use the trained model and further fine-tune the model on smaller set of 
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;cosine-rand.gif&#34; &gt;
-&lt;img data-src=&#34;cosine-rand.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;cosine-rand.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
 
@@ -975,7 +1176,9 @@ We will use the trained model and further fine-tune the model on smaller set of 
       <link>https://murthyrudra.github.io/post/monolingual-results/</link>
       <pubDate>Mon, 04 Feb 2019 22:34:35 +0530</pubDate>
       <guid>https://murthyrudra.github.io/post/monolingual-results/</guid>
-      <description>&lt;p&gt;The Neural NER system implemented by me as part of the papers &lt;a href=&#34;https://murthyrudra.github.io/publication/low-resource-tallip/&#34;&gt;TALLIP paper&lt;/a&gt; and &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt; achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
+      <description>&lt;p&gt;The Neural NER system implemented by me as part of the papers 
+&lt;a href=&#34;https://murthyrudra.github.io/publication/low-resource-tallip/&#34;&gt;TALLIP paper&lt;/a&gt; and 
+&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt; achieves the following &lt;em&gt;F1-Scores&lt;/em&gt; on various languages.&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -990,77 +1193,95 @@ We will use the trained model and further fine-tune the model on smaller set of 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;English&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2003/ner/&#34;&gt;CoNLL 2003&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.pdhillon.com/code.html&#34;&gt;Spectral Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2003/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2003&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;http://www.pdhillon.com/code.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spectral Embeddings&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;90.94&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Spanish&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;85.75&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Dutch&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;85.20&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;German&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;87.64&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Italian&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Evalita 2009&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;75.98&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Hindi&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34;&gt;Fasttext Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fasttext Embeddings&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;64.93&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Marathi&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;61.46&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Bengali&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;55.61&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Malayalam&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;64.59&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;Tamil&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;65.39&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to &lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PPS: The reason for difference in monolingual NER performance for Bengali, Tamil and Malayalam compared to the published results are due to certain pre-processing steps which were not performed in the ACL 2018 paper. We have observed that some of the sentences have length greater than 200 words. Manually splitting these longer sentences into smaller ones using &amp;lsquo;|&amp;rsquo; as delimiter lead to substantial improvement. Also, these models are trained using 
+&lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;common-crawl embeddings&lt;/a&gt; as opposed to 
+&lt;a href=&#34;https://fasttext.cc/docs/en/pretrained-vectors.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wikipedia embeddings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1131,18 +1352,18 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
       <link>https://murthyrudra.github.io/post/marriage-promiscuity/</link>
       <pubDate>Fri, 21 Jul 2017 20:46:38 +0530</pubDate>
       <guid>https://murthyrudra.github.io/post/marriage-promiscuity/</guid>
-      <description>&lt;p&gt;Let me directly cut to the chase. It&#39;s been a question which is constantly pestering me from many days. It&#39;s a simple question, &amp;ldquo;What is the relation between marriage, love, cheating and promiscuity&amp;rdquo;. The blog though does not answer this question, as it is difficult to find any answer but the effort is to search for one.&lt;/p&gt;
+      <description>&lt;p&gt;Let me directly cut to the chase. It&amp;rsquo;s been a question which is constantly pestering me from many days. It&amp;rsquo;s a simple question, &amp;ldquo;What is the relation between marriage, love, cheating and promiscuity&amp;rdquo;. The blog though does not answer this question, as it is difficult to find any answer but the effort is to search for one.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Marriage:&lt;/strong&gt;
-Have you ever wondered why one should get married? Well apart from a study which said Cancer survival rates are higher if you are married. Why should one get married? Okay, that&#39;s an entirely unrelated question for this blog.&lt;/p&gt;
+Have you ever wondered why one should get married? Well apart from a study which said Cancer survival rates are higher if you are married. Why should one get married? Okay, that&amp;rsquo;s an entirely unrelated question for this blog.&lt;/p&gt;
 &lt;p&gt;But really, many of us get married without even knowing what marriage is. I mean what are the rules and regulations one should follow after getting married? What is an acceptable behavior and what is unacceptable? Is there a rulebook or some sort of thing?&lt;/p&gt;
-&lt;p&gt;From an evolutionary perspective, human offspring require significant effort and time to ensure that the offspring can survive on it&#39;s own. This could have led to early human ancestors to form some kind of agreement where both of them devote time and effort for the offspring. Any form of sexual activity means within this period means sharing of time and resources thus reducing the survival rate of the offspring.&lt;/p&gt;
+&lt;p&gt;From an evolutionary perspective, human offspring require significant effort and time to ensure that the offspring can survive on it&amp;rsquo;s own. This could have led to early human ancestors to form some kind of agreement where both of them devote time and effort for the offspring. Any form of sexual activity means within this period means sharing of time and resources thus reducing the survival rate of the offspring.&lt;/p&gt;
 &lt;p&gt;This might have made promiscuity an unacceptable behaviour. Promiscuity means that the male has to compete with other male species for continuation of its genes. The female wants the offspring to be stringer so that they have better survival rate. This combined with promiscuity means that only a smaller portion of males being able to transfer their genes to offsprings. As a result there will be lesser genetic diversity being more prone to diseases.&lt;/p&gt;
 &lt;p&gt;This makes sense why we still consider promiscuity and unacceptable behavior. But should cheating be considered unacceptable behavior in the current scenario?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Here we are looking at marriage between any two consenting adults and is not restricted to marriage between a man and a woman.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Love:&lt;/strong&gt;
-Even though much of the argument which applies to marriage applies here, love is different from marriage. Unlike marriage there is no obligation/commitment to raise on offspring. If love is some &amp;ldquo;divine connection between souls always praying for the happiness of the other&amp;rdquo;, where did the concept of cheating come in between. If being sexually active with multiple partners is cheating, then isn&#39;t this love less inclined towards divine soul and more focused on one&#39;s body. I mean a person can be in divine love with you and sexually active with someone else, unless, love has got something to do with sexual freedom. To put it bluntly, if love is finding happiness in the other partner&#39;s happiness then, why am i concerned with what the other person does with their body?&lt;/p&gt;
+Even though much of the argument which applies to marriage applies here, love is different from marriage. Unlike marriage there is no obligation/commitment to raise on offspring. If love is some &amp;ldquo;divine connection between souls always praying for the happiness of the other&amp;rdquo;, where did the concept of cheating come in between. If being sexually active with multiple partners is cheating, then isn&amp;rsquo;t this love less inclined towards divine soul and more focused on one&amp;rsquo;s body. I mean a person can be in divine love with you and sexually active with someone else, unless, love has got something to do with sexual freedom. To put it bluntly, if love is finding happiness in the other partner&amp;rsquo;s happiness then, why am i concerned with what the other person does with their body?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sex Workers and Promiscuity:&lt;/strong&gt;
-Even though it seems that sex workers show promiscuous behavior, the definition might have to be relooked. They are involved in many transient sexual relationships, it&#39;s more of a professional choice than personal. The profession requires them to be in many transient sexual relationships, it might have been a personal choice too. If we consider this as any other profession the societal outlook towards them can be changed eventually considering them also as normal human beings.&lt;/p&gt;
+Even though it seems that sex workers show promiscuous behavior, the definition might have to be relooked. They are involved in many transient sexual relationships, it&amp;rsquo;s more of a professional choice than personal. The profession requires them to be in many transient sexual relationships, it might have been a personal choice too. If we consider this as any other profession the societal outlook towards them can be changed eventually considering them also as normal human beings.&lt;/p&gt;
 </description>
     </item>
     
@@ -1153,15 +1374,23 @@ Even though it seems that sex workers show promiscuous behavior, the definition 
       <guid>https://murthyrudra.github.io/post/trekking/</guid>
       <description>&lt;p&gt;I have recently gained interest in Trekking. Here is a list of trekking spots visited by me and which you should never forget to visit.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tikona&#34;&gt;Tikona Fort&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rajmachi&#34;&gt;Rajmachi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kothaligad&#34;&gt;Kothaligad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sagargad&#34;&gt;Sagargad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Raigad_Fort&#34;&gt;Raigad Fort&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mahuli&#34;&gt;Mahuli Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Tikona&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tikona Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Rajmachi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rajmachi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Kothaligad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kothaligad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Sagargad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sagargad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Raigad_Fort&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raigad Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Mahuli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahuli Fort&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Katraj Sinhagad Night Trek&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Korigad&#34;&gt;Korigad Fort&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kalavantindurg.com/&#34;&gt;Kalavantindurg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Korigad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Korigad Fort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kalavantindurg.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kalavantindurg&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Stay Tuned for more updates&lt;/em&gt;&lt;/p&gt;
 </description>

@@ -22,6 +22,8 @@
 
 
 
+  
+  
 
 
 
@@ -30,11 +32,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;introduction.png&#34; data-caption=&#34;Introductions&#34;&gt;
-&lt;img data-src=&#34;introduction.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-introductions&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Introductions&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3407&#34; height=&#34;1381&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -59,6 +67,8 @@
 
 
 
+  
+  
 
 
 
@@ -67,11 +77,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;birthday.png&#34; data-caption=&#34;Birthday&#34;&gt;
-&lt;img data-src=&#34;birthday.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-birthday&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Birthday&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -88,6 +104,8 @@
 
 
 
+  
+  
 
 
 
@@ -96,11 +114,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;headphone.png&#34; data-caption=&#34;Headphones&#34;&gt;
-&lt;img data-src=&#34;headphone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-headphones&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Headphones&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -117,6 +141,8 @@
 
 
 
+  
+  
 
 
 
@@ -125,11 +151,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;smartphones.png&#34; data-caption=&#34;Smartphones&#34;&gt;
-&lt;img data-src=&#34;smartphones.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-smartphones&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Smartphones&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -146,6 +178,8 @@
 
 
 
+  
+  
 
 
 
@@ -154,11 +188,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;democracy.png&#34; data-caption=&#34;Democracy&#34;&gt;
-&lt;img data-src=&#34;democracy.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure id=&#34;figure-democracy&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Democracy&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3047&#34; height=&#34;728&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -183,6 +223,8 @@
 
 
 
+  
+  
 
 
 
@@ -191,11 +233,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;waiterTip.jpg&#34; &gt;
-&lt;img data-src=&#34;waiterTip.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/tip-waiter/waiterTip_hu33d8f2710ea4928d295bd08cdc05f6eb_5616588_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/tip-waiter/waiterTip_hu33d8f2710ea4928d295bd08cdc05f6eb_5616588_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;27948&#34; height=&#34;7315&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -214,6 +262,8 @@
 
 
 
+  
+  
 
 
 
@@ -222,11 +272,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;typicalMonday.jpg&#34; &gt;
-&lt;img data-src=&#34;typicalMonday.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/monday-conversation/typicalMonday_hu33d8f2710ea4928d295bd08cdc05f6eb_3266754_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/monday-conversation/typicalMonday_hu33d8f2710ea4928d295bd08cdc05f6eb_3266754_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;14995&#34; height=&#34;7795&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -245,6 +301,8 @@
 
 
 
+  
+  
 
 
 
@@ -253,11 +311,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;ai.jpg&#34; &gt;
-&lt;img data-src=&#34;ai.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/ai/ai_hu33d8f2710ea4928d295bd08cdc05f6eb_3373761_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/ai/ai_hu33d8f2710ea4928d295bd08cdc05f6eb_3373761_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;12367&#34; height=&#34;9687&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -276,6 +340,8 @@
 
 
 
+  
+  
 
 
 
@@ -284,11 +350,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;motivation.png&#34; &gt;
-&lt;img data-src=&#34;motivation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;18830&#34; height=&#34;12945&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -307,6 +379,8 @@
 
 
 
+  
+  
 
 
 
@@ -315,11 +389,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;marriage.png&#34; &gt;
-&lt;img data-src=&#34;marriage.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;10154&#34; height=&#34;9753&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -338,6 +418,8 @@
 
 
 
+  
+  
 
 
 
@@ -346,11 +428,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;bo-chans.png&#34; &gt;
-&lt;img data-src=&#34;bo-chans.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7546&#34; height=&#34;10529&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -369,6 +457,8 @@
 
 
 
+  
+  
 
 
 
@@ -377,11 +467,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;souvenirs.jpg&#34; &gt;
-&lt;img data-src=&#34;souvenirs.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/souvenir/souvenirs_hu33d8f2710ea4928d295bd08cdc05f6eb_3794198_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/souvenir/souvenirs_hu33d8f2710ea4928d295bd08cdc05f6eb_3794198_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;9892&#34; height=&#34;10412&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -410,6 +506,8 @@
 
 
 
+  
+  
 
 
 
@@ -418,11 +516,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;please-send-relative.jpg&#34; &gt;
-&lt;img data-src=&#34;please-send-relative.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/relative-visit/please-send-relative_hu33d8f2710ea4928d295bd08cdc05f6eb_3311748_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/relative-visit/please-send-relative_hu33d8f2710ea4928d295bd08cdc05f6eb_3311748_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7818&#34; height=&#34;14094&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -441,6 +545,8 @@
 
 
 
+  
+  
 
 
 
@@ -449,11 +555,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Overthinker.jpg&#34; &gt;
-&lt;img data-src=&#34;Overthinker.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/overthinker/Overthinker_hu33d8f2710ea4928d295bd08cdc05f6eb_2715809_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/overthinker/Overthinker_hu33d8f2710ea4928d295bd08cdc05f6eb_2715809_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;11259&#34; height=&#34;6275&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -472,6 +584,8 @@
 
 
 
+  
+  
 
 
 
@@ -480,11 +594,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;be-careful-what-you-wish-for.jpg&#34; &gt;
-&lt;img data-src=&#34;be-careful-what-you-wish-for.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/be-careful-what-you-wish-for/be-careful-what-you-wish-for_hu33d8f2710ea4928d295bd08cdc05f6eb_783875_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/be-careful-what-you-wish-for/be-careful-what-you-wish-for_hu33d8f2710ea4928d295bd08cdc05f6eb_783875_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7239&#34; height=&#34;1816&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -503,6 +623,8 @@
 
 
 
+  
+  
 
 
 
@@ -511,11 +633,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;Missing-Thursday.jpeg&#34; &gt;
-&lt;img data-src=&#34;Missing-Thursday.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/thursday/Missing-Thursday_hu33d8f2710ea4928d295bd08cdc05f6eb_1069420_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/thursday/Missing-Thursday_hu33d8f2710ea4928d295bd08cdc05f6eb_1069420_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;8966&#34; height=&#34;2460&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -534,6 +662,8 @@
 
 
 
+  
+  
 
 
 
@@ -542,11 +672,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;EarthMoonBreakup.png&#34; &gt;
-&lt;img data-src=&#34;EarthMoonBreakup.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7395&#34; height=&#34;3485&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -565,6 +701,8 @@
 
 
 
+  
+  
 
 
 
@@ -573,11 +711,17 @@
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;IamSorry.png&#34; &gt;
-&lt;img data-src=&#34;IamSorry.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;6405&#34; height=&#34;2440&#34;&gt;
+&lt;/a&gt;
 
 
 
@@ -592,7 +736,15 @@
       <pubDate>Wed, 26 Jun 2019 10:43:02 +0530</pubDate>
       <guid>https://murthyrudra.github.io/post/facebook-user-price/</guid>
       <description>&lt;h4 id=&#34;context&#34;&gt;Context:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&amp;amp;IR=T&#34;&gt;Facebook and Google could be forced to tell you how much your data is worth under new US legislation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&amp;amp;IR=T&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook and Google could be forced to tell you how much your data is worth under new US legislation&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
 
 
 
@@ -604,13 +756,14 @@
 
 
 
+&lt;figure &gt;
 
 
-&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;facebookWorth.png&#34; &gt;
-&lt;img data-src=&#34;facebookWorth.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5254&#34; height=&#34;4324&#34;&gt;
+&lt;/a&gt;
 
 
 

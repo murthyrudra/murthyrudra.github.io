@@ -17,11 +17,11 @@
       <link>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0530</pubDate>
       <guid>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</guid>
-      <description>&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&#39;s NAACL was unlike any other year. The highlight of this year&#39;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&#39;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&#39;t control&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&amp;rsquo;s NAACL was unlike any other year. The highlight of this year&amp;rsquo;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&amp;rsquo;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&amp;rsquo;t control&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I will brief about few of the initiatives taken by the organizing committee here.&lt;/p&gt;
 &lt;h3 id=&#34;a-more-inclusive-conference&#34;&gt;A More Inclusive Conference&lt;/h3&gt;
 &lt;h4 id=&#34;pronouns&#34;&gt;Pronouns&lt;/h4&gt;
-&lt;p&gt;Have you ever bumped into someone and couldn&#39;t figure out how to address them? You don&#39;t know if you should address them by their first name or last name? Someone addresses you by the wrong pronoun? &lt;em&gt;Not to worry, the committee came up with a solution to address this all.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Have you ever bumped into someone and couldn&amp;rsquo;t figure out how to address them? You don&amp;rsquo;t know if you should address them by their first name or last name? Someone addresses you by the wrong pronoun? &lt;em&gt;Not to worry, the committee came up with a solution to address this all.&lt;/em&gt;&lt;/p&gt;
 &lt;h5 id=&#34;conference-badge&#34;&gt;Conference Badge&lt;/h5&gt;
 &lt;p&gt;
 
@@ -36,11 +36,16 @@
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure id=&#34;figure-conference-badge&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;id.jpg&#34; data-caption=&#34;Conference Badge&#34;&gt;
-&lt;img data-src=&#34;id.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;id.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
   
@@ -52,7 +57,8 @@
 
 &lt;/figure&gt;
 
-This year&#39;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&#39;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read &lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+This year&amp;rsquo;s conference badge was different. Apart from your name and your affiliation, the badge had other details too. The first detail of information is your nickname. You can specify your nickname so that it would be easier for people to call you. The next set of information was explicitly mentioning of pronouns you want others to use. So you don&amp;rsquo;t have to worry on what pronouns to use to refer to them. More details on &lt;em&gt;Why Pronouns?&lt;/em&gt; can be read 
+&lt;a href=&#34;https://naacl2019.org/blog/why-pronouns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;gender-neutral-restrooms&#34;&gt;Gender-neutral Restrooms&lt;/h4&gt;
 &lt;p&gt;
 
@@ -67,11 +73,16 @@ This year&#39;s conference badge was different. Apart from your name and your af
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure id=&#34;figure-gender-neutral-restrooms&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;restroom.jpg&#34; data-caption=&#34;Gender Neutral Restrooms&#34;&gt;
-&lt;img data-src=&#34;restroom.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;restroom.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
   
@@ -85,7 +96,7 @@ This year&#39;s conference badge was different. Apart from your name and your af
 
 The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone can use this restrooms irrespective of their gender or identity. If you are not comfortable using gender-neutral restrooms, then not to worry as the venue had regular restrooms too.&lt;/p&gt;
 &lt;h3 id=&#34;quietprayer-rooms&#34;&gt;Quiet/Prayer Rooms&lt;/h3&gt;
-&lt;p&gt;Conferences are usually crowded. You may sometimes feel like you need to go to a quiet place to get away from all the discussions. Or maybe you feel like meditating for a bit. Or maybe it&#39;s your prayer time. This year, the conference venue had a separate &lt;em&gt;Quiet/Prayer Room&lt;/em&gt; for the sole purpose.&lt;/p&gt;
+&lt;p&gt;Conferences are usually crowded. You may sometimes feel like you need to go to a quiet place to get away from all the discussions. Or maybe you feel like meditating for a bit. Or maybe it&amp;rsquo;s your prayer time. This year, the conference venue had a separate &lt;em&gt;Quiet/Prayer Room&lt;/em&gt; for the sole purpose.&lt;/p&gt;
 &lt;h3 id=&#34;childcare&#34;&gt;Childcare&lt;/h3&gt;
 &lt;p&gt;It is stressful to attend a conference and it is more stressful to attend a conference accompanied by your children. The conference had provisions where one can apply for subsidy which could be used to compensate for arranging a childcare provider at the venue or at home. The venue also had two rooms one for &lt;em&gt;nursing&lt;/em&gt; and other for spending time with your kids. Bringing your kids to attend a conference is a pleasurable experience now.&lt;/p&gt;
 &lt;h3 id=&#34;disability-access&#34;&gt;Disability Access&lt;/h3&gt;
@@ -98,7 +109,7 @@ The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone c
 &lt;p&gt;Have you ever missed attending a conference for not being able to get proper funding or denied VISA or other personal factors? Recently, there is growing concern with conferences held in USA about VISA denial. It is very frustrating that you miss out the chance of attending conferences and networking with people. These are some factors which are out of our control. However, the organizing committee decided that there could be something done to ensure that such participants do not miss out the experience of attending the conference. One of the features of the conference was &lt;em&gt;Remote Presentations&lt;/em&gt; and &lt;em&gt;Remote Posters&lt;/em&gt;. One does not have to miss the feeling of not being able to present their work in front of the world.&lt;/p&gt;
 &lt;p&gt;There were occasional issues when it comes to remote presentations, but this is a first step towards more inclusivity. Hopefully, in the coming years you can connect with conference attendees from your home itself and present your work to the world.&lt;/p&gt;
 &lt;h3 id=&#34;whova-app&#34;&gt;Whova App&lt;/h3&gt;
-&lt;p&gt;Are you attending the conference for the first time and are not sure what to do? Just as in earlier conferences, NAACL used Whova app to help attendees connect with each other. You can find out who all are attending the conferences, what are their interests, form groups to go out for lunch and sight-seeing. Even if someone couldn&#39;t be present physically at the conference that person (remember: the deliberate avoidance of using pronouns here) can still connect with others attending the conference via the app.&lt;/p&gt;
+&lt;p&gt;Are you attending the conference for the first time and are not sure what to do? Just as in earlier conferences, NAACL used Whova app to help attendees connect with each other. You can find out who all are attending the conferences, what are their interests, form groups to go out for lunch and sight-seeing. Even if someone couldn&amp;rsquo;t be present physically at the conference that person (remember: the deliberate avoidance of using pronouns here) can still connect with others attending the conference via the app.&lt;/p&gt;
 &lt;p&gt;This year NAACL was a good experience and I enjoyed attending the conference. The conference took a step in being more inclusive and ensured no-one felt left out. The system may not be perfect but a step in the right-direction.&lt;/p&gt;
 &lt;p&gt;Cheers :)&lt;/p&gt;
 </description>
