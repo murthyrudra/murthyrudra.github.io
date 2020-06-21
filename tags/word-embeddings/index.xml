@@ -68,7 +68,7 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
 &lt;li&gt;Mikolov, Tomas; et al. &amp;ldquo;Efficient Estimation of Word Representations in Vector Space&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. &amp;ldquo;Distributed representations of words and phrases and their compositionality.&amp;rdquo; In Advances in neural information processing systems, pp. 3111-3119. 2013.&lt;/li&gt;
 &lt;li&gt;Mikolov, Tomas, Wen-tau Yih, and Geoffrey Zweig. &amp;ldquo;Linguistic regularities in continuous space word representations.&amp;rdquo; In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 746-751. 2013.&lt;/li&gt;
-&lt;li&gt;Goldberg, Yoav, and Omer Levy. &amp;ldquo;word2vec Explained: deriving Mikolov et al.&amp;lsquo;s negative-sampling word-embedding method.&amp;rdquo; arXiv preprint arXiv:1402.3722 (2014).&lt;/li&gt;
+&lt;li&gt;Goldberg, Yoav, and Omer Levy. &amp;ldquo;word2vec Explained: deriving Mikolov et al.&amp;rsquo;s negative-sampling word-embedding method.&amp;rdquo; arXiv preprint arXiv:1402.3722 (2014).&lt;/li&gt;
 &lt;li&gt;Rudolph, Maja, Francisco Ruiz, Stephan Mandt, and David Blei. &amp;ldquo;Exponential family embeddings.&amp;rdquo; In Advances in Neural Information Processing Systems, pp. 478-486. 2016.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
