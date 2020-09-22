@@ -5,12 +5,28 @@
     <link>https://murthyrudra.github.io/authors/pushpak-bhattacharyya/</link>
       <atom:link href="https://murthyrudra.github.io/authors/pushpak-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
     <description>Pushpak Bhattacharyya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pushpak Bhattacharyya</title>
       <link>https://murthyrudra.github.io/authors/pushpak-bhattacharyya/</link>
     </image>
+    
+    <item>
+      <title>Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour</title>
+      <link>https://murthyrudra.github.io/publication/s-2020-happy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/s-2020-happy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking inside Noun Compounds: Unsupervised Prepositional and Free Paraphrasing using Language Models</title>
+      <link>https://murthyrudra.github.io/publication/gpreposition/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/gpreposition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Study of Efficacy of Cross-lingual Word Embeddings for Indian Languages</title>
