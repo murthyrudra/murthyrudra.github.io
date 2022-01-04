@@ -5,12 +5,36 @@
     <link>https://murthyrudra.github.io/</link>
       <atom:link href="https://murthyrudra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 21:50:46 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Rudra Murthy</title>
       <link>https://murthyrudra.github.io/</link>
     </image>
+    
+    <item>
+      <title>Role of Language Relatedness in Multilingual Fine-tuning of Language Models: A Case Study in Indo-Aryan Languages</title>
+      <link>https://murthyrudra.github.io/publication/dhamecha-etal-2021-role/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/dhamecha-etal-2021-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crosslingual Embeddings are Essential in UNMT for distant languages: An English to IndoAryan Case Study</title>
+      <link>https://murthyrudra.github.io/publication/banerjee-etal-2021-crosslingual/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/banerjee-etal-2021-crosslingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrambled Translation Problem: A Problem of Denoising UNMT</title>
+      <link>https://murthyrudra.github.io/publication/banerjee-etal-2021-scrambled/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/banerjee-etal-2021-scrambled/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New Year</title>
@@ -83,10 +107,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/fear/Hackneyed_hu48d60e2f049cc974ecbaefe7e626e133_4617_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/fear/Hackneyed_hu48d60e2f049cc974ecbaefe7e626e133_4617_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/fear/Hackneyed_hu48d60e2f049cc974ecbaefe7e626e133_4617_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;556&#34; height=&#34;288&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/fear/Hackneyed_hu48d60e2f049cc974ecbaefe7e626e133_4617_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;556&#34; height=&#34;288&#34;&gt;
 &lt;/a&gt;
 
 
@@ -101,6 +125,14 @@
       <link>https://murthyrudra.github.io/talk/icon_2020/</link>
       <pubDate>Fri, 18 Dec 2020 10:00:00 +0530</pubDate>
       <guid>https://murthyrudra.github.io/talk/icon_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitively Aided Zero-Shot Automatic Essay Grading</title>
+      <link>https://murthyrudra.github.io/publication/mathias-etal-2020-cognitively/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/mathias-etal-2020-cognitively/</guid>
       <description></description>
     </item>
     
@@ -130,10 +162,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/ideal-time-to-reply/ideal-time-to-reply_huc3b8107d4971e4a9bcb9e8f0d364a28f_1264875_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/ideal-time-to-reply/ideal-time-to-reply_huc3b8107d4971e4a9bcb9e8f0d364a28f_1264875_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/ideal-time-to-reply/ideal-time-to-reply_huc3b8107d4971e4a9bcb9e8f0d364a28f_1264875_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;6403&#34; height=&#34;3843&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/ideal-time-to-reply/ideal-time-to-reply_huc3b8107d4971e4a9bcb9e8f0d364a28f_1264875_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;6403&#34; height=&#34;3843&#34;&gt;
 &lt;/a&gt;
 
 
@@ -169,10 +201,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/i_world_problems/i_world_problems_hu72cdb9ac6e8acdd05a1f8368658cc04b_449833_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/i_world_problems/i_world_problems_hu72cdb9ac6e8acdd05a1f8368658cc04b_449833_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/i_world_problems/i_world_problems_hu72cdb9ac6e8acdd05a1f8368658cc04b_449833_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3273&#34; height=&#34;3179&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/i_world_problems/i_world_problems_hu72cdb9ac6e8acdd05a1f8368658cc04b_449833_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3273&#34; height=&#34;3179&#34;&gt;
 &lt;/a&gt;
 
 
@@ -208,10 +240,10 @@
 &lt;figure id=&#34;figure-questions-on-a-first-date&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/dating-question/dating-questions_hu39fcad4c30f8e103e87b433f8056c844_194352_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Questions on a First Date&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/dating-question/dating-questions_hu39fcad4c30f8e103e87b433f8056c844_194352_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Questions on a First Date&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/dating-question/dating-questions_hu39fcad4c30f8e103e87b433f8056c844_194352_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2956&#34; height=&#34;940&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/dating-question/dating-questions_hu39fcad4c30f8e103e87b433f8056c844_194352_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2956&#34; height=&#34;940&#34;&gt;
 &lt;/a&gt;
 
 
@@ -253,10 +285,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/you-said-something/youSaidSomething_hu2009c17ad52f782ff0a98c2a56cd6c83_148279_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/you-said-something/youSaidSomething_hu2009c17ad52f782ff0a98c2a56cd6c83_148279_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/you-said-something/youSaidSomething_hu2009c17ad52f782ff0a98c2a56cd6c83_148279_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3541&#34; height=&#34;709&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/you-said-something/youSaidSomething_hu2009c17ad52f782ff0a98c2a56cd6c83_148279_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3541&#34; height=&#34;709&#34;&gt;
 &lt;/a&gt;
 
 
@@ -292,10 +324,10 @@
 &lt;figure id=&#34;figure-disney-princess&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/disney_princess/disneyPrince_hu5e4c29693dcfd736da4d4c6f46973a98_608074_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Disney Princess&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/disney_princess/disneyPrince_hu5e4c29693dcfd736da4d4c6f46973a98_608074_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Disney Princess&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/disney_princess/disneyPrince_hu5e4c29693dcfd736da4d4c6f46973a98_608074_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2554&#34; height=&#34;3115&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/disney_princess/disneyPrince_hu5e4c29693dcfd736da4d4c6f46973a98_608074_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2554&#34; height=&#34;3115&#34;&gt;
 &lt;/a&gt;
 
 
@@ -337,10 +369,10 @@
 &lt;figure id=&#34;figure-introductions&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Introductions&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Introductions&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3407&#34; height=&#34;1381&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/introductions/introduction_hu2e96dfe81aa2c4d254c920947d02e845_93630_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3407&#34; height=&#34;1381&#34;&gt;
 &lt;/a&gt;
 
 
@@ -382,10 +414,10 @@
 &lt;figure id=&#34;figure-birthday&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Birthday&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Birthday&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/birthday_huc8baa9152ee4e523eb90bb52dc525716_72394_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
 &lt;/a&gt;
 
 
@@ -419,10 +451,10 @@
 &lt;figure id=&#34;figure-headphones&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Headphones&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Headphones&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/headphone_hu7c36c3f7d18ca868fc3ce501df35a704_96259_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
 &lt;/a&gt;
 
 
@@ -456,10 +488,10 @@
 &lt;figure id=&#34;figure-smartphones&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Smartphones&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Smartphones&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/smartphones_huf04660704afd1cbf5bea96a0dfa5e23d_76338_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2265&#34; height=&#34;541&#34;&gt;
 &lt;/a&gt;
 
 
@@ -493,10 +525,10 @@
 &lt;figure id=&#34;figure-democracy&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Democracy&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_3.png&#34; data-caption=&#34;Democracy&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3047&#34; height=&#34;728&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/definitions/democracy_hu122ebb36859f1d4d87a2b3584e51950a_131140_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3047&#34; height=&#34;728&#34;&gt;
 &lt;/a&gt;
 
 
@@ -671,10 +703,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;18830&#34; height=&#34;12945&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/motivation/motivation_hu50e9b3ab65bb9c32f343270bf949a3e4_4184302_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;18830&#34; height=&#34;12945&#34;&gt;
 &lt;/a&gt;
 
 
@@ -710,10 +742,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;10154&#34; height=&#34;9753&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/marriage/marriage_huefb0ff3f42371f61c6fefa47b43f8faf_2031384_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;10154&#34; height=&#34;9753&#34;&gt;
 &lt;/a&gt;
 
 
@@ -749,10 +781,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7546&#34; height=&#34;10529&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/bo-chans/bo-chans_hu2be2512d8839fd7a091b8576f1744c3e_2715037_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7546&#34; height=&#34;10529&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1018,10 +1050,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7395&#34; height=&#34;3485&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/earth-moon-breakup/EarthMoonBreakup_hudd4b4913358fe4f92f5a5fd2c697770b_1762252_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;7395&#34; height=&#34;3485&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1057,10 +1089,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;6405&#34; height=&#34;2440&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/good-boi/IamSorry_hu8da769eeaa48dedc18085473f063bd8a_646843_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;6405&#34; height=&#34;2440&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1099,10 +1131,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_3.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5254&#34; height=&#34;4324&#34;&gt;
+  &lt;img data-src=&#34;https://murthyrudra.github.io/post/facebook-user-price/facebookWorth_hu875d784c4a08f2ce3d8e40f1cfc13af4_794943_2000x2000_fit_lanczos_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5254&#34; height=&#34;4324&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1121,7 +1153,7 @@
     <item>
       <title>My NAACL 2019 Experience: Part 1</title>
       <link>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/post/naacl-2019-part-1/naacl-2019-part-1/</guid>
       <description>&lt;p&gt;This year I had the opportunity to visit &lt;em&gt;2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt; (also known as NAACL 2019) in Minneapolis, USA. This year&amp;rsquo;s NAACL was unlike any other year. The highlight of this year&amp;rsquo;s conference was focus on &lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;.  The central goal of this committee was to ensure that every NAACL participant &lt;em&gt;feels at home&lt;/em&gt; and does not face any challenges at the conference. The conference also had initiatives for people who couldn&amp;rsquo;t attend the conference for various reasons. The central objective is &lt;em&gt;no one should be left out for factors which they can&amp;rsquo;t control&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I will brief about few of the initiatives taken by the organizing committee here.&lt;/p&gt;
@@ -1224,7 +1256,7 @@ The conference venue had &lt;em&gt;gender neutral restrooms&lt;/em&gt;- anyone c
     <item>
       <title>Intuition Behind Transfer Learning</title>
       <link>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/post/transfer-learning/transfer-learning/</guid>
       <description>&lt;p&gt;Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin with by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example the concept &lt;em&gt;tree&lt;/em&gt;. Instead, we learn the corresponding word used to represent the concept (&lt;em&gt;tree&lt;/em&gt;). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concept in their language. This is what &lt;strong&gt;Transfer Learning&lt;/strong&gt; is all about. &lt;span class=&#34;markup-quote&#34;&gt;Transfer Learning is using knowledge gained from one task to solve a related task.&lt;/span&gt;&lt;/p&gt;
 &lt;h5 id=&#34;definition&#34;&gt;Definition:&lt;/h5&gt;
@@ -1523,99 +1555,99 @@ We will use the trained model and further fine-tune the model on smaller set of 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;Language&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Dataset&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Word Embeddings&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Reference&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;F1 Score&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Language&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Dataset&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Word Embeddings&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Reference&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;F1 Score&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;English&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;English&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://www.clips.uantwerpen.be/conll2003/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2003&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;http://www.pdhillon.com/code.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spectral Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;90.94&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90.94&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Spanish&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spanish&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;85.75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;85.75&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Dutch&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dutch&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;85.20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;85.20&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;German&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;German&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;87.64&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;87.64&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Italian&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Evalita 2009&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Italian&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Evalita 2009&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;75.98&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75.98&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Hindi&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Hindi&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fasttext Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;64.93&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;64.93&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Marathi&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Marathi&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;61.46&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;61.46&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Bengali&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Bengali&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;55.61&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55.61&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Malayalam&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Malayalam&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;64.59&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;64.59&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Tamil&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Tamil&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;65.39&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;65.39&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1628,7 +1660,7 @@ We will use the trained model and further fine-tune the model on smaller set of 
     <item>
       <title>My thoughts on word2vec</title>
       <link>https://murthyrudra.github.io/post/wordvec/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/post/wordvec/</guid>
       <description>&lt;p&gt;If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?&lt;/p&gt;
 &lt;p&gt;Let us consider a &lt;strong&gt;corpus&lt;/strong&gt; as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies. In the case of the corpus, should we choose &lt;strong&gt;words&lt;/strong&gt; as the particle of interest? But the word itself doesn&#39;t signify anything. When we hear a word we implicitly assume a context which helps us in deciphering it&#39;s meaning.&lt;/p&gt;
@@ -1658,21 +1690,21 @@ $$&lt;/p&gt;
 &lt;h2 id=&#34;maximum-likelihood-estimation&#34;&gt;Maximum Likelihood Estimation&lt;/h2&gt;
 &lt;p&gt;Given a dataset $$ D= (w,c)$$ pairs, the goal is to maximize the probability of seeing context given the word &lt;em&gt;i.e,&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;$$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod P(c | w) \\\&lt;br&gt;
-&amp;amp;= \prod \frac{p(c,w)}{p(w)} \\\&lt;br&gt;
-&amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\&lt;br&gt;
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod P(c | w) \\\
+&amp;amp;= \prod \frac{p(c,w)}{p(w)} \\\
+&amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\
 \end{align}$$&lt;/p&gt;
 &lt;p&gt;Substituting the definition of $P(c,w)$ we get,
 $$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\&lt;br&gt;
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\
 &amp;amp;= \prod \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$&lt;/p&gt;
 &lt;p&gt;Taking log-likelihood of the objective gives,
 $$\begin{align}
 \underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;amp;= \log \prod P(c
 | w)
-\\\&lt;br&gt;
-&amp;amp;= \sum \log \frac{p(c,w)}{p(w)} \\\&lt;br&gt;
+\\\
+&amp;amp;= \sum \log \frac{p(c,w)}{p(w)} \\\
 &amp;amp;= \sum \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$
 We have now arrived at the skip-gram definition.&lt;/p&gt;
@@ -1690,7 +1722,7 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
     <item>
       <title>A Study of Efficacy of Cross-lingual Word Embeddings for Indian Languages</title>
       <link>https://murthyrudra.github.io/publication/jyotsna-2019-crosslingual/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/jyotsna-2019-crosslingual/</guid>
       <description></description>
     </item>
@@ -1698,23 +1730,15 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
     <item>
       <title>Addressing word-order Divergence in Multilingual Neural Machine Translationfor extremely Low Resource Languages</title>
       <link>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/dblp-journalscorrabs-1811-00383/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ordering Matters: Word Ordering Aware Unsupervised NMT</title>
-      <link>https://murthyrudra.github.io/publication/banerjee-2019-ordering/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
-      <guid>https://murthyrudra.github.io/publication/banerjee-2019-ordering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
       <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
       <description>&lt;p&gt;The Marathi Named Entity annotated data described in the paper can be downloaded 
 &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -1724,7 +1748,7 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
     <item>
       <title>A Deep Learning Solution to Named Entity Recognition</title>
       <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
       <description></description>
     </item>
@@ -1732,7 +1756,7 @@ We have now arrived at the skip-gram definition.&lt;/p&gt;
     <item>
       <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
       <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
       <description>&lt;p&gt;The Marathi named entity annotated data described in the paper can be downloaded 
 &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -1770,7 +1794,7 @@ Even though it seems that sex workers show promiscuous behavior, the definition 
     <item>
       <title>Identifying Raga Similarity in Hindustani Classical Music through Distributed Representation of Raga Names</title>
       <link>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/ross-2017-identifying-rs/</guid>
       <description></description>
     </item>
@@ -1778,7 +1802,7 @@ Even though it seems that sex workers show promiscuous behavior, the definition 
     <item>
       <title>Trekking</title>
       <link>https://murthyrudra.github.io/post/trekking/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/post/trekking/</guid>
       <description>&lt;p&gt;I had gained interest in Trekking. Here is a list of trekking spots visited by me and which you should never forget to visit.&lt;/p&gt;
 &lt;ul&gt;
@@ -1831,7 +1855,7 @@ weight = 4&lt;/p&gt;
     <item>
       <title>Unsupervised most frequent sense detection using word embeddings</title>
       <link>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/bhingardive-2015-unsupervised/</guid>
       <description></description>
     </item>

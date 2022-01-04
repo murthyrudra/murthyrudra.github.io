@@ -7,7 +7,7 @@
     <description>named entity recognition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Feb 2019 22:34:35 +0530</lastBuildDate>
     <image>
-      <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>named entity recognition</title>
       <link>https://murthyrudra.github.io/tags/named-entity-recognition/</link>
     </image>
@@ -24,99 +24,99 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;Language&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Dataset&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Word Embeddings&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Reference&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;F1 Score&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Language&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Dataset&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Word Embeddings&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Reference&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;F1 Score&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;English&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;English&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://www.clips.uantwerpen.be/conll2003/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2003&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;http://www.pdhillon.com/code.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spectral Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;90.94&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90.94&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Spanish&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spanish&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;85.75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;85.75&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Dutch&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Dutch&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://www.clips.uantwerpen.be/conll2002/ner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoNLL 2002&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;85.20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;85.20&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;German&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;German&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://nlpado.de/~sebastian/software/ner_german.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1607.00198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;87.64&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;87.64&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Italian&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Evalita 2009&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Spectral Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Italian&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Evalita 2009&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Spectral Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;75.98&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75.98&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Hindi&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Hindi&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fasttext Embeddings&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;64.93&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;64.93&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Marathi&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Marathi&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;61.46&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;61.46&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Bengali&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Bengali&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;55.61&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55.61&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Malayalam&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Malayalam&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;64.59&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;64.59&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Tamil&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;FIRE 2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Tamil&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FIRE 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Fasttext Embeddings&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
 &lt;a href=&#34;https://murthyrudra.github.io/publication/p-18-2064/&#34;&gt;ACL 2018 Paper&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;65.39&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;65.39&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -129,7 +129,7 @@
     <item>
       <title>Improving NER Tagging Performance in Low-Resource Languages via Multilingual Learning</title>
       <link>https://murthyrudra.github.io/publication/low-resource-tallip/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/low-resource-tallip/</guid>
       <description>&lt;p&gt;The Marathi Named Entity annotated data described in the paper can be downloaded 
 &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -139,7 +139,7 @@
     <item>
       <title>A Deep Learning Solution to Named Entity Recognition</title>
       <link>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/rudra-etal-cicling-16/</guid>
       <description></description>
     </item>
@@ -147,7 +147,7 @@
     <item>
       <title>Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER</title>
       <link>https://murthyrudra.github.io/publication/p-18-2064/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/p-18-2064/</guid>
       <description>&lt;p&gt;The Marathi named entity annotated data described in the paper can be downloaded 
 &lt;a href=&#34;http://www.cfilt.iitb.ac.in/ner/download_data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;

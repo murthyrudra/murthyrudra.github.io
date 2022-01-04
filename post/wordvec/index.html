@@ -216,8 +216,8 @@ Let us consider a corpus as some closed system. We care only about the particles
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://murthyrudra.github.io/post/wordvec/">
 
@@ -239,13 +239,13 @@ Let us consider a corpus as some closed system. We care only about the particles
   <meta property="og:url" content="https://murthyrudra.github.io/post/wordvec/">
   <meta property="og:title" content="My thoughts on word2vec | Rudra Murthy">
   <meta property="og:description" content="If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?
-Let us consider a corpus as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies."><meta property="og:image" content="https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+Let us consider a corpus as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies."><meta property="og:image" content="https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-02-03T00:00:00&#43;05:30">
+      <meta property="article:published_time" content="2019-02-03T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-02-03T00:00:00&#43;05:30">
+    <meta property="article:modified_time" content="2019-02-03T00:00:00&#43;00:00">
   
 
   
@@ -273,8 +273,8 @@ Let us consider a corpus as some closed system. We care only about the particles
   },
   "headline": "My thoughts on word2vec",
   
-  "datePublished": "2019-02-03T00:00:00+05:30",
-  "dateModified": "2019-02-03T00:00:00+05:30",
+  "datePublished": "2019-02-03T00:00:00Z",
+  "dateModified": "2019-02-03T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -286,7 +286,7 @@ Let us consider a corpus as some closed system. We care only about the particles
     "name": "Rudra Murthy",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "If language is a medium of communication then words are symbols of communication. Words represent some concepts which when agreed upon by both the parties involved, make the information conveyed unambiguously. How do these words behave? Can we somehow model the behaviour of words?\nLet us consider a corpus as some closed system. We care only about the particles inside this closed system and not about any outside influence. In thermodynamics, the particles of interest are molecules and their kinetic energies."
@@ -716,21 +716,21 @@ $$</p>
 <h2 id="maximum-likelihood-estimation">Maximum Likelihood Estimation</h2>
 <p>Given a dataset $$ D= (w,c)$$ pairs, the goal is to maximize the probability of seeing context given the word <em>i.e,</em></p>
 <p>$$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \prod P(c | w) \\\<br>
-&amp;= \prod \frac{p(c,w)}{p(w)} \\\<br>
-&amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\<br>
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \prod P(c | w) \\\
+&amp;= \prod \frac{p(c,w)}{p(w)} \\\
+&amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\
 \end{align}$$</p>
 <p>Substituting the definition of $P(c,w)$ we get,
 $$\begin{align}
-\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\<br>
+\underset{\theta}{\text{maximize}} \mathcal{L} (D) &amp;= \prod \frac{p(c,w)}{\sum_{k}p(k,w)} \\\
 &amp;= \prod \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$</p>
 <p>Taking log-likelihood of the objective gives,
 $$\begin{align}
 \underset{\theta}{\text{maximize}} \mathcal{\hat{L}} (D) &amp;= \log \prod P(c
 | w)
-\\\<br>
-&amp;= \sum \log \frac{p(c,w)}{p(w)} \\\<br>
+\\\
+&amp;= \sum \log \frac{p(c,w)}{p(w)} \\\
 &amp;= \sum \log \frac{\exp^{c^Tw}}{\sum_{k} \exp^{k^Tw}}
 \end{align}$$
 We have now arrived at the skip-gram definition.</p>
@@ -1110,7 +1110,7 @@ We have now arrived at the skip-gram definition.</p>
     
     
     
-    <script src="/js/academic.min.c816d323c3a55093dae0829b44ea1ca8.js"></script>
+    <script src="/js/academic.min.6f1005d1a84220e2f466ff3d8e712f31.js"></script>
 
     
 
