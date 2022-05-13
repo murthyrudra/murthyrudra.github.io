@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | Rudra Murthy</title>
-    <link>https://murthyrudra.github.io/publication_types/0/</link>
-      <atom:link href="https://murthyrudra.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
-    <description>0</description>
+    <title>Rahul Sharnagat | Rudra Murthy</title>
+    <link>https://murthyrudra.github.io/authors/rahul-sharnagat/</link>
+      <atom:link href="https://murthyrudra.github.io/authors/rahul-sharnagat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rahul Sharnagat</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>0</title>
-      <link>https://murthyrudra.github.io/publication_types/0/</link>
+      <title>Rahul Sharnagat</title>
+      <link>https://murthyrudra.github.io/authors/rahul-sharnagat/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2204-13743/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2204-13743/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Study of Efficacy of Cross-lingual Word Embeddings for Indian Languages</title>
-      <link>https://murthyrudra.github.io/publication/jyotsna-2019-crosslingual/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://murthyrudra.github.io/publication/jyotsna-2019-crosslingual/</guid>
       <description></description>
     </item>
     
