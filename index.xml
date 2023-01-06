@@ -5,7 +5,7 @@
     <link>https://murthyrudra.github.io/</link>
       <atom:link href="https://murthyrudra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rudra Murthy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Dec 2022 15:00:00 +0530</lastBuildDate>
     <image>
       <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Rudra Murthy</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Code-Mixing Phenomenon: An Achilles&#39; heel for Language Models?</title>
+      <link>https://murthyrudra.github.io/talk/icrnlp_2022/</link>
+      <pubDate>Sun, 18 Dec 2022 15:00:00 +0530</pubDate>
+      <guid>https://murthyrudra.github.io/talk/icrnlp_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HiNER: A Large Hindi Named Entity Recognition Dataset</title>
       <link>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2204-13743/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2204-13743/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naamapadam: A Large-Scale Named Entity Annotated Data for Indic Languages</title>
+      <link>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2212-10168/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2212-10168/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Measures of Bridging Lexical Divergence Help Unsupervised Neural Machine Translation for Low-Resource Languages</title>
+      <link>https://murthyrudra.github.io/publication/10-1007-s-10590-021-09292-y/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/10-1007-s-10590-021-09292-y/</guid>
       <description></description>
     </item>
     

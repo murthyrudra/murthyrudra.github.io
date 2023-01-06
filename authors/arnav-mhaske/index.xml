@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnav Mhaske | Rudra Murthy</title>
+    <link>https://murthyrudra.github.io/authors/arnav-mhaske/</link>
+      <atom:link href="https://murthyrudra.github.io/authors/arnav-mhaske/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arnav Mhaske</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://murthyrudra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Arnav Mhaske</title>
+      <link>https://murthyrudra.github.io/authors/arnav-mhaske/</link>
+    </image>
+    
+    <item>
+      <title>Naamapadam: A Large-Scale Named Entity Annotated Data for Indic Languages</title>
+      <link>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2212-10168/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://murthyrudra.github.io/publication/https-doi-org-10-48550-arxiv-2212-10168/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
