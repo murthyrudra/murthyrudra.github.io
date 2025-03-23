@@ -3,7 +3,7 @@
 
 title: "Code-Mixing Phenomenon: An Achilles' heel for Language Models?"
 event: "Workshop on Indian Code-mixed and Low-resource Natural Language Processing (ICLrNLP)"
-event_url: "https://lcs2.in/ICLrNLP-2022/"
+event_url: ""
 location: "IIIT Delhi"
 address:
   street:

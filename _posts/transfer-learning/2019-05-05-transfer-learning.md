@@ -32,7 +32,7 @@ Now, let me quote the Wikipedia definition for [Transfer Learning](https://en.wi
 
 In the field of Natural Language Processing (NLP), transfer learning can take the form of multi-task learning or multilingual learning. Multi-task learning refers to using knowledge from one task to improve performance in a related task in the same language. For example, sentiment analysis helping emotion analysis. Similarly, multilingual learning refers to using knowledge from a task in one language to improve performance in a related task in another language language. Usually in multilingual learning, we focus on the case where the tasks are the same in both the languages.
 
-In this post, I won't be going into the details of Transfer Learning. Sebastian Ruder's blog post on [Transfer Learning](http://ruder.io/transfer-learning/) summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.
+In this post, I won't be going into the details of Transfer Learning. Sebastian Ruder's blog post on Transfer Learning summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.
 
 ### Transfer Learning: A Strong Prior Distribution Over Models
 _Zoph et.al 2016_ quotes in his paper titled **Transfer Learning for Low-Resource Neural Machine Translation**:
