@@ -123,7 +123,7 @@ X_rad = X * np.pi / 180
 # Get the corresponding cosine values for the inputs
 Y = np.sin(X_rad)
 ```
-The training points for sine function is ![sine](sine.png) and the curve fit by the model is ![sine-predicted]({{ site.baseurl }}/assets/img/sine-predicted.png)
+The training points for sine function is ![sine]({{ site.baseurl }}/assets/img/sine.png) and the curve fit by the model is ![sine-predicted]({{ site.baseurl }}/assets/img/sine-predicted.png)
 We will use the trained model and further fine-tune the model on smaller set of points for the cosine function. The resulting fitted curve looks as below ![cosine-transfer]({{ site.baseurl }}/assets/img/cosine-transfer.png)
 
 
