@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 
 title: "Marriage and Promiscuity"
 subtitle: ""

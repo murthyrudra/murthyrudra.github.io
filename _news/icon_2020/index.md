@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 
 title: "Unsupervised Machine Translation Tutorial at ICON 2020"
 event: "ICON 2020"

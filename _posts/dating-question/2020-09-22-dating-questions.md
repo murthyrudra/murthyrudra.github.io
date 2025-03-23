@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 
 title: "Questions on a First Date"
 subtitle: ""

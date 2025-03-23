@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 
 title: "Indian Language Computing: SIKER 2023"
 event: "SIKER2023: School on Indian Knowledge System and Engineering System"

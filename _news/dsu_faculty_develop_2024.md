@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 
 title: "Information Retrieval"
 event: "Generative AI & Prompt Engineering: Faculty Development Program 2024"

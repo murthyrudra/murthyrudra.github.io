@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 
 title: "Chirp: Geo-Aware Chat app for Android with Automatic Translation Support"
 summary: ""
