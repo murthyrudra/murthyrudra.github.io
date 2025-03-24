@@ -1,12 +1,10 @@
 ---
-
-
 title: "Be Careful What You Wish For"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-07-22T12:44:59+05:30
 lastmod: 2019-07-22T12:44:59+05:30
 featured: false
@@ -27,6 +25,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
 
 ![Be Careful What You wish for]({{ site.baseurl }}/assets/img/be-careful-what-you-wish-for.jpg)

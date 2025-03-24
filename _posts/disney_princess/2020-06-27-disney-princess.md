@@ -1,12 +1,10 @@
 ---
-
-
 title: "Disney Princess"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2020-06-27T00:26:49+05:30
 lastmod: 2020-06-27T00:26:49+05:30
 featured: false
@@ -27,6 +25,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
 
 ![Disney Princess]({{ site.baseurl }}/assets/img/disneyPrince.png)

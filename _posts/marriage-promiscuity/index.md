@@ -1,6 +1,4 @@
 ---
-
-
 title: "Marriage and Promiscuity"
 subtitle: ""
 summary: ""
@@ -28,11 +26,9 @@ image:
 projects: []
 ---
 
-
 Let me directly cut to the chase. It's been a question which is constantly pestering me from many days. It's a simple question, "What is the relation between marriage, love, cheating and promiscuity". The blog though does not answer this question, as it is difficult to find any answer but the effort is to search for one.
 
-
-**Marriage:** 
+**Marriage:**
 Have you ever wondered why one should get married? Well apart from a study which said Cancer survival rates are higher if you are married. Why should one get married? Okay, that's an entirely unrelated question for this blog.
 
 But really, many of us get married without even knowing what marriage is. I mean what are the rules and regulations one should follow after getting married? What is an acceptable behavior and what is unacceptable? Is there a rulebook or some sort of thing?

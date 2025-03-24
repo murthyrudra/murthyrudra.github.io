@@ -1,12 +1,10 @@
 ---
-
-
 title: "Fear"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2020-12-18T18:42:57+05:30
 lastmod: 2020-12-18T18:42:57+05:30
 featured: false
@@ -29,4 +27,3 @@ projects: []
 ---
 
 ![Hackneyed]({{ site.baseurl }}/assets/img/Hackneyed.png)
-

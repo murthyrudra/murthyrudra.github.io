@@ -1,12 +1,10 @@
 ---
-
-
 title: "Questions on a First Date"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2020-09-22T17:05:42+05:30
 lastmod: 2020-09-22T17:05:42+05:30
 featured: false

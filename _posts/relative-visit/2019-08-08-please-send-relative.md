@@ -1,12 +1,10 @@
 ---
-
-
 title: "Relative Visit"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-08-08T14:25:35+05:30
 lastmod: 2019-08-08T14:25:35+05:30
 featured: false
@@ -29,5 +27,3 @@ projects: []
 ---
 
 ![please-send-relative]({{ site.baseurl }}/assets/img/please-send-relative.jpg)
-
-

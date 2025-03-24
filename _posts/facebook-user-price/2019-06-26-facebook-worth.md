@@ -1,12 +1,10 @@
 ---
-
-
 title: "Facebook Reveals Value of User's data"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-06-26T10:43:02+05:30
 lastmod: 2019-06-26T10:43:02+05:30
 featured: false
@@ -29,14 +27,13 @@ projects: []
 ---
 
 #### Context:
-[Facebook and Google could be forced to tell you how much your data is worth under new US legislation](https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&IR=T)
 
+[Facebook and Google could be forced to tell you how much your data is worth under new US legislation](https://www.businessinsider.com/facebook-and-google-could-reveal-value-of-data-2019-6?r=US&IR=T)
 
 ![facebookWorth]({{ site.baseurl }}/assets/img/facebookWorth.png)
 
-
 ##### Acknowledgements
-The avatar was drawn using Inkscape. I would like to thank **Sids Art - Inkscape And Drawings** for the nice YouTube tutorial:  
+
+The avatar was drawn using Inkscape. I would like to thank **Sids Art - Inkscape And Drawings** for the nice YouTube tutorial:
 
 [![YouTube Tutorial](https://img.youtube.com/vi/L9cVUTrXPMw/0.jpg)](https://www.youtube.com/watch?v=L9cVUTrXPMw)
-

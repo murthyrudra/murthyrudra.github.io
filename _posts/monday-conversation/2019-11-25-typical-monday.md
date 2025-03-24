@@ -1,12 +1,10 @@
 ---
-
-
 title: "Monday Conversation"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-11-25T21:58:59+05:30
 lastmod: 2019-11-25T21:58:59+05:30
 featured: false
@@ -29,5 +27,3 @@ projects: []
 ---
 
 ![typicalMonday]({{ site.baseurl }}/assets/img/typicalMonday.jpg)
-
-

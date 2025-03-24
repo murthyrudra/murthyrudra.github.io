@@ -1,12 +1,10 @@
 ---
-
-
 title: "Motivation"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-11-06T13:35:57+05:30
 lastmod: 2019-11-06T13:35:57+05:30
 featured: false
@@ -29,4 +27,3 @@ projects: []
 ---
 
 ![motivation]({{ site.baseurl }}/assets/img/motivation.png)
-

@@ -1,12 +1,10 @@
 ---
-
-
 title: "Introductions"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2020-02-20T11:46:25+05:30
 lastmod: 2020-02-20T11:46:25+05:30
 featured: false
@@ -29,5 +27,3 @@ projects: []
 ---
 
 ![Introductions]({{ site.baseurl }}/assets/img/introduction.png)
-
-

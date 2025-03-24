@@ -22,10 +22,10 @@ caption = ""
 discussionId = 4
 +++
 
-Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example, the concept _tree_. Instead, we learn the corresponding word used to represent the concept (_tree_). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concepts in their language. This is what **Transfer Learning** is all about.  **Transfer Learning is using knowledge gained from one task to solve a related task.**
-
+Some of us are really excited about the prospect of learning a new language. Unlike in regular language classes, we begin by learning the vocabulary. We ask for translations of real-world objects and day-to-day activities. We do not try to learn already known concepts, for example, the concept _tree_. Instead, we learn the corresponding word used to represent the concept (_tree_). This is different from how children first learn a language. We need to teach them concepts and also the symbols to represent those concepts in their language. This is what **Transfer Learning** is all about. **Transfer Learning is using knowledge gained from one task to solve a related task.**
 
 ##### Definition:
+
 Now, let me quote the Wikipedia definition for [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning),
 
 > Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognise cars could apply when trying to recognise trucks. This area of research bears some relation to the long history of psychological literature on transfer of learning, although formal ties between the two fields are limited.
@@ -35,18 +35,20 @@ In the field of Natural Language Processing (NLP), transfer learning can take th
 In this post, I won't be going into the details of Transfer Learning. Sebastian Ruder's blog post on Transfer Learning summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.
 
 ### Transfer Learning: A Strong Prior Distribution Over Models
+
 _Zoph et.al 2016_ quotes in his paper titled **Transfer Learning for Low-Resource Neural Machine Translation**:
 
 > A justification for this approach is that in scenarios where we have limited training data, we need a strong prior distribution over models. The parent model trained on a large amount of bilingual data can be considered an anchor point, the peak of our prior distribution in model space. When we train the child model initialised with the parent model, we fix parameters likely to be useful across tasks so that they will not be changed during child-model training.
 
 ### Supervised Learning as Curve Fitting
+
 The goal of supervised learning can be thought of as fitting a curve (function) given some data points _i.e.,_ $y = f(x)$. Learn the function $f$, given input values $x$ and corresponding output values $y$. If we had $y$ for every point in the input space, we can fit the curve exactly. This is not the case in real-life scenarios. We usually get to collect a subset of measurements $y$ for some sample of points $x$ in the input space. The measurements $y$ obtained might be noisy. As a consequence, there are many possible functions which can fit the data well. The problem reduces to **search**, where the goal is to find a function which fits the data.
 
 There are situations, where we rarely get to collect observations. The collected observations may not be indicative of the actual function to be learnt. Supervised learning fails badly in these cases. If we have a related task with abundant data points, we can train the supervised model on this auxiliary task. Now when we fine-tune the auxiliary task model on the actual task data, the model is already restricted in the function space. The search now proceeds to find a suitable function to fit the actual task data in the neighbourhood.
 
 #### Fitting a Cosine Function
-Let us demonstrate this intuition with a toy example. Consider the task of fitting a **Cosine** function. We will use a deep feed-forward neural network for this purpose. We will first generate a set of data points and plot the curve.
 
+Let us demonstrate this intuition with a toy example. Consider the task of fitting a **Cosine** function. We will use a deep feed-forward neural network for this purpose. We will first generate a set of data points and plot the curve.
 
 ```python
 # We will generate 200 random points from 0 to 720
@@ -58,12 +60,14 @@ Y = np.cos(X_rad)
 ```
 
 The following figure plots the generated data points ![cosine]({{ site.baseurl }}/assets/img/cosine.png) We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.
+
 ```python
 X_small = X_rad[:20]
 Y_small = Y[:20]
 ```
 
 The reduced set of data points leads to the following plot ![cosine-small]({{ site.baseurl }}/assets/img/cosine-small.png) Before proceeding further, let us define the deep learning model.
+
 ```python
 class CurveFitter(nn.Module):
 
@@ -100,6 +104,7 @@ class CurveFitter(nn.Module):
 
 		return self.mse_loss(result, y)
 ```
+
 Let us instantiate the model and use _Adam_ optimizer to train the model.
 
 ```python
@@ -107,6 +112,7 @@ torch.manual_seed(9899999)
 network_cos = CurveFitter(1, 1, 200 )
 optim_alg_cos = Adam(network_cos.parameters(), lr=0.001)
 ```
+
 Training the above model on the smaller set of points leads to the following curve ![cosine-supervised]({{ site.baseurl }}/assets/img/cosine-supervised.png)
 
 As observed, the model does well in areas where sufficient data is present. However, on the rightmost region where we have only one data point the model does poorly on fitting the curve.
@@ -123,19 +129,18 @@ X_rad = X * np.pi / 180
 # Get the corresponding cosine values for the inputs
 Y = np.sin(X_rad)
 ```
+
 The training points for sine function is ![sine]({{ site.baseurl }}/assets/img/sine.png) and the curve fit by the model is ![sine-predicted]({{ site.baseurl }}/assets/img/sine-predicted.png)
 We will use the trained model and further fine-tune the model on smaller set of points for the cosine function. The resulting fitted curve looks as below ![cosine-transfer]({{ site.baseurl }}/assets/img/cosine-transfer.png)
-
 
 Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe _Zoph et.al 2016_ meant when they said that ** the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large. **
 
 #### Initialization
-Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves ![cosine-rand]({{ site.baseurl }}/assets/img/cosine-rand.gif) However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.
 
+Also, the initialization of the deep learning model plays a crucial role. For different randomly initializations, model before training on the data fits the following curves ![cosine-rand]({{ site.baseurl }}/assets/img/cosine-rand.gif) However, as seen earlier the transfer learning model has learnt the sine function. When we fine-tune the model searching for the cosine function becomes easier compared to randomly initialized models.
 
 The benefits might not be apparent in the toy example chosen. However, for very complex non-linear functions the benefits from transfer learning becomes clearer.
 
-
 #### References
 
-* Barret Zoph, Deniz Yuret, Jonathan May, and Kevin Knight. _Transfer Learning for Low-Resource Neural Machine Translation_. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, EMNLP 2016.
+- Barret Zoph, Deniz Yuret, Jonathan May, and Kevin Knight. _Transfer Learning for Low-Resource Neural Machine Translation_. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, EMNLP 2016.

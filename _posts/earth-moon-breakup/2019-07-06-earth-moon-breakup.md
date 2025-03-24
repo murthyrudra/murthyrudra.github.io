@@ -1,12 +1,10 @@
 ---
-
-
 title: "A Break-up of Astronomical Proportion!"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-07-06T10:42:48+05:30
 lastmod: 2019-07-06T10:42:48+05:30
 featured: false
@@ -29,4 +27,3 @@ projects: []
 ---
 
 ![EarthMoonBreakup]({{ site.baseurl }}/assets/img/EarthMoonBreakup.png)
-

@@ -1,12 +1,10 @@
 ---
-
-
 title: "Ideal Time to Reply"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2020-11-24T17:10:15+05:30
 lastmod: 2020-11-24T17:10:15+05:30
 featured: false
@@ -28,7 +26,4 @@ image:
 projects: []
 ---
 
-
 ![ideal-time-to-reply]({{ site.baseurl }}/assets/img/ideal-time-to-reply.png)
-
-

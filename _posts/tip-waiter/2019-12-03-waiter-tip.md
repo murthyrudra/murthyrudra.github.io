@@ -1,12 +1,10 @@
 ---
-
-
 title: "Tips for Waiter"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-12-03T23:13:24+05:30
 lastmod: 2019-12-03T23:13:24+05:30
 featured: false
@@ -29,4 +27,3 @@ projects: []
 ---
 
 ![waiterTip]({{ site.baseurl }}/assets/img/waiterTip.jpg)
-

@@ -1,12 +1,10 @@
 ---
-
-
 title: "Definitions"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2020-02-18T19:40:28+05:30
 lastmod: 2020-02-18T19:40:28+05:30
 featured: false

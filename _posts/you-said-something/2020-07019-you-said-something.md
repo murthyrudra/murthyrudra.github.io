@@ -1,12 +1,10 @@
 ---
-
-
 title: "You Said Something"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2020-07-19T19:03:57+05:30
 lastmod: 2020-07-19T19:03:57+05:30
 featured: false
@@ -28,6 +26,4 @@ image:
 projects: []
 ---
 
-
 ![youSaidSomething]({{ site.baseurl }}/assets/img/youSaidSomething.png)
-

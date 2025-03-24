@@ -1,12 +1,10 @@
 ---
-
-
 title: "The Overthinker"
 subtitle: ""
 summary: ""
 authors: []
-tags: ['Webcomics']
-categories: ['Webcomics']
+tags: ["Webcomics"]
+categories: ["Webcomics"]
 date: 2019-07-29T20:34:46+05:30
 lastmod: 2019-07-29T20:34:46+05:30
 featured: false
@@ -29,5 +27,3 @@ projects: []
 ---
 
 ![Overthinker]({{ site.baseurl }}/assets/img/Overthinker.jpg)
-
-
