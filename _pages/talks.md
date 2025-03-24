@@ -17,6 +17,7 @@ pagination:
 ---
 
 {% for talk in paginator.posts %}
+
   <div class="talk">
     <h2>{{ talk.title }}</h2>
     <p>{{ talk.date | date: "%B %d, %Y" }}</p>

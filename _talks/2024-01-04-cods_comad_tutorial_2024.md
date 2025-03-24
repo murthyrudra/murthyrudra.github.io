@@ -9,13 +9,10 @@ location: "Dayananda Sagar University"
 
 abstract: This tutorial covers the hallucination phenomenon observed in generative AI models like autoregressive models and sequence-to-sequence models. The tutorial also provides a bird's eye-view of the approaches to mitigate hallcuinations.
 
-authors:
-  Ashish Mittal
+authors: Ashish Mittal
   Rudra Murthy
   Vishwajeet Kumar
   Riyaz Bhat
 
-tags:
-  hallucination
-
+tags: hallucination
 ---

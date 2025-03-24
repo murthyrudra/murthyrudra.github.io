@@ -6,9 +6,6 @@ layout: talk
 event: "Generative AI & Prompt Engineering: Faculty Development Program 2024"
 location: "Dayananda Sagar University"
 
-authors:
-  Rudra Murthy
-tags:
-  information-retrieval
-
+authors: Rudra Murthy
+tags: information-retrieval
 ---
