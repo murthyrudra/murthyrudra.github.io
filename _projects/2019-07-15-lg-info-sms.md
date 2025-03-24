@@ -1,6 +1,4 @@
 ---
-
-
 title: "Information Extraction on SMS related to LG products"
 summary: ""
 authors: []

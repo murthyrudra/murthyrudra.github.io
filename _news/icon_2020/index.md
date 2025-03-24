@@ -1,6 +1,4 @@
 ---
-
-
 title: "Unsupervised Machine Translation Tutorial at ICON 2020"
 event: "ICON 2020"
 event_url: "https://www.iitp.ac.in/~ai-nlp-ml/icon2020/tutorials_workshops.html"
@@ -30,7 +28,7 @@ tags: ["unsupervised machine translation"]
 featured: true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""

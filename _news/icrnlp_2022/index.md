@@ -1,6 +1,4 @@
 ---
-
-
 title: "Code-Mixing Phenomenon: An Achilles' heel for Language Models?"
 event: "Workshop on Indian Code-mixed and Low-resource Natural Language Processing (ICLrNLP)"
 event_url: ""
@@ -29,7 +27,7 @@ tags: ["code-mixing"]
 featured: true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""

@@ -1,6 +1,4 @@
 ---
-
-
 title: "Information Retrieval"
 event: "Generative AI & Prompt Engineering: Faculty Development Program 2024"
 event_url: ""
@@ -11,7 +9,7 @@ address:
   region:
   postcode:
   country:
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,7 +27,7 @@ tags: ["information-retrieval"]
 featured: true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
