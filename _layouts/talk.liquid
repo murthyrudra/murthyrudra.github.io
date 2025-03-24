@@ -1,0 +1,49 @@
+---
+layout: default
+---
+{% if page._styles %}
+<!-- Page/Post style -->
+<style type="text/css">
+    {
+            {
+            page._styles
+        }
+    }
+</style>
+{% endif %}
+
+<div class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <p class="post-description">{{ page.description }}</p>
+        <h4 class="event" style="font-size: 1.1rem; font-weight: bold; color: #0077cc; margin: 10px 0; text-align: center;">
+        {{ page.event }}
+        </h4>
+        <h4 class="location" style="font-size: 1.1rem; color: #888; margin: 10px 0; text-align: center;">
+        {{ page.location }}
+        </h4>
+
+    
+        <!-- Display the Authors -->
+        {% if page.authors %}
+        <p><strong>Authors:</strong> {{ page.authors | join: ", " }}</p>
+        {% else %}
+        <p><strong>Authors:</strong> Not listed</p>
+        {% endif %}
+
+        <!-- Display the Abstract -->
+        {% if page.abstract %}
+        <section class="abstract">
+            <h2>Abstract</h2>
+            <p>{{ page.abstract }}</p>
+        </section>
+        {% else %}
+        <p>No abstract available.</p>
+        {% endif %}
+  </header>
+
+    
+    {% if site.giscus and page.giscus_comments %}
+    {% include giscus.liquid %}
+    {% endif %}
+</div>
