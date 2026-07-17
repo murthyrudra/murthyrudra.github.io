@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="js/publications-data.js"></script>
-    <script src="js/bibtex-parser.js"></script>
 </head>
 
 <body>
@@ -36,16 +35,20 @@
     </nav>
 
     <main class="container">
-        <section>
+        <section class="page-intro">
+            <p class="section-kicker">Research library</p>
             <h2>Publications</h2>
-            <p>My research focuses on Natural Language Processing for low-resource languages, particularly Indic
-                languages, using multilingual learning approaches. </p>
+            <p>Work on multilingual NLP, language models, information retrieval, and low-resource languages.</p>
         </section>
 
-        <section>
-            <h3>Publications</h3>
+        <section class="publication-explorer" aria-label="Publication explorer">
+            <div class="publication-tools">
+                <label class="visually-hidden" for="publication-search">Search publications</label>
+                <input id="publication-search" type="search" placeholder="Search title, author, venue, or year">
+                <p id="publication-count" aria-live="polite"></p>
+            </div>
             <div id="publications-container">
-                <p>Loading publications...</p>
+                <p>Loading publications…</p>
             </div>
         </section>
     </main>
@@ -58,6 +61,7 @@
     </footer>
 
     <script src="js/script.js"></script>
+    <script src="js/publications.js"></script>
 </body>
 
 </html>
